@@ -1,0 +1,331 @@
+[
+    {
+        "id": "Asnovaventurasdegaspazinho",
+        "display": false,
+		"channel": ["fk"],
+        "name": "As Novas Aventuras de Gasparzinho",
+        "description": "Gasparzinho voltou para novas e divertidas aventuras. Mesmo que ainda assuste algumas pessoas, que não o conhecem de verdade, o que ele mais quer é ficar logo amigo de todos, para muita diversão. Porque essa história de morrer de medo de fantasma, com o Gasparzinho não funciona não... Alguém duvida?",
+        "copyrigth": "Toei Animation",
+        "icon": "https://www.themoviedb.org/t/p/original/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+    {
+        "id": "Digimon-1",
+        "name": "Digimon",
+		"category": "anime",
+        "display": true,
+		"channel": ["fk","jetix"],
+        "description": "Sete crianças, em seu acampamento de verão, são transportadas repentinamente por 'digi-vices' para um mundo colorido e enigmático. Perdidos e sozinhos, eles fazem amizade com pequenos monstros digitais, os Digimons. As crianças e os Digimons rapidamente tornam-se amigos inseparáveis e viajam pelo 'Digiworld'. Mas uma força do mal cria caos e destruição aonde vai, ameaçando esse mundo. Ela corrompe até os Digimons mais bonzinhos, transformando-os em monstros sanguinários. Com muito trabalho de equipe e confiança mútua, as crianças ajudam seus novos amigos Digimons a salvar o 'Digiworld' do mal.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://ovicio.com.br/wp-content/uploads/2020/04/20200408-digimon-adventure-anime-reboot-555x555.jpg",
+		"icon1": "https://wikimon.net/images/thumb/e/e5/Agumon_DA.JPG/300px-Agumon_DA.JPG",
+		"icon2": "https://i.pinimg.com/originals/9b/09/4f/9b094f67fbdcf599f3bec03ea38c5454.jpg",
+        "personagens": {
+            "Tai": {
+                "icon": "Digimon",
+                "description": "Digimon"
+            },
+            "Math": {
+                "icon": "Digimon",
+                "description": "Digimon"
+            }
+        },
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	   {
+        "id": "Digimon_3",
+        "name": "Digimon 3",
+        "display": false,
+		"channel": ["fk","jetix"],
+        "description": "Sete crianças, em seu acampamento de verão, são transportadas repentinamente por 'digi-vices' para um mundo colorido e enigmático. Perdidos e sozinhos, eles fazem amizade com pequenos monstros digitais, os Digimons. As crianças e os Digimons rapidamente tornam-se amigos inseparáveis e viajam pelo 'Digiworld'. Mas uma força do mal cria caos e destruição aonde vai, ameaçando esse mundo. Ela corrompe até os Digimons mais bonzinhos, transformando-os em monstros sanguinários. Com muito trabalho de equipe e confiança mútua, as crianças ajudam seus novos amigos Digimons a salvar o 'Digiworld' do mal.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://cavaleiraazul.weebly.com/uploads/1/0/5/2/10527410/7374926.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+    {
+        "id": "Digimon_4",
+        "name": "Digimon 4",
+        "display": false,
+		"channel": ["fk","jetix"],
+        "description": "Sete crianças, em seu acampamento de verão, são transportadas repentinamente por 'digi-vices' para um mundo colorido e enigmático. Perdidos e sozinhos, eles fazem amizade com pequenos monstros digitais, os Digimons. As crianças e os Digimons rapidamente tornam-se amigos inseparáveis e viajam pelo 'Digiworld'. Mas uma força do mal cria caos e destruição aonde vai, ameaçando esse mundo. Ela corrompe até os Digimons mais bonzinhos, transformando-os em monstros sanguinários. Com muito trabalho de equipe e confiança mútua, as crianças ajudam seus novos amigos Digimons a salvar o 'Digiworld' do mal.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://i.ytimg.com/vi/4gV24yiLiwQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGKBYAC4AOKAgwIABABGHIgWyhCMA8=&rs=AOn4CLAwA6CvOguMxZKqY41UoAhHmFkjyg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
+        "id": "Goosebumps",
+        "name": "Goosebumps",
+		"category": "mystery",
+        "display": true,
+		"channel": ["fk","jetix"],
+        "description": "Inspirada nas histórias de terror para adolescentes de R.L. Stine, essa premiada série adentra nos mundos tenebrosos das tramas de suspense. Cada capítulo é uma viagem de terror cheia de aranhas, robôs e lobisomens, além de fantasmas e criaturas arre-piantes. Adolescentes comuns, de repente, começam a passar por estra-nhos acontecimentos. Envolvidos nas mais extraordinárias situações, terão de usar toda sua inteligência e coragem para enfrentar monstros e personagens arrepiantes. Cheio de finais surpreen-dentes e histórias de terror originais, Goosebumps é uma aventura por mundos desconhecidos e aterrorizantes.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://static.wikia.nocookie.net/deadliestfiction/images/4/48/Slappy.jpg/revision/latest?cb=20151105041225",
+        "personagens": {
+            "Tai": {
+                "icon": "Digimon",
+                "description": "Digimon"
+            },
+            "Math": {
+                "icon": "Digimon",
+                "description": "Digimon"
+            }
+        },
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
+        "id": "ContosdaCripta",
+        "name": "Contos da Cripta",
+		"category": "mystery",
+        "display": true,
+		"channel": ["fk","jetix"],
+        "description": "Inspirada nas histórias de terror para adolescentes de R.L. Stine, essa premiada série adentra nos mundos tenebrosos das tramas de suspense. Cada capítulo é uma viagem de terror cheia de aranhas, robôs e lobisomens, além de fantasmas e criaturas arre-piantes. Adolescentes comuns, de repente, começam a passar por estra-nhos acontecimentos. Envolvidos nas mais extraordinárias situações, terão de usar toda sua inteligência e coragem para enfrentar monstros e personagens arrepiantes. Cheio de finais surpreen-dentes e histórias de terror originais, Goosebumps é uma aventura por mundos desconhecidos e aterrorizantes.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://static.wikia.nocookie.net/deadliestfiction/images/4/48/Slappy.jpg/revision/latest?cb=20151105041225",
+        "personagens": {
+            "Tai": {
+                "icon": "Digimon",
+                "description": "Digimon"
+            },
+            "Math": {
+                "icon": "Digimon",
+                "description": "Digimon"
+            }
+        },
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	{
+        "id": "esquadrao_marte",
+        "display": false,
+		"channel": ["fk","jetix"],
+        "name": "Esquadrão Marte",
+        "description": "Assim que chegou do espaço em uma estranha nave com forma de estrela, ele se transformou no pior pesadelo do déspota Dedede. Porque Kirby, por mais que tenha uma aparência terna e simpática, é um guerreiro estelar que vai defender todos em Cappy Town! Como? Usando seu extraordinário talento: inalar o poder de seus inimigos, o que permite que ele se transforme e ataque seus inimigos com as mesmas armas deles. O rei Dedede tentará destruí-lo, criando novos e poderosos monstros, mas Kirby tem uma missão a cumprir. Descubra você mesmo qual é essa missão nesta série cheia de ação e mistérios.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://ovicio.com.br/wp-content/uploads/2023/01/20230123-maxresdefault-3-555x555.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+
+		    {
+        "id": "kirby",
+        "display": false,
+		"channel": ["fk","jetix"],
+        "name": "Kirby",
+        "description": "Assim que chegou do espaço em uma estranha nave com forma de estrela, ele se transformou no pior pesadelo do déspota Dedede. Porque Kirby, por mais que tenha uma aparência terna e simpática, é um guerreiro estelar que vai defender todos em Cappy Town! Como? Usando seu extraordinário talento: inalar o poder de seus inimigos, o que permite que ele se transforme e ataque seus inimigos com as mesmas armas deles. O rei Dedede tentará destruí-lo, criando novos e poderosos monstros, mas Kirby tem uma missão a cumprir. Descubra você mesmo qual é essa missão nesta série cheia de ação e mistérios.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNTMxMDIyZmUtZjY4Zi00N2VkLTg4M2UtNzc1ODU3NTgyMmUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
+        "id": "Medabots",
+        "display": false,
+		"category": "anime",
+		"channel": ["fk","jetix"],
+        "name": "Medabots",
+        "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	{
+        "id": "Patlabor",
+        "display": false,
+		"category": "anime",
+		"channel": ["fk","jetix"],
+        "name": "Patlabor",
+        "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+		    {
+        "id": "Oggy",
+        "display": false,
+		"category": "funny",
+		"channel": ["fk"],
+        "name": "Oggy e as Baratas",
+        "description": "Oggy é o tpipico gato tranqüilo e simpático que adora as coisas simples da vida: comer bolachas com queijo na banheira, ver televisão, ler histórias românticas, ir trabalhar, cuidar da sua casa...(certo, você tem razão...isso não é muito comum para um gato.). Infelizmente, três baratas desagradáveis chamadas Joey, Marky e Deede (sim, em homenagem ao Ramones) acabaram o escolhendo como a vítima das suas maldades. E para completar, Jack, o primo de Oggy, sempre apronta cada estratégia para fazer da sua vida um inferno.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://yt3.googleusercontent.com/g3j3iOUOPhNxBCNAArBqiYGzHzCBIzr_Al8mdvtBJeZMGFDblnU5rlVUt6GY01AUwm7Cp70J=s900-c-k-c0x00ffffff-no-rj",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+    {
+        "id": "PadrinhosMagicos",
+        "display": false,
+        "name": "Os Padrinhos Mágicos",
+		"channel": ["fk","jetix"],
+        "description": "Timmy Turner é um garoto de 10 anos de idade que está sempre brincando e se divertindo. Astuto, inteligente e travesso, Timmy é dominado pelos adultos com quem vive, inclusive por Vicky, sua malvada babá de 16 anos. De repente, aparecem em sua vida Cosmo e Wanda, dois personagens misteriosos. Conhecidos como os Padrinhos Mágicos, eles ajudam garotos em dificuldades. Timmy só precisa fazer um desejo para ser atendido pelos seus Padrinhos Mágicos. Parece fantástico, mas o problema é que Cosmo e Wanda são meio atrapalhados, e sua varinha mágica geralmente acaba gerando muita confusão e bagunça.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://f.i.uol.com.br/fotografia/2022/03/28/16484859696241e651b87e5_1648485969_3x2_md.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
+        "id": "pajaro_Loco",
+        "display": false,
+        "name": "Pica Pau",
+		"channel": ["fk","jetix"],
+        "description": "Todo mundo o conhece! Até seus pais se divertiam com ele! Pode perguntar para eles, e ver que é verdade. O que acontece é que o simpático pica pau é muito travesso, apronta com todo mundo que cruza seu caminho e vive fazendo palhaçadas!O pica pau é inteligente, sempre procura os prazeres da vida e no meio do caminho vive as mais disparatadas aventuras com seus amigos. Entre eles estão Chilli Willy, o pinguim friorento, Andy Panda e Pablo Morsa, sua vítima favorita. Divirta-se com a risada melodiosa e o gênio irreverente do Pica Pau.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://img.quizur.com/f/img637255b4a956f6.37791383.jpeg?lastEdited=1668437545",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+    {
+        "id": "ShamanKing",
+        "name": "Shaman King",
+        "category": "anime",
+        "display": false,
+		"channel": ["fk","jetix"],
+        "description": "Yo Asakura pertence ao milenar clã dos shamanes e tem poderes especiais para se comunicar com os espíritos e possui-los em seu corpo. Seu sonho é tornar-se o Rei Shaman e para alcançar a sua tão desejada meta, deverá ultrapassar inúmeros obstáculos. Para isso, conta com a ajuda de Amidamaru, o espírito de um lendário samurai morto há 600 anos, de sua namorada Anna e seu fiel amigo e companheiro Manta.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/8/e/1/d8e1e714690c4a1123de36ef6cb102ee.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
+        "id": "Shinzo",
+        "name": "Shinzo",
+        "category": "anime",
+        "display": false,
+		"channel": ["fk"],
+        "description": "Quando Yomuko acorda, ela descobre que os Enterrans, criaturas criadas pela engenharia genética, governam a Terra, e que ela é o único ser humano sobrevivente. O que aconteceu? Seu pai suspeitava que os Enterrans iriam se revoltar e criou uma cápsula do tempo para protegê-la e para que, 50 anos depois, ela restaurasse a paz. Mas Yomuko acordou 300 anos mais tarde. Por sorte, três Enterrans, Mushra, Sago e Kutal decidem ajudá-la na sua missão: conseguir que Enterrans e humanos vivam em paz e harmonia , encontrando a chave secreta escondida na ilha da vida, Shinzo.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://pbs.twimg.com/media/FoPeLXdWYAEqYuJ.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+    {
+        "id": "Evolusábado",
+        "name": "Evolusábado",
+        "category": "especial"
+	},
+    {
+        "id": "blocos",
+        "anime": {
+            "name": "Invasão Anime",
+			"background-color":"#00FFFF",
+            "color": "black"
+        },
+        "action": {
+            "name": "Ação e Aventura",
+			"background-color":"#FFAE00",
+            "color": "black"
+        },
+       "especial": {
+            "name": "Ciclos Especiais",
+			"background-color":"#FF9A00",
+            "color": "black"
+        },
+        "movie": {
+            "name": "Cineskopio",
+			"background-color":"#CCFFCC",
+            "color": "black"
+        },
+	   "funny": {
+            "name": "Bloco da Garganhada",
+			"background-color":"#FF99CC",
+            "color": "black"
+        },
+        "mystery": {
+            "name": "Mysteria",
+			"background-color":"#CC99FF",
+            "color": "black"
+        }
+    },
+	{
+        "id": "Cineskopio",
+		"category": "movie",
+        "movie": {
+            "name": "Hérois Fora de Órbita",
+			"category": "movie",
+			"description": "Quando ",
+			"display": true,
+			"background-color":"#CCFFCC",
+            "color": "black"
+        },
+        "movie": {
+            "name": "Iha do Tesouro",
+			"category": "movie",
+			"description": "Quando ",
+			"display": false,
+			"background-color":"#CCFFCC",
+            "color": "black"
+        }
+	},
+	{
+	        "id": "Power Domingo",
+        "name": "Power Domingo",
+        "category": "especial"
+	}
+]
