@@ -1,8 +1,10 @@
-.container img {
+
+
+.container-base img {
 object-fit: cover;
   }
   
-.container {
+.container-base {
     width: 525px;
     height: 215px;
     background-color: #3498db;
