@@ -13,13 +13,12 @@ object-fit: cover;
     border: 6px solid black;
 }
 .banner-container{
-
-             display: flex;
+      display: flex;
            align-items: center;
            width: 600px;
              height: 250px;
             object-fit: cover; 
-			max-width: 110px;
+	max-width: 110px;
 
 }
 .content {
