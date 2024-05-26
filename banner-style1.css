@@ -192,7 +192,7 @@ padding: 20px;
 		}
 		
 @media only screen and (max-width:500px) {
-.container {
+.container-base {
     width: 365px;
     height: 250px;
     
@@ -244,7 +244,7 @@ padding: 20px;
 	}
 @media only screen and (max-width:370px) {
  	
-	.container {
+	.container-base {
         width: 335px;
 }
 }
