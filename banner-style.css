@@ -84,7 +84,6 @@ padding: 20px;
     top: -2%;
     left: 75%;
     position: absolute;
-    /* transform: skew(-10deg); */
     padding: 1%;
 }
 
@@ -192,9 +191,8 @@ padding: 20px;
 		
 		}
 		
-		
-			@media only screen and (max-width:500px) {
-		.container {
+@media only screen and (max-width:500px) {
+.container {
     width: 365px;
     height: 250px;
     
@@ -246,8 +244,7 @@ padding: 20px;
 	}
 @media only screen and (max-width:370px) {
  	
-		.container {
+	.container {
         width: 335px;
-		}
-
+}
 }
