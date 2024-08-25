@@ -271,6 +271,16 @@
         "category": "especial"
 	},
     {
+        "id": "Dilbert",
+        "name": "Dilbert",
+        "category": "cult"
+	},
+    {
+        "id": "Patetas",
+        "name": "Os Três Patetas",
+        "category": "cult"
+	},
+    {
         "id": "blocos",
         "anime": {
             "name": "Invasão Anime",
@@ -285,6 +295,11 @@
        "especial": {
             "name": "Ciclos Especiais",
 			"background-color":"#FF9A00",
+            "color": "black"
+        },
+       "cult": {
+            "name": "Insomnia",
+			"background-color":"#9CCF00",
             "color": "black"
         },
         "movie": {
