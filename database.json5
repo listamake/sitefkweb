@@ -203,6 +203,23 @@
             ]
         }
     },
+
+   {
+        "id": "bobby",
+        "display": false,
+		"category": "funny",
+		"channel": ["fk"],
+        "name": "O Fantastico Mundo De Bobby",
+        "description": "Oggy é o tpipico gato tranqüilo e simpático que adora as coisas simples da vida: comer bolachas com queijo na banheira, ver televisão, ler histórias românticas, ir trabalhar, cuidar da sua casa...(certo, você tem razão...isso não é muito comum para um gato.). Infelizmente, três baratas desagradáveis chamadas Joey, Marky e Deede (sim, em homenagem ao Ramones) acabaram o escolhendo como a vítima das suas maldades. E para completar, Jack, o primo de Oggy, sempre apronta cada estratégia para fazer da sua vida um inferno.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://yt3.googleusercontent.com/g3j3iOUOPhNxBCNAArBqiYGzHzCBIzr_Al8mdvtBJeZMGFDblnU5rlVUt6GY01AUwm7Cp70J=s900-c-k-c0x00ffffff-no-rj",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
     {
         "id": "PadrinhosMagicos",
         "display": false,
@@ -265,10 +282,36 @@
             ]
         }
     },
+		    {
+        "id": "Super-pig",
+        "display": false,
+		"category": "funny",
+		"channel": ["fk"],
+        "name": "Super Pig",
+        "description": "Oggy é o tpipico gato tranqüilo e simpático que adora as coisas simples da vida: comer bolachas com queijo na banheira, ver televisão, ler histórias românticas, ir trabalhar, cuidar da sua casa...(certo, você tem razão...isso não é muito comum para um gato.). Infelizmente, três baratas desagradáveis chamadas Joey, Marky e Deede (sim, em homenagem ao Ramones) acabaram o escolhendo como a vítima das suas maldades. E para completar, Jack, o primo de Oggy, sempre apronta cada estratégia para fazer da sua vida um inferno.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://yt3.googleusercontent.com/g3j3iOUOPhNxBCNAArBqiYGzHzCBIzr_Al8mdvtBJeZMGFDblnU5rlVUt6GY01AUwm7Cp70J=s900-c-k-c0x00ffffff-no-rj",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
     {
         "id": "Evolusábado",
         "name": "Evolusábado",
         "category": "especial"
+	},
+    {
+        "id": "Sábado Aranha",
+        "name": "Sábado Aranha",
+        "category": "especial"
+	},
+    {
+        "id": "Cineskopio",
+        "name": "Cineskopio",
+        "category": "movie"
 	},
     {
         "id": "Dilbert",
