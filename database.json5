@@ -156,6 +156,70 @@
         }
     },
 	    {
+        "id": "Homem-Aranha-Seus-Amigos",
+        "display": false,
+		"category": "funny",
+		"channel": ["fk","jetix"],
+        "name": "Homem-Aranha e Seus Amigos",
+        "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
+        "id": "The-Tick",
+        "display": false,
+		"category": "action",
+		"channel": ["fk","jetix"],
+        "name": "The Tick",
+        "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
+        "id": "Power-Ranger",
+        "display": false,
+		"category": "action",
+		"channel": ["fk","jetix"],
+        "name": "Power Ranger",
+        "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
+        "id": "Homen-Aranha",
+        "display": false,
+		"category": "action",
+		"channel": ["fk","jetix"],
+        "name": "Homen Aranha",
+        "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
         "id": "Medabots",
         "display": false,
 		"category": "anime",
@@ -308,6 +372,10 @@
         "name": "Sábado Aranha",
         "category": "especial"
 	},
+        "id": "Carga dupla: Digimon",
+        "name": "Carga dupla: Digimon",
+        "category": "doble"
+	},
     {
         "id": "Cineskopio",
         "name": "Cineskopio",
@@ -332,7 +400,7 @@
         },
         "action": {
             "name": "Ação e Aventura",
-			"background-color":"#FFAE00",
+			"background-color":"#ff00ff",
             "color": "black"
         },
        "especial": {
@@ -353,6 +421,11 @@
 	   "funny": {
             "name": "Bloco da Garganhada",
 			"background-color":"#FF99CC",
+            "color": "black"
+        },
+	   "doble": {
+            "name": "Carga Dupla",
+			"background-color":"#ff9a00",
             "color": "black"
         },
         "mystery": {
