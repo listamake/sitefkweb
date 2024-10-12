@@ -204,6 +204,22 @@
         }
     },
 	    {
+        "id": "Power-Ranger-resgate",
+        "display": false,
+		"category": "action",
+		"channel": ["fk","jetix"],
+        "name": "Power Ranger: O Resgate",
+        "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
         "id": "Homen-Aranha",
         "display": false,
 		"category": "action",
