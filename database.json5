@@ -388,6 +388,27 @@
         "name": "Sábado Aranha",
         "category": "especial"
 	},
+ {
+        "id": "Especial: The Story Keepers",
+        "name": "Especial: The Story Keepers",
+        "category": "especial"
+	},
+ {
+        "id": "Especial: Sorriso Metálico",
+        "name": "Especial: Sorriso Metálico",
+        "category": "especial"
+	},
+ {
+        "id": "Os Padrinhos Mágicos",
+        "name": "Os Padrinhos Mágicos",
+        "category": "especial"
+	},
+ {
+        "id": "Especial: Pica-Pau",
+        "name": "Especial: Pica-Pau",
+        "category": "especial"
+	},
+    
     {
         "id": "Carga dupla: Digimon",
         "name": "Carga dupla: Digimon",
@@ -396,6 +417,16 @@
     {
         "id": "Cineskopio",
         "name": "Cineskopio",
+        "category": "movie"
+	},
+    {
+        "id": "Filme: Um Conto de Natal",
+        "name": "Filme: Um Conto de Natal",
+        "category": "movie"
+	},
+    {
+        "id": "Filme: O Natal do Riquinho",
+        "name": "Filme: O Natal do Riquinho",
         "category": "movie"
 	},
     {
