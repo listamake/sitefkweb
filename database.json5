@@ -57,6 +57,21 @@
             ]
         }
     },
+	   {
+        "id": "Digimon_2",
+        "name": "Digimon 2",
+        "display": false,
+		"channel": ["fk","jetix"],
+        "description": "Sete crianças, em seu acampamento de verão, são transportadas repentinamente por 'digi-vices' para um mundo colorido e enigmático. Perdidos e sozinhos, eles fazem amizade com pequenos monstros digitais, os Digimons. As crianças e os Digimons rapidamente tornam-se amigos inseparáveis e viajam pelo 'Digiworld'. Mas uma força do mal cria caos e destruição aonde vai, ameaçando esse mundo. Ela corrompe até os Digimons mais bonzinhos, transformando-os em monstros sanguinários. Com muito trabalho de equipe e confiança mútua, as crianças ajudam seus novos amigos Digimons a salvar o 'Digiworld' do mal.",
+        "copyrigth": "Toei Animation",
+        "icon": "https://cavaleiraazul.weebly.com/uploads/1/0/5/2/10527410/7374926.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
     {
         "id": "Digimon_4",
         "name": "Digimon 4",
@@ -188,6 +203,22 @@
         }
     },
 	    {
+        "id": "Hulk",
+        "display": false,
+		"category": "action",
+		"channel": ["fk","jetix"],
+        "name": "O Inclível Hulk",
+        "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
         "id": "Power-Ranger",
         "display": false,
 		"category": "action",
@@ -209,6 +240,22 @@
 		"category": "action",
 		"channel": ["fk","jetix"],
         "name": "Power Ranger: O Resgate",
+        "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
+        "copyrigth": "Toei Animation",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "downloads": {
+            "wall": [
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg",
+                "https://static.wikia.nocookie.net/foxkids/images/8/88/Digimon_4_wallpaper1.jpg"
+            ]
+        }
+    },
+	    {
+        "id": "Power-Ranger-zeo",
+        "display": false,
+		"category": "action",
+		"channel": ["fk","jetix"],
+        "name": "Power Ranger Zeo",
         "description": "Num futuro próximo, quase todas as crianças possuem seus próprios robôs de alta tecnologia - mais conhecidos como Medabots. Estes robôs possuem inteligência artificial e contam com armas especialmente projetadas para grandes desafios. Os Medabots participam, junto com os seus donos, de uma série de lutas e aventuras contra outros robôs na esperança de poderem representar a seu país no Torneio Mundial de Cyberlutas, que ocorre a cada quatro anos!",
         "copyrigth": "Toei Animation",
         "icon": "https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
@@ -388,6 +435,11 @@
         "name": "Sábado Aranha",
         "category": "especial"
 	},
+    {
+        "id": "Sábado Verde",
+        "name": "Sábado Aranha",
+        "category": "especial"
+	},
  {
         "id": "Especial: The Story Keepers",
         "name": "Especial: The Story Keepers",
@@ -508,3 +560,4 @@
         "category": "especial"
 	}
 ]
+
