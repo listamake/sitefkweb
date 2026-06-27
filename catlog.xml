@@ -1,0 +1,2697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+
+  <prog id="digimon" start="20260608">
+    <display-name lang="pt">Digimon</display-name>
+    <category lang="pt">Anime</category>
+    <file-prefix>da</file-prefix>
+    <weekday days="seg,ter,qua,qui,sex"/>
+  </prog>
+
+  <prog id="power-rangers-no-espaco" start="20260604">
+    <display-name lang="pt">Power Rangers no Espaço</display-name>
+    <category lang="pt">Série</category>
+    <file-prefix>powerrangersm</file-prefix>
+    <weekday days="ter,qui"/>
+  </prog>
+
+  <prog id="o-mundo-de-bobby" start="20260615">
+    <display-name lang="pt">O Mundo de Bobby</display-name>
+    <category lang="pt">Desenho</category>
+    <file-prefix>bobby</file-prefix>
+    <weekday days="seg,ter,qua,qui,sex"/>
+  </prog>
+
+  <prog id="patlabor" start="20260518">
+    <display-name lang="pt">Patlabor</display-name>
+    <category lang="pt">Anime</category>
+    <file-prefix>patlabor</file-prefix>
+    <weekday days="seg,ter,qua,qui,sex"/>
+  </prog>
+
+  <prog id="power-rangers-forca-animal" start="20260624">
+    <display-name lang="pt">Power Rangers: Força Animal</display-name>
+    <category lang="pt">Série</category>
+    <file-prefix>pr-forca-do-animal</file-prefix>
+    <weekday days="seg,qua,sex"/>
+  </prog>
+
+  <prog id="goosebumps" start="20260615">
+    <display-name lang="pt">Goosebumps</display-name>
+    <category lang="pt">Séries</category>
+    <file-prefix>goosebumps</file-prefix>
+    <weekday days="seg,ter,qua,qui,sex"/>
+  </prog>
+
+  <prog id="homem-aranha" start="20260601">
+    <display-name lang="pt">Homem Aranha</display-name>
+    <category lang="pt">Animação</category>
+    <file-prefix>homem-aranha</file-prefix>
+    <weekday days="seg,qua,sex"/>
+  </prog>
+
+  <prog id="homem-aranha-e-seus-amigos" start="20260615">
+    <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
+    <category lang="pt">Animação</category>
+    <file-prefix>homem-aranha-e-amigos</file-prefix>
+    <weekday days="seg,qua,sex"/>
+  </prog>
+
+  <prog id="super-pig" start="20260601">
+    <display-name lang="pt">Super Pig</display-name>
+    <category lang="pt">Anime</category>
+    <file-prefix>super-pig</file-prefix>
+    <weekday days="seg,ter,qua,qui,sex"/>
+  </prog>
+
+  <prog id="oggy-e-as-baratas" start="20260601">
+    <display-name lang="pt">Oggy e as Baratas</display-name>
+    <file-prefix>oggy</file-prefix>
+    <weekday days="seg,ter,qua,qui,sex"/>
+  </prog>
+
+  <prog id="contos-da-cripta" start="20260601">
+    <display-name lang="pt">Contos da Cripta</display-name>
+    <file-prefix>contos-cripta</file-prefix>
+    <weekday days="seg,ter,qua,qui,sex"/>
+  </prog>
+
+  <prog id="the-tick" start="20260604">
+    <display-name lang="pt">The Tick</display-name>
+    <category lang="pt">Animação</category>
+    <file-prefix>tick</file-prefix>
+    <weekday days="ter,qui"/>
+  </prog>
+
+  <prog id="o-incrivel-hulk" start="20260604">
+    <display-name lang="pt">O Incrível Hulk</display-name>
+    <category lang="pt">Animação</category>
+    <file-prefix>o-incrivel-hulk</file-prefix>
+    <weekday days="ter,qui"/>
+  </prog>
+
+  <prog id="patlabor-o-filme" start="20260628">
+    <display-name lang="pt">Patlabor: O Filme</display-name>
+    <category lang="pt">Movie</category>
+    <file-prefix>patlabor-o-filme</file-prefix>
+  </prog>
+
+  <prog id="retorno-da-familia-addams" start="20260705">
+    <display-name lang="pt">Retorno da Familia Addams</display-name>
+    <category lang="pt">Movie</category>
+    <file-prefix>retornodafamiliaaddams</file-prefix>
+    <weekday days="dom"/>
+  </prog>
+
+  <prog id="o-caminho-para-el-dorado" start="20260712">
+    <display-name lang="pt">O Caminho para El Dorado</display-name>
+    <category lang="pt">Movie</category>
+    <file-prefix>ocaminhoparaeldorado</file-prefix>
+    <weekday days="dom"/>
+  </prog>
+
+  <prog id="paulie-o-papagaio-bom-de-papo" start="20260719">
+    <display-name lang="pt">Paulie - O Papagaio Bom de Papo</display-name>
+    <category lang="pt">Movie</category>
+    <file-prefix>paulieopapagaiobomdepapo</file-prefix>
+    <weekday days="dom"/>
+  </prog>
+
+  <programme progid="digimon">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Férias de Verão</sub-title>
+    <video-files>
+      <file block="a">DA-01x01A.mp4</file>
+      <file block="b">DA-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E02</episode-num>
+    <sub-title>Nasce Greymon</sub-title>
+    <video-files>
+      <file block="a">DA-01x02A.mp4</file>
+      <file block="b">DA-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E03</episode-num>
+    <sub-title>Nasce Garurumon</sub-title>
+    <video-files>
+      <file block="a">DA-01x03A.mp4</file>
+      <file block="b">DA-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E04</episode-num>
+    <sub-title>Sora em Perigo</sub-title>
+    <video-files>
+      <file block="a">DA-01x04A.mp4</file>
+      <file block="b">DA-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E05</episode-num>
+    <sub-title>Kabuterymon</sub-title>
+    <video-files>
+      <file block="a">DA-01x05A.mp4</file>
+      <file block="b">DA-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E06</episode-num>
+    <sub-title>É a vez de Palmon Digitransformar</sub-title>
+    <video-files>
+      <file block="a">DA-01x06A.mp4</file>
+      <file block="b">DA-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E07</episode-num>
+    <sub-title>A Fúria de Gomamon</sub-title>
+    <video-files>
+      <file block="a">DA-01x07A.mp4</file>
+      <file block="b">DA-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E08</episode-num>
+    <sub-title>Davimon, Mensageiro da Trevas</sub-title>
+    <video-files>
+      <file block="a">DA-01x08A.mp4</file>
+      <file block="b">DA-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E09</episode-num>
+    <sub-title>Yukidarumon O Digimon do Frio</sub-title>
+    <video-files>
+      <file block="a">DA-01x09A.mp4</file>
+      <file block="b">DA-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E10</episode-num>
+    <sub-title>Kentarumon, o Guardião</sub-title>
+    <video-files>
+      <file block="a">DA-01x10A.mp4</file>
+      <file block="b">DA-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E11</episode-num>
+    <sub-title>Bakemon, o Fantasma Dançante</sub-title>
+    <video-files>
+      <file block="a">DA-01x11A.mp4</file>
+      <file block="b">DA-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E12</episode-num>
+    <sub-title>Patamon e Eu</sub-title>
+    <video-files>
+      <file block="a">DA-01x12A.mp4</file>
+      <file block="b">DA-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E13</episode-num>
+    <sub-title>A Vez de Patamon</sub-title>
+    <video-files>
+      <file block="a">DA-01x13A.mp4</file>
+      <file block="b">DA-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E14</episode-num>
+    <sub-title>Atravessando o Oceano</sub-title>
+    <video-files>
+      <file block="a">DA-01x14A.mp4</file>
+      <file block="b">DA-01x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E15</episode-num>
+    <sub-title>Etemon e o Primeiro Brasão</sub-title>
+    <video-files>
+      <file block="a">DA-01x15A.mp4</file>
+      <file block="b">DA-01x15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E16</episode-num>
+    <sub-title>Greymon contra Etemon</sub-title>
+    <video-files>
+      <file block="a">DA-01x16A.mp4</file>
+      <file block="b">DA-01x16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E17</episode-num>
+    <sub-title>Capitão Cockatrimon</sub-title>
+    <video-files>
+      <file block="a">DA-01x17A.mp4</file>
+      <file block="b">DA-01x17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E18</episode-num>
+    <sub-title>Picklemon Digimon Fada Madrinha</sub-title>
+    <video-files>
+      <file block="a">DA-01x18A.mp4</file>
+      <file block="b">DA-01x18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E19</episode-num>
+    <sub-title>Nanomon no Labirinto</sub-title>
+    <video-files>
+      <file block="a">DA-01x19A.mp4</file>
+      <file block="b">DA-01x19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E20</episode-num>
+    <sub-title>MetalGreymon</sub-title>
+    <video-files>
+      <file block="a">DA-01x20A.mp4</file>
+      <file block="b">DA-01x20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E21</episode-num>
+    <video-files>
+      <file block="a">DA-01x21A.mp4</file>
+      <file block="b">DA-01x21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E22</episode-num>
+    <video-files>
+      <file block="a">DA-01x22A.mp4</file>
+      <file block="b">DA-01x22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E23</episode-num>
+    <video-files>
+      <file block="a">DA-01x23A.mp4</file>
+      <file block="b">DA-01x23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E24</episode-num>
+    <video-files>
+      <file block="a">DA-01x24A.mp4</file>
+      <file block="b">DA-01x24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E25</episode-num>
+    <video-files>
+      <file block="a">DA-01x25A.mp4</file>
+      <file block="b">DA-01x25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E26</episode-num>
+    <video-files>
+      <file block="a">DA-01x26A.mp4</file>
+      <file block="b">DA-01x26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E27</episode-num>
+    <video-files>
+      <file block="a">DA-01x27A.mp4</file>
+      <file block="b">DA-01x27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E28</episode-num>
+    <video-files>
+      <file block="a">DA-01x28A.mp4</file>
+      <file block="b">DA-01x28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E29</episode-num>
+    <video-files>
+      <file block="a">DA-01x29A.mp4</file>
+      <file block="b">DA-01x29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E30</episode-num>
+    <video-files>
+      <file block="a">DA-01x30A.mp4</file>
+      <file block="b">DA-01x30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E31</episode-num>
+    <video-files>
+      <file block="a">DA-01x31A.mp4</file>
+      <file block="b">DA-01x31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E32</episode-num>
+    <video-files>
+      <file block="a">DA-01x32A.mp4</file>
+      <file block="b">DA-01x32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E33</episode-num>
+    <video-files>
+      <file block="a">DA-01x33A.mp4</file>
+      <file block="b">DA-01x33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E34</episode-num>
+    <video-files>
+      <file block="a">DA-01x34A.mp4</file>
+      <file block="b">DA-01x34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E35</episode-num>
+    <video-files>
+      <file block="a">DA-01x35A.mp4</file>
+      <file block="b">DA-01x35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E36</episode-num>
+    <video-files>
+      <file block="a">DA-01x36A.mp4</file>
+      <file block="b">DA-01x36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E37</episode-num>
+    <video-files>
+      <file block="a">DA-01x37A.mp4</file>
+      <file block="b">DA-01x37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E38</episode-num>
+    <video-files>
+      <file block="a">DA-01x38A.mp4</file>
+      <file block="b">DA-01x38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E39</episode-num>
+    <video-files>
+      <file block="a">DA-01x39A.mp4</file>
+      <file block="b">DA-01x39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E40</episode-num>
+    <video-files>
+      <file block="a">DA-01x40A.mp4</file>
+      <file block="b">DA-01x40B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E41</episode-num>
+    <video-files>
+      <file block="a">DA-01x41A.mp4</file>
+      <file block="b">DA-01x41B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E42</episode-num>
+    <video-files>
+      <file block="a">DA-01x42A.mp4</file>
+      <file block="b">DA-01x42B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E43</episode-num>
+    <video-files>
+      <file block="a">DA-01x43A.mp4</file>
+      <file block="b">DA-01x43B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E44</episode-num>
+    <video-files>
+      <file block="a">DA-01x44A.mp4</file>
+      <file block="b">DA-01x44B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E45</episode-num>
+    <video-files>
+      <file block="a">DA-01x45A.mp4</file>
+      <file block="b">DA-01x45B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E46</episode-num>
+    <video-files>
+      <file block="a">DA-01x46A.mp4</file>
+      <file block="b">DA-01x46B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E47</episode-num>
+    <video-files>
+      <file block="a">DA-01x47A.mp4</file>
+      <file block="b">DA-01x47B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E48</episode-num>
+    <video-files>
+      <file block="a">DA-01x48A.mp4</file>
+      <file block="b">DA-01x48B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E49</episode-num>
+    <sub-title>O Fim de Mugendramon</sub-title>
+    <video-files>
+      <file block="a">DA-01x49A.mp4</file>
+      <file block="b">DA-01x49B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E50</episode-num>
+    <sub-title>Lady Devimon</sub-title>
+    <video-files>
+      <file block="a">DA-01x50A.mp4</file>
+      <file block="b">DA-01x50B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E51</episode-num>
+    <sub-title>Mente nas Trevas</sub-title>
+    <video-files>
+      <file block="a">DA-01x51A.mp4</file>
+      <file block="b">DA-01x51B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E52</episode-num>
+    <sub-title>O Fim de Piedmon</sub-title>
+    <video-files>
+      <file block="a">DA-01x52A.mp4</file>
+      <file block="b">DA-01x52B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E53</episode-num>
+    <sub-title>O Pior Inimigo</sub-title>
+    <video-files>
+      <file block="a">DA-01x53A.mp4</file>
+      <file block="b">DA-01x53B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon">
+    <episode-num>S01E54</episode-num>
+    <sub-title>Adeus Novo Mundo</sub-title>
+    <video-files>
+      <file block="a">DA-01x54A.mp4</file>
+      <file block="b">DA-01x54B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E01</episode-num>
+    <sub-title>Um encontro no espaço - parte 1</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-01A.mp4</file>
+      <file block="b">PR-Espaco-01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E02</episode-num>
+    <sub-title>Um Encontro no Espaço - Parte 2</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-02A.mp4</file>
+      <file block="b">PR-Espaco-02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E03</episode-num>
+    <sub-title>Salvem Nossa Nave</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-03A.mp4</file>
+      <file block="b">PR-Espaco-03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E04</episode-num>
+    <sub-title>Encontro de Super Heróis</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-04A.mp4</file>
+      <file block="b">PR-Espaco-04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E05</episode-num>
+    <sub-title>Sem Perder as Esperanças</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-05A.mp4</file>
+      <file block="b">PR-Espaco-05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E06</episode-num>
+    <sub-title>Busca Ao Satélite</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-06A.mp4</file>
+      <file block="b">PR-Espaco-06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E07</episode-num>
+    <sub-title>Honra Entre Ladrões</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-07A.mp4</file>
+      <file block="b">PR-Espaco-07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E08</episode-num>
+    <sub-title>Com Um Empurrãozinho</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-08A.mp4</file>
+      <file block="b">PR-Espaco-08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E09</episode-num>
+    <sub-title>a Invasão de Crateritas</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-09A.mp4</file>
+      <file block="b">PR-Espaco-09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Visitando Tia Ruth</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x01A.mp4</file>
+      <file block="b">BOBBY-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E02</episode-num>
+    <sub-title>As Incríveis Aventuras do Tio Ted</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x02A.mp4</file>
+      <file block="b">BOBBY-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E03</episode-num>
+    <sub-title>Bobby e a babá</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x03A.mp4</file>
+      <file block="b">BOBBY-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E04</episode-num>
+    <sub-title>Meu pai conserta tudo</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x04A.mp4</file>
+      <file block="b">BOBBY-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E05</episode-num>
+    <sub-title>O presente do papai</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x05A.mp4</file>
+      <file block="b">BOBBY-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E06</episode-num>
+    <sub-title>Roger e eu</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x06A.mp4</file>
+      <file block="b">BOBBY-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E07</episode-num>
+    <sub-title>A grande limpeza</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x07A.mp4</file>
+      <file block="b">BOBBY-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E08</episode-num>
+    <sub-title>A noite do Dia das Bruxas</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x08A.mp4</file>
+      <file block="b">BOBBY-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E09</episode-num>
+    <sub-title>Bobby vai à praia</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x09A.mp4</file>
+      <file block="b">BOBBY-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E10</episode-num>
+    <sub-title>A Vingança do Dr. Noo</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x10A.mp4</file>
+      <file block="b">BOBBY-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E11</episode-num>
+    <sub-title>O Casamento</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x11A.mp4</file>
+      <file block="b">BOBBY-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Confusão na Policia</sub-title>
+    <video-files>
+      <file block="a">Patlabor-01A</file>
+      <file block="b">Patlabor-01B</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E02</episode-num>
+    <sub-title>A chegada de kanuka</sub-title>
+    <video-files>
+      <file block="a">Patlabor-02A.mp4</file>
+      <file block="b">Patlabor-02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E03</episode-num>
+    <sub-title>Aqui é o Segundo Comando</sub-title>
+    <video-files>
+      <file block="a">Patlabor-03A.mp4</file>
+      <file block="b">Patlabor-03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">Patlabor-04A.mp4</file>
+      <file block="b">Patlabor-04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">Patlabor-05A.mp4</file>
+      <file block="b">Patlabor-05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">Patlabor-06A.mp4</file>
+      <file block="b">Patlabor-06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">Patlabor-07A.mp4</file>
+      <file block="b">Patlabor-07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">Patlabor-08A.mp4</file>
+      <file block="b">Patlabor-08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">Patlabor-09A.mp4</file>
+      <file block="b">Patlabor-09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">Patlabor-10A.mp4</file>
+      <file block="b">Patlabor-10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">Patlabor-11A.mp4</file>
+      <file block="b">Patlabor-11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">Patlabor-12A.mp4</file>
+      <file block="b">Patlabor-12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">Patlabor-13A.mp4</file>
+      <file block="b">Patlabor-13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">Patlabor-14A.mp4</file>
+      <file block="b">Patlabor-14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">Patlabor-15A.mp4</file>
+      <file block="b">Patlabor-15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">Patlabor-16A.mp4</file>
+      <file block="b">Patlabor-16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">Patlabor-17A.mp4</file>
+      <file block="b">Patlabor-17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E18</episode-num>
+    <video-files>
+      <file block="a">Patlabor-18A.mp4</file>
+      <file block="b">Patlabor-18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E19</episode-num>
+    <sub-title>De frente para uma alma</sub-title>
+    <video-files>
+      <file block="a">Patlabor-19A.mp4</file>
+      <file block="b">Patlabor-19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E20</episode-num>
+    <sub-title>O Estranho comportamento.</sub-title>
+    <video-files>
+      <file block="a">Patlabor-20A.mp4</file>
+      <file block="b">Patlabor-20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E21</episode-num>
+    <sub-title>O Retorno do Phanton</sub-title>
+    <video-files>
+      <file block="a">Patlabor-21A.mp4</file>
+      <file block="b">Patlabor-21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E22</episode-num>
+    <sub-title>Flores e Labors</sub-title>
+    <video-files>
+      <file block="a">Patlabor-22A.mp4</file>
+      <file block="b">Patlabor-22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E23</episode-num>
+    <sub-title>O Dossiê de Kanuka</sub-title>
+    <video-files>
+      <file block="a">Patlabor-23A.mp4</file>
+      <file block="b">Patlabor-23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E24</episode-num>
+    <sub-title>Até mais Kanuka</sub-title>
+    <video-files>
+      <file block="a">Patlabor-24A.mp4</file>
+      <file block="b">Patlabor-24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E25</episode-num>
+    <sub-title>A Tempestade de Verão</sub-title>
+    <video-files>
+      <file block="a">Patlabor-25A.mp4</file>
+      <file block="b">Patlabor-25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E26</episode-num>
+    <sub-title>Eu sou Kumagami Takeo</sub-title>
+    <video-files>
+      <file block="a">Patlabor-26A.mp4</file>
+      <file block="b">Patlabor-26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E27</episode-num>
+    <video-files>
+      <file block="a">Patlabor-27A.mp4</file>
+      <file block="b">Patlabor-27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E28</episode-num>
+    <video-files>
+      <file block="a">Patlabor-28A.mp4</file>
+      <file block="b">Patlabor-28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E29</episode-num>
+    <video-files>
+      <file block="a">Patlabor-29A.mp4</file>
+      <file block="b">Patlabor-29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E30</episode-num>
+    <video-files>
+      <file block="a">Patlabor-30A.mp4</file>
+      <file block="b">Patlabor-30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E31</episode-num>
+    <video-files>
+      <file block="a">Patlabor-31A.mp4</file>
+      <file block="b">Patlabor-31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E32</episode-num>
+    <video-files>
+      <file block="a">Patlabor-32A.mp4</file>
+      <file block="b">Patlabor-32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E33</episode-num>
+    <video-files>
+      <file block="a">Patlabor-33A.mp4</file>
+      <file block="b">Patlabor-33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E34</episode-num>
+    <video-files>
+      <file block="a">Patlabor-34A.mp4</file>
+      <file block="b">Patlabor-34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E35</episode-num>
+    <video-files>
+      <file block="a">Patlabor-35A.mp4</file>
+      <file block="b">Patlabor-35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E36</episode-num>
+    <video-files>
+      <file block="a">Patlabor-36A.mp4</file>
+      <file block="b">Patlabor-36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E37</episode-num>
+    <video-files>
+      <file block="a">Patlabor-37A.mp4</file>
+      <file block="b">Patlabor-37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E38</episode-num>
+    <video-files>
+      <file block="a">Patlabor-38A.mp4</file>
+      <file block="b">Patlabor-38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E39</episode-num>
+    <video-files>
+      <file block="a">Patlabor-39A.mp4</file>
+      <file block="b">Patlabor-39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E40</episode-num>
+    <video-files>
+      <file block="a">Patlabor-40A.mp4</file>
+      <file block="b">Patlabor-40B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E41</episode-num>
+    <video-files>
+      <file block="a">Patlabor-41A.mp4</file>
+      <file block="b">Patlabor-41B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E42</episode-num>
+    <video-files>
+      <file block="a">Patlabor-42A.mp4</file>
+      <file block="b">Patlabor-42B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E43</episode-num>
+    <video-files>
+      <file block="a">Patlabor-43A.mp4</file>
+      <file block="b">Patlabor-43B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E44</episode-num>
+    <video-files>
+      <file block="a">Patlabor-44A.mp4</file>
+      <file block="b">Patlabor-44B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E45</episode-num>
+    <video-files>
+      <file block="a">Patlabor-45A.mp4</file>
+      <file block="b">Patlabor-45B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E46</episode-num>
+    <video-files>
+      <file block="a">Patlabor-46A.mp4</file>
+      <file block="b">Patlabor-46B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor">
+    <episode-num>S01E47</episode-num>
+    <video-files>
+      <file block="a">Patlabor-47A.mp4</file>
+      <file block="b">Patlabor-47B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Coração de Leão</sub-title>
+    <video-files>
+      <file block="a">PR-Força do Animal - 01A.mp4</file>
+      <file block="b">PR-Força do Animal - 01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 02A.mp4</file>
+      <file block="b">PR-Força do Animal - 02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 03A.mp4</file>
+      <file block="b">PR-Força do Animal - 03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 04A.mp4</file>
+      <file block="b">PR-Força do Animal - 04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 05A.mp4</file>
+      <file block="b">PR-Força do Animal - 05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 06A.mp4</file>
+      <file block="b">PR-Força do Animal - 06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 07A.mp4</file>
+      <file block="b">PR-Força do Animal - 07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 08A.mp4</file>
+      <file block="b">PR-Força do Animal - 08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 09A.mp4</file>
+      <file block="b">PR-Força do Animal - 09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 10A.mp4</file>
+      <file block="b">PR-Força do Animal - 10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 11A.mp4</file>
+      <file block="b">PR-Força do Animal - 11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 12A.mp4</file>
+      <file block="b">PR-Força do Animal - 12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 13A.mp4</file>
+      <file block="b">PR-Força do Animal - 13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 14A.mp4</file>
+      <file block="b">PR-Força do Animal - 14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 15A.mp4</file>
+      <file block="b">PR-Força do Animal - 15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 16A.mp4</file>
+      <file block="b">PR-Força do Animal - 16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 17A.mp4</file>
+      <file block="b">PR-Força do Animal - 17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E18</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 18A.mp4</file>
+      <file block="b">PR-Força do Animal - 18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E19</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 19A.mp4</file>
+      <file block="b">PR-Força do Animal - 19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E20</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 20A.mp4</file>
+      <file block="b">PR-Força do Animal - 20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E21</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 21A.mp4</file>
+      <file block="b">PR-Força do Animal - 21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E22</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 22A.mp4</file>
+      <file block="b">PR-Força do Animal - 22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E23</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 23A.mp4</file>
+      <file block="b">PR-Força do Animal - 23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E24</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 24A.mp4</file>
+      <file block="b">PR-Força do Animal - 24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E25</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 25A.mp4</file>
+      <file block="b">PR-Força do Animal - 25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E26</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 26A.mp4</file>
+      <file block="b">PR-Força do Animal - 26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E27</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 27A.mp4</file>
+      <file block="b">PR-Força do Animal - 27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E28</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 28A.mp4</file>
+      <file block="b">PR-Força do Animal - 28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E29</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 29A.mp4</file>
+      <file block="b">PR-Força do Animal - 29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E30</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 30A.mp4</file>
+      <file block="b">PR-Força do Animal - 30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E31</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 31A.mp4</file>
+      <file block="b">PR-Força do Animal - 31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E32</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 32A.mp4</file>
+      <file block="b">PR-Força do Animal - 32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E33</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 33A.mp4</file>
+      <file block="b">PR-Força do Animal - 33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E34</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Animal - 34A.mp4</file>
+      <file block="b">PR-Força do Animal - 34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E35</episode-num>
+    <sub-title>O Arauto do Mestre, 1ª Parte</sub-title>
+    <video-files>
+      <file block="a">PR-Força do Animal - 35A.mp4</file>
+      <file block="b">PR-Força do Animal - 35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E36</episode-num>
+    <sub-title>O Arauto do Mestre, 2ª Parte</sub-title>
+    <video-files>
+      <file block="a">PR-Força do Animal - 36A.mp4</file>
+      <file block="b">PR-Força do Animal - 36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E37</episode-num>
+    <sub-title>O Resgate</sub-title>
+    <video-files>
+      <file block="a">PR-Força do Animal - 37A.mp4</file>
+      <file block="b">PR-Força do Animal - 37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E38</episode-num>
+    <sub-title>O Desafio Final</sub-title>
+    <video-files>
+      <file block="a">PR-Força do Animal - 38A.mp4</file>
+      <file block="b">PR-Força do Animal - 38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E39</episode-num>
+    <sub-title>O Fim do Power Rangers, Parte 1</sub-title>
+    <video-files>
+      <file block="a">PR-Força do Animal - 39A.mp4</file>
+      <file block="b">PR-Força do Animal - 39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-animal">
+    <episode-num>S01E40</episode-num>
+    <sub-title>O Fim do Power Rangers, Parte 2</sub-title>
+    <video-files>
+      <file block="a">PR-Força do Animal - 40A.mp4</file>
+      <file block="b">PR-Força do Animal - 40B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E01</episode-num>
+    <sub-title>A Máscara Maldita - Parte1</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x01A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E02</episode-num>
+    <sub-title>A Máscara Maldita - Parte 2</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x02A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E03</episode-num>
+    <sub-title>O Relógio Cookoo da Perdição</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x03A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x04A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x05A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x06A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x07A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x08A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x09A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x10A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x11A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x12A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x13A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x14A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x15A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x16A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x17A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E18</episode-num>
+    <sub-title>O Lobisomem do Pântano - Parte 1</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x18A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S01E19</episode-num>
+    <sub-title>O Lobisomem do Pântano - Parte 2</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-01x19A.mp4</file>
+      <file block="b">GOOSEBUMPS-01x19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E01</episode-num>
+    <sub-title>Cuidado Com o Que Deseja</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x01A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E04</episode-num>
+    <sub-title>O Dia de Azar do Coelho</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x04A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E06</episode-num>
+    <sub-title>Comendo Minhocas</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x06A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E09</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x09A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E10</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x10A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E11</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x11A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E01</episode-num>
+    <sub-title>O Casamento</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-05x01A.mp4</file>
+      <file block="b">Homem-Aranha-05x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E02</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-05x02A.mp4</file>
+      <file block="b">Homem-Aranha-05x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E03</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-05x03A.mp4</file>
+      <file block="b">Homem-Aranha-05x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E04</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-05x04A.mp4</file>
+      <file block="b">Homem-Aranha-05x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E05</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-05x05A.mp4</file>
+      <file block="b">Homem-Aranha-05x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E06</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-05x06A.mp4</file>
+      <file block="b">Homem-Aranha-05x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E07</episode-num>
+    <sub-title>O Retorno de Hydro-Man (Parte 1)</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-05x07A.mp4</file>
+      <file block="b">Homem-Aranha-05x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E08</episode-num>
+    <sub-title>O Retorno de Hydro-Man (Parte 2)</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-05x08A.mp4</file>
+      <file block="b">Homem-Aranha-05x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E09</episode-num>
+    <sub-title>Guerras Secretas (Parte 1) A Chegada</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-05x09A.mp4</file>
+      <file block="b">Homem-Aranha-05x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E10</episode-num>
+    <sub-title>Guerras Secretas (Parte 2) A Punição do Caveira Vermelha</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-05x10A.mp4</file>
+      <file block="b">Homem-Aranha-05x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E11</episode-num>
+    <sub-title>Guerras Secretas (Parte 3) Doutor Destino</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-05x11A.mp4</file>
+      <file block="b">Homem-Aranha-05x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E12</episode-num>
+    <sub-title>A Guerra dos Aranhas (Parte 1) Eu Odeio Clones</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-05x12A.mp4</file>
+      <file block="b">Homem-Aranha-05x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S05E13</episode-num>
+    <sub-title>A Guerra dos Aranhas (Parte 2) Adeus Homem-Aranha</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-05x13A.mp4</file>
+      <file block="b">Homem-Aranha-05x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E01</episode-num>
+    <sub-title>Homem Aranha Desmascarado!</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x01A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E02</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x02A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E03</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x03A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E04</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x04A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E05</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x05A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E06</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x06A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E07</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x07A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E08</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x08A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E01</episode-num>
+    <sub-title>O Príncipe Porquinho</sub-title>
+    <video-files>
+      <file block="a">SUPER PIG-01.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-02.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-03.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-04.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-05.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-06.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-07.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-08.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-09.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-10.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-11.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-12.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-13.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-14.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-15.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-16.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-17.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E18</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-18.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E19</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-19.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E20</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-20.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E21</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-21.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E22</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-22.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E23</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-23.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E24</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-24.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E25</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-25.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E26</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-26.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E27</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-27.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E28</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-28.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E29</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-29.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E30</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-30.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E31</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-31.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E32</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-32.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E33</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-33.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="super-pig">
+    <episode-num>S01E34</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-34.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E01</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x01A.mp4</file>
+      <file block="b">Oggy-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x02A.mp4</file>
+      <file block="b">Oggy-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x03A.mp4</file>
+      <file block="b">Oggy-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x04A.mp4</file>
+      <file block="b">Oggy-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x05A.mp4</file>
+      <file block="b">Oggy-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x06A.mp4</file>
+      <file block="b">Oggy-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x07A.mp4</file>
+      <file block="b">Oggy-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x08A.mp4</file>
+      <file block="b">Oggy-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x09A.mp4</file>
+      <file block="b">Oggy-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x10A.mp4</file>
+      <file block="b">Oggy-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x11A.mp4</file>
+      <file block="b">Oggy-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x12A.mp4</file>
+      <file block="b">Oggy-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x13A.mp4</file>
+      <file block="b">Oggy-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x14A.mp4</file>
+      <file block="b">Oggy-01x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x15A.mp4</file>
+      <file block="b">Oggy-01x15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x16A.mp4</file>
+      <file block="b">Oggy-01x16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x17A.mp4</file>
+      <file block="b">Oggy-01x17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E18</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x18A.mp4</file>
+      <file block="b">Oggy-01x18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E19</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x19A.mp4</file>
+      <file block="b">Oggy-01x19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E20</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x20A.mp4</file>
+      <file block="b">Oggy-01x20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E21</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x21A.mp4</file>
+      <file block="b">Oggy-01x21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E22</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x22A.mp4</file>
+      <file block="b">Oggy-01x22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E23</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x23A.mp4</file>
+      <file block="b">Oggy-01x23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E24</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x24A.mp4</file>
+      <file block="b">Oggy-01x24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Quando o Gato não está</sub-title>
+    <video-files>
+      <file block="a">Contos-Cripta-01x01A.mp4</file>
+      <file block="b">Contos-Cripta-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x02A.mp4</file>
+      <file block="b">Contos-Cripta-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x03A.mp4</file>
+      <file block="b">Contos-Cripta-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x04A.mp4</file>
+      <file block="b">Contos-Cripta-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x05A.mp4</file>
+      <file block="b">Contos-Cripta-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x06A.mp4</file>
+      <file block="b">Contos-Cripta-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x07A.mp4</file>
+      <file block="b">Contos-Cripta-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x08A.mp4</file>
+      <file block="b">Contos-Cripta-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x09A.mp4</file>
+      <file block="b">Contos-Cripta-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x10A.mp4</file>
+      <file block="b">Contos-Cripta-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x11A.mp4</file>
+      <file block="b">Contos-Cripta-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x12A.mp4</file>
+      <file block="b">Contos-Cripta-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-01x13A.mp4</file>
+      <file block="b">Contos-Cripta-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E01</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x01A.mp4</file>
+      <file block="b">Contos-Cripta-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E02</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x02A.mp4</file>
+      <file block="b">Contos-Cripta-02x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E03</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x03A.mp4</file>
+      <file block="b">Contos-Cripta-02x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E04</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x04A.mp4</file>
+      <file block="b">Contos-Cripta-02x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E05</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x05A.mp4</file>
+      <file block="b">Contos-Cripta-02x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E06</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x06A.mp4</file>
+      <file block="b">Contos-Cripta-02x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E07</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x07A.mp4</file>
+      <file block="b">Contos-Cripta-02x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E08</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x08A.mp4</file>
+      <file block="b">Contos-Cripta-02x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E09</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x09A.mp4</file>
+      <file block="b">Contos-Cripta-02x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E10</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x10A.mp4</file>
+      <file block="b">Contos-Cripta-02x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E11</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x11A.mp4</file>
+      <file block="b">Contos-Cripta-02x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="contos-da-cripta">
+    <episode-num>S02E12</episode-num>
+    <video-files>
+      <file block="a">Contos-Cripta-02x12A.mp4</file>
+      <file block="b">Contos-Cripta-02x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E01</episode-num>
+    <sub-title>O Tick vs Os Ideia-Man</sub-title>
+    <video-files>
+      <file block="a">Tick-01x01A.mp4</file>
+      <file block="b">Tick-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E02</episode-num>
+    <sub-title>O Tick vs o Cadeira</sub-title>
+    <video-files>
+      <file block="a">Tick-01x02A.mp4</file>
+      <file block="b">Tick-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E03</episode-num>
+    <sub-title>O Tick vs o Dinossauro Neil</sub-title>
+    <video-files>
+      <file block="a">Tick-01x03A.mp4</file>
+      <file block="b">Tick-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E04</episode-num>
+    <sub-title>O Tick vs o Senhor Mental</sub-title>
+    <video-files>
+      <file block="a">Tick-01x04A.mp4</file>
+      <file block="b">Tick-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E05</episode-num>
+    <sub-title>O Tick vs O Padeiro</sub-title>
+    <video-files>
+      <file block="a">Tick-01x05A.mp4</file>
+      <file block="b">Tick-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E06</episode-num>
+    <sub-title>O Tick vs El Seed</sub-title>
+    <video-files>
+      <file block="a">Tick-01x06A.mp4</file>
+      <file block="b">Tick-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E07</episode-num>
+    <sub-title>O Tick vs Tick</sub-title>
+    <video-files>
+      <file block="a">Tick-01x07A.mp4</file>
+      <file block="b">Tick-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">Tick-01x08A.mp4</file>
+      <file block="b">Tick-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">Tick-01x09A.mp4</file>
+      <file block="b">Tick-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">Tick-01x10A.mp4</file>
+      <file block="b">Tick-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">Tick-01x11A.mp4</file>
+      <file block="b">Tick-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">Tick-01x12A.mp4</file>
+      <file block="b">Tick-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">Tick-01x13A.mp4</file>
+      <file block="b">Tick-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S02E01</episode-num>
+    <video-files>
+      <file block="a">Tick-02x01A.mp4</file>
+      <file block="b">Tick-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S02E01</episode-num>
+    <sub-title>Um Hulk de Cor Diferente</sub-title>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-02x01A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S02E02</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-02x02A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-02x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S02E03</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-02x03A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-02x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S02E04</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-02x04A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-02x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S02E05</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-02x05A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-02x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S02E06</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-02x06A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-02x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S02E07</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-02x07A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-02x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S02E08</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-02x08A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-02x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="patlabor-o-filme">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+    <video-files>
+      <file block="a">Patlabor o filme-A</file>
+      <file block="b">Patlabor o filme-B</file>
+    </video-files>
+  </programme>
+
+  <programme progid="retorno-da-familia-addams">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="o-caminho-para-el-dorado">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="paulie-o-papagaio-bom-de-papo">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+</catalog>
