@@ -93,12 +93,14 @@
   <prog id="patlabor-o-filme" start="20260628">
     <display-name lang="pt">Patlabor: O Filme</display-name>
     <category lang="pt">Movie</category>
+    <icon src="https://assets.mubicdn.net/images/film/31806/image-w1280.jpg?1745491903" />
     <file-prefix>patlabor-o-filme</file-prefix>
   </prog>
 
   <prog id="retorno-da-familia-addams" start="20260705">
     <display-name lang="pt">Retorno da Familia Addams</display-name>
     <category lang="pt">Movie</category>
+    <icon src="https://macabra.tv/wp-content/uploads/2021/09/O-Retorno-da-Fam%C3%ADlia-Addams-MacabraTV.jpg" />
     <file-prefix>retornodafamiliaaddams</file-prefix>
     <weekday days="dom"/>
   </prog>
@@ -113,6 +115,7 @@
   <prog id="paulie-o-papagaio-bom-de-papo" start="20260719">
     <display-name lang="pt">Paulie - O Papagaio Bom de Papo</display-name>
     <category lang="pt">Movie</category>
+    <icon src="https://img.youtube.com/vi/AGV8nB_EEAU/mqdefault.jpg" />
     <file-prefix>paulieopapagaiobomdepapo</file-prefix>
     <weekday days="dom"/>
   </prog>
