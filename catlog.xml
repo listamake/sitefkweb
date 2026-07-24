@@ -1,123 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
 
-  <prog id="digimon" start="20260608">
+  <prog id="digimon" onair="yes" start="20260608">
     <display-name lang="pt">Digimon</display-name>
+    <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para o digi-Mundo. E agora tentarão salvá-lo com a ajuda dos Digimon, contras forças do mal.</desc>
     <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <file-prefix>da</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
+    <hour type="r" days="sab">040000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">060000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">103000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="power-rangers-no-espaco" start="20260604">
+  <prog id="power-rangers-no-espaco" onair="yes" start="20260604">
     <display-name lang="pt">Power Rangers no Espaço</display-name>
     <category lang="pt">Série</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <file-prefix>powerrangersm</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="ter,qui"/>
   </prog>
 
-  <prog id="o-mundo-de-bobby" start="20260615">
+  <prog id="o-mundo-de-bobby" onair="yes" start="20260615">
     <display-name lang="pt">O Mundo de Bobby</display-name>
+    <desc lang="pt">Imagine que você é um menino de apenas quatro anos de idade e que seus sonhos frequentemente se tornam realidade. Assim é mundo de Bobby!</desc>
     <category lang="pt">Desenho</category>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
     <file-prefix>bobby</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="patlabor" start="20260518">
+  <prog id="patlabor" onair="yes" start="20260722">
     <display-name lang="pt">Patlabor</display-name>
+    <desc lang="pt">Essa série animada de ficção científica mostra as aventuras dos “Labors”, robôs gigantes que são usados como ferramentas na construção civil e até mesmo como apoio à polícia no cumprimento da lei.</desc>
     <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <file-prefix>patlabor</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">183000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">223000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">073000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">113000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="power-rangers-forca-animal" start="20260624">
+  <prog id="power-rangers-forca-animal" onair="yes" start="20260624">
     <display-name lang="pt">Power Rangers: Força Animal</display-name>
     <category lang="pt">Série</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <file-prefix>pr-forca-do-animal</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="goosebumps" start="20260615">
+  <prog id="goosebumps" onair="yes" start="20260615">
     <display-name lang="pt">Goosebumps</display-name>
     <category lang="pt">Séries</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <file-prefix>goosebumps</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">230000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex,sab">013000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">050000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="homem-aranha" start="20260601">
+  <prog id="homem-aranha" onair="yes" start="20260701">
     <display-name lang="pt">Homem Aranha</display-name>
     <category lang="pt">Animação</category>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
     <file-prefix>homem-aranha</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,qua,sex">140000</hour>
+    <hour type="r" days="seg,qua,sex">163000</hour>
+    <hour type="r" days="seg,qua,sex">203000</hour>
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="homem-aranha-e-seus-amigos" start="20260615">
+  <prog id="homem-aranha-e-seus-amigos" onair="yes" start="20260703">
     <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
     <category lang="pt">Animação</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <file-prefix>homem-aranha-e-amigos</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="super-pig" start="20260601">
+  <prog id="super-pig" onair="yes" start="20260720">
     <display-name lang="pt">Super Pig</display-name>
     <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
     <file-prefix>super-pig</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="oggy-e-as-baratas" start="20260601">
+  <prog id="oggy-e-as-baratas" onair="yes" start="20260706">
     <display-name lang="pt">Oggy e as Baratas</display-name>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
     <file-prefix>oggy</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="contos-da-cripta" start="20260601">
+  <prog id="contos-da-cripta" onair="yes" start="20260713">
     <display-name lang="pt">Contos da Cripta</display-name>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
     <file-prefix>contos-cripta</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">233000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex,sab">020000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">053000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="the-tick" start="20260604">
+  <prog id="the-tick" onair="yes" start="20260604">
     <display-name lang="pt">The Tick</display-name>
     <category lang="pt">Animação</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <file-prefix>tick</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="ter,qui"/>
   </prog>
 
-  <prog id="o-incrivel-hulk" start="20260604">
+  <prog id="o-incrivel-hulk" onair="yes" start="20260702">
     <display-name lang="pt">O Incrível Hulk</display-name>
     <category lang="pt">Animação</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <file-prefix>o-incrivel-hulk</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="ter,qui"/>
   </prog>
 
-  <prog id="patlabor-o-filme" start="20260628">
+  <prog id="patlabor-o-filme" onair="yes" start="20260628">
     <display-name lang="pt">Patlabor: O Filme</display-name>
     <category lang="pt">Movie</category>
     <icon src="https://assets.mubicdn.net/images/film/31806/image-w1280.jpg?1745491903" />
     <file-prefix>patlabor-o-filme</file-prefix>
+    <length units="minutes">30</length>
   </prog>
 
-  <prog id="retorno-da-familia-addams" start="20260705">
+  <prog id="retorno-da-familia-addams" onair="yes" start="20260705">
     <display-name lang="pt">Retorno da Familia Addams</display-name>
     <category lang="pt">Movie</category>
     <icon src="https://macabra.tv/wp-content/uploads/2021/09/O-Retorno-da-Fam%C3%ADlia-Addams-MacabraTV.jpg" />
     <file-prefix>retornodafamiliaaddams</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="dom"/>
   </prog>
 
-  <prog id="o-caminho-para-el-dorado" start="20260712">
+  <prog id="o-caminho-para-el-dorado" onair="yes" start="20260712">
     <display-name lang="pt">O Caminho para El Dorado</display-name>
     <category lang="pt">Movie</category>
     <file-prefix>ocaminhoparaeldorado</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="dom"/>
   </prog>
 
-  <prog id="paulie-o-papagaio-bom-de-papo" start="20260719">
+  <prog id="paulie-o-papagaio-bom-de-papo" onair="yes" start="20260719">
     <display-name lang="pt">Paulie - O Papagaio Bom de Papo</display-name>
     <category lang="pt">Movie</category>
     <icon src="https://img.youtube.com/vi/AGV8nB_EEAU/mqdefault.jpg" />
     <file-prefix>paulieopapagaiobomdepapo</file-prefix>
+    <length units="minutes">30</length>
     <weekday days="dom"/>
+  </prog>
+
+  <prog id="shinzo" onair="no" start="20260727">
+    <display-name lang="pt">Shinzo</display-name>
+    <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <file-prefix>shinzo</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,qua,sex">183000</hour>
+    <weekday days="seg,qua,sex"/>
+  </prog>
+
+  <prog id="invasao-anime" onair="no" type="block">
+    <display-name lang="pt">Invasão Anime</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(0, 255, 255);</color>
+    <length units="minutes">90</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
+    <weekday days="seg,ter,qua,qui,sex"/>
+    <block>
+       <ass id="digimon"/>
+       <ass id="patlabor"/>
+       <ass id="shinzo"/>
+    </block>
+  </prog>
+
+  <prog id="cineskopio" onair="yes" type="block">
+    <display-name lang="pt">Cineskópio</display-name>
+    <category lang="pt">Filmes</category>
+    <color>rgb(204, 255, 204);</color>
+    <file-prefix>cineskopio</file-prefix>
+    <length units="minutes">120</length>
+    <hour type="o" days="dom">120000</hour>
+    <hour type="r" days="dom">190000</hour>
+    <weekday days="dom"/>
+    <block>
+       <ass id="retorno-da-familia-addams"/>
+       <ass id="o-caminho-para-el-dorado"/>
+       <ass id="paulie-o-papagaio-bom-de-papo"/>
+       <ass id="um-ratinho-encrenqueiro"/>
+    </block>
+  </prog>
+
+  <prog id="mysteria" onair="no" type="block">
+    <display-name lang="pt">Mysteria</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(204, 153, 255);</color>
+    <file-prefix>mysteria</file-prefix>
+    <length units="minutes">60</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">230000</hour>
+    <weekday days="seg,ter,qua,qui,sex"/>
+    <block>
+       <ass id="goosebumps"/>
+       <ass id="contos-da-cripta"/>
+    </block>
+  </prog>
+
+  <prog id="um-ratinho-encrenqueiro" onair="yes" start="20260726">
+    <display-name lang="pt">Um Ratinho Encrenqueiro</display-name>
+    <desc lang="pt">O ratinho se transforma em uma ameaça para os dois irmãos que percebem que o roedor pode colocar a casa a baixo se eles não vencerem logo a batalha contra ele.</desc>
+    <category lang="pt">Movie</category>
+    <icon src="https://m.media-amazon.com/images/S/pv-target-images/204721f58aacc9287020f1b1d26ef3b515e11cc3731ccfabfdfcbf1e9830391d.jpg" />
+    <file-prefix>umratinhoencrenqueiro</file-prefix>
+    <length units="minutes">120</length>
   </prog>
 
   <programme progid="digimon">
@@ -659,6 +802,281 @@
     </video-files>
   </programme>
 
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E10</episode-num>
+    <sub-title>A Vespa que Tinha Coração Mole</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-10A.mp4</file>
+      <file block="b">PR-Espaco-10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E11</episode-num>
+    <sub-title>A Descoberta do Delta</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-11A.mp4</file>
+      <file block="b">PR-Espaco-11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E12</episode-num>
+    <sub-title>O Conversor de Maldade</sub-title>
+    <video-files>
+      <file block="a">PR-Espaco-12A.mp4</file>
+      <file block="b">PR-Espaco-12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E13</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-13A.mp4</file>
+      <file block="b">PR-Espaco-13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E14</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-14A.mp4</file>
+      <file block="b">PR-Espaco-14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E15</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-15A.mp4</file>
+      <file block="b">PR-Espaco-15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E16</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-16A.mp4</file>
+      <file block="b">PR-Espaco-16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E17</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-17A.mp4</file>
+      <file block="b">PR-Espaco-17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E18</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-18A.mp4</file>
+      <file block="b">PR-Espaco-18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E19</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-19A.mp4</file>
+      <file block="b">PR-Espaco-19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E20</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-20A.mp4</file>
+      <file block="b">PR-Espaco-20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E21</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-21A.mp4</file>
+      <file block="b">PR-Espaco-21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E22</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-22A.mp4</file>
+      <file block="b">PR-Espaco-22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E23</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-23A.mp4</file>
+      <file block="b">PR-Espaco-23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E24</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-24A.mp4</file>
+      <file block="b">PR-Espaco-24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E25</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-25A.mp4</file>
+      <file block="b">PR-Espaco-25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E26</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-26A.mp4</file>
+      <file block="b">PR-Espaco-26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E27</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-27A.mp4</file>
+      <file block="b">PR-Espaco-27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E28</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-28A.mp4</file>
+      <file block="b">PR-Espaco-28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E29</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-29A.mp4</file>
+      <file block="b">PR-Espaco-29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E30</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-30A.mp4</file>
+      <file block="b">PR-Espaco-30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E31</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-31A.mp4</file>
+      <file block="b">PR-Espaco-31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E32</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-32A.mp4</file>
+      <file block="b">PR-Espaco-32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E33</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-33A.mp4</file>
+      <file block="b">PR-Espaco-33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E34</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-34A.mp4</file>
+      <file block="b">PR-Espaco-34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E35</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-35A.mp4</file>
+      <file block="b">PR-Espaco-35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E36</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-36A.mp4</file>
+      <file block="b">PR-Espaco-36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E37</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-37A.mp4</file>
+      <file block="b">PR-Espaco-37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E38</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-38A.mp4</file>
+      <file block="b">PR-Espaco-38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E39</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-39A.mp4</file>
+      <file block="b">PR-Espaco-39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E40</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-40A.mp4</file>
+      <file block="b">PR-Espaco-40B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E41</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-41A.mp4</file>
+      <file block="b">PR-Espaco-41B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E42</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-42A.mp4</file>
+      <file block="b">PR-Espaco-42B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-no-espaco">
+    <episode-num>S06E43</episode-num>
+    <video-files>
+      <file block="a">PR-Espaco-43A.mp4</file>
+      <file block="b">PR-Espaco-43B.mp4</file>
+    </video-files>
+  </programme>
+
   <programme progid="o-mundo-de-bobby">
     <episode-num>S01E01</episode-num>
     <sub-title>Visitando Tia Ruth</sub-title>
@@ -758,12 +1176,191 @@
     </video-files>
   </programme>
 
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E12</episode-num>
+    <sub-title>Booby sai de férias!</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x12A.mp4</file>
+      <file block="b">BOBBY-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S01E13</episode-num>
+    <sub-title>Bobby na Televisão.</sub-title>
+    <video-files>
+      <file block="a">BOBBY-01x13A.mp4</file>
+      <file block="b">BOBBY-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S02E01</episode-num>
+    <sub-title>Vem vindo um bebê ai!</sub-title>
+    <video-files>
+      <file block="a">BOBBY-02x01A.mp4</file>
+      <file block="b">BOBBY-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S02E02</episode-num>
+    <video-files>
+      <file block="a">BOBBY-02x02A.mp4</file>
+      <file block="b">BOBBY-02x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S02E03</episode-num>
+    <video-files>
+      <file block="a">BOBBY-02x03A.mp4</file>
+      <file block="b">BOBBY-02x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S02E04</episode-num>
+    <video-files>
+      <file block="a">BOBBY-02x04A.mp4</file>
+      <file block="b">BOBBY-02x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S02E05</episode-num>
+    <video-files>
+      <file block="a">BOBBY-02x05A.mp4</file>
+      <file block="b">BOBBY-02x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S02E06</episode-num>
+    <video-files>
+      <file block="a">BOBBY-02x06A.mp4</file>
+      <file block="b">BOBBY-02x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S02E07</episode-num>
+    <video-files>
+      <file block="a">BOBBY-02x07A.mp4</file>
+      <file block="b">BOBBY-02x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S02E08</episode-num>
+    <video-files>
+      <file block="a">BOBBY-02x08A.mp4</file>
+      <file block="b">BOBBY-02x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E01</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x01A.mp4</file>
+      <file block="b">BOBBY-03x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E02</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x02A.mp4</file>
+      <file block="b">BOBBY-03x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E03</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x03A.mp4</file>
+      <file block="b">BOBBY-03x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E04</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x04A.mp4</file>
+      <file block="b">BOBBY-03x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E05</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x05A.mp4</file>
+      <file block="b">BOBBY-03x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E06</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x06A.mp4</file>
+      <file block="b">BOBBY-03x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E07</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x07A.mp4</file>
+      <file block="b">BOBBY-03x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E08</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x08A.mp4</file>
+      <file block="b">BOBBY-03x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E09</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x09A.mp4</file>
+      <file block="b">BOBBY-03x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E10</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x10A.mp4</file>
+      <file block="b">BOBBY-03x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E11</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x11A.mp4</file>
+      <file block="b">BO3BY-03x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S03E12</episode-num>
+    <video-files>
+      <file block="a">BOBBY-03x12A.mp4</file>
+      <file block="b">BOBBY-03x12B.mp4</file>
+    </video-files>
+  </programme>
+
   <programme progid="patlabor">
     <episode-num>S01E01</episode-num>
     <sub-title>Confusão na Policia</sub-title>
     <video-files>
-      <file block="a">Patlabor-01A</file>
-      <file block="b">Patlabor-01B</file>
+      <file block="a">Patlabor-01A.mp4</file>
+      <file block="b">Patlabor-01B.mp4</file>
     </video-files>
   </programme>
 
@@ -1589,25 +2186,10 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E15</episode-num>
+    <sub-title>Olha o Passarinho</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x15A.mp4</file>
       <file block="b">GOOSEBUMPS-01x15B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="goosebumps">
-    <episode-num>S01E16</episode-num>
-    <video-files>
-      <file block="a">GOOSEBUMPS-01x16A.mp4</file>
-      <file block="b">GOOSEBUMPS-01x16B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="goosebumps">
-    <episode-num>S01E17</episode-num>
-    <video-files>
-      <file block="a">GOOSEBUMPS-01x17A.mp4</file>
-      <file block="b">GOOSEBUMPS-01x17B.mp4</file>
     </video-files>
   </programme>
 
@@ -1677,6 +2259,595 @@
     <video-files>
       <file block="a">GOOSEBUMPS-02x11A.mp4</file>
       <file block="b">GOOSEBUMPS-02x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E12</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x12A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E13</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x13A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E14</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x14A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E18</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x18A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E19</episode-num>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x19A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E24</episode-num>
+    <sub-title>A Noite do Boneco Vivo III - Parte 1</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x24A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S02E25</episode-num>
+    <sub-title>A Noite do Boneco Vivo III - Parte 2</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-02x25A.mp4</file>
+      <file block="b">GOOSEBUMPS-02x25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E01</episode-num>
+    <sub-title>O Brinquedo Mortal</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x01A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E03</episode-num>
+    <sub-title>A Casa sem Retorno</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x03A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E04</episode-num>
+    <sub-title>Não Vá Dormir!</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x04A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E05</episode-num>
+    <sub-title>O Controle Remoto</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x05A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E06</episode-num>
+    <sub-title>Uma Velha História</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x06A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E07</episode-num>
+    <sub-title>O Fantasma que late</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x07A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E10</episode-num>
+    <sub-title>A Casa Assombrada</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x10A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E13</episode-num>
+    <sub-title>Pele de Lobisomem- Parte 1</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x13A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E14</episode-num>
+    <sub-title>Pele de Lobisomem- Parte 2</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x14A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E15</episode-num>
+    <sub-title>Formigas Fantásticas</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x15A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S03E18</episode-num>
+    <sub-title>Câmera Maligna</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-03x18A.mp4</file>
+      <file block="b">GOOSEBUMPS-03x18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E01</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-01x01A.mp4</file>
+      <file block="b">Homem-Aranha-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E02</episode-num>
+    <sub-title>A Viúva Negra.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-01x02A.mp4</file>
+      <file block="b">Homem-Aranha-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-01x03A.mp4</file>
+      <file block="b">Homem-Aranha-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-01x04A.mp4</file>
+      <file block="b">Homem-Aranha-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-01x05A.mp4</file>
+      <file block="b">Homem-Aranha-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E06</episode-num>
+    <sub-title>A Picada do Escorpião.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-01x06A.mp4</file>
+      <file block="b">Homem-Aranha-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E07</episode-num>
+    <sub-title>Kraven O Caçador.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-01x07A.mp4</file>
+      <file block="b">Homem-Aranha-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E08</episode-num>
+    <sub-title>A Roupa Alienígena: Parte 1.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-01x08A.mp4</file>
+      <file block="b">Homem-Aranha-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E09</episode-num>
+    <sub-title>A Roupa Alienígena: Parte 2.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-01x09A.mp4</file>
+      <file block="b">Homem-Aranha-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E10</episode-num>
+    <sub-title>A Roupa Alienígena: Parte 3.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-01x10A.mp4</file>
+      <file block="b">Homem-Aranha-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E11</episode-num>
+    <sub-title>O Duende Macabro: Parte 1.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-01x11A.mp4</file>
+      <file block="b">Homem-Aranha-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E12</episode-num>
+    <sub-title>O Duende Macabro: Parte 2.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-01x12A.mp4</file>
+      <file block="b">Homem-Aranha-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S01E13</episode-num>
+    <sub-title>O Dia do Camaleão</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-01x13A.mp4</file>
+      <file block="b">Homem-Aranha-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E01</episode-num>
+    <sub-title>Os Seis Traiçoeiros (Parte 1)</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-02x01A.mp4</file>
+      <file block="b">Homem-Aranha-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E02</episode-num>
+    <sub-title>Os Seis Traiçoeiros (Parte 2)</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-02x02A.mp4</file>
+      <file block="b">Homem-Aranha-02x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E03</episode-num>
+    <sub-title>Hydroman.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-02x03A.mp4</file>
+      <file block="b">Homem-Aranha-02x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E04</episode-num>
+    <sub-title>Morte Aos Mutantes (Parte 01)</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-02x04A.mp4</file>
+      <file block="b">Homem-Aranha-02x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E05</episode-num>
+    <sub-title>Morte Aos Mutantes (Parte 02)</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-02x05A.mp4</file>
+      <file block="b">Homem-Aranha-02x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E06</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-02x06A.mp4</file>
+      <file block="b">Homem-Aranha-02x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E07</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-02x07A.mp4</file>
+      <file block="b">Homem-Aranha-02x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E08</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-02x08A.mp4</file>
+      <file block="b">Homem-Aranha-02x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E09</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-02x09A.mp4</file>
+      <file block="b">Homem-Aranha-02x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E10</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-02x10A.mp4</file>
+      <file block="b">Homem-Aranha-02x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E11</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-02x11A.mp4</file>
+      <file block="b">Homem-Aranha-02x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E12</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-02x12A.mp4</file>
+      <file block="b">Homem-Aranha-02x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E13</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-02x13A.mp4</file>
+      <file block="b">Homem-Aranha-02x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S02E14</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-02x14A.mp4</file>
+      <file block="b">Homem-Aranha-02x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E01</episode-num>
+    <sub-title>Doutor Strange/Estranho.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-03x01A.mp4</file>
+      <file block="b">Homem-Aranha-03x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E02</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x02A.mp4</file>
+      <file block="b">Homem-Aranha-03x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E03</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x03A.mp4</file>
+      <file block="b">Homem-Aranha-03x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E04</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x04A.mp4</file>
+      <file block="b">Homem-Aranha-03x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E05</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x05A.mp4</file>
+      <file block="b">Homem-Aranha-03x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E06</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x06A.mp4</file>
+      <file block="b">Homem-Aranha-03x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E07</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x07A.mp4</file>
+      <file block="b">Homem-Aranha-03x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E08</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x08A.mp4</file>
+      <file block="b">Homem-Aranha-03x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E09</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x09A.mp4</file>
+      <file block="b">Homem-Aranha-03x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E10</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x10A.mp4</file>
+      <file block="b">Homem-Aranha-03x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E11</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x11A.mp4</file>
+      <file block="b">Homem-Aranha-03x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E12</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x12A.mp4</file>
+      <file block="b">Homem-Aranha-03x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E13</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x13A.mp4</file>
+      <file block="b">Homem-Aranha-03x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S03E14</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-03x14A.mp4</file>
+      <file block="b">Homem-Aranha-03x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E01</episode-num>
+    <sub-title>Culpado</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-04x01A.mp4</file>
+      <file block="b">Homem-Aranha-04x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E02</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x02A.mp4</file>
+      <file block="b">Homem-Aranha-04x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E03</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x03A.mp4</file>
+      <file block="b">Homem-Aranha-04x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E04</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x04A.mp4</file>
+      <file block="b">Homem-Aranha-04x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E05</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x05A.mp4</file>
+      <file block="b">Homem-Aranha-04x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E06</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x06A.mp4</file>
+      <file block="b">Homem-Aranha-04x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E07</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x07A.mp4</file>
+      <file block="b">Homem-Aranha-04x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E08</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x08A.mp4</file>
+      <file block="b">Homem-Aranha-04x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E09</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x09A.mp4</file>
+      <file block="b">Homem-Aranha-04x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E10</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x10A.mp4</file>
+      <file block="b">Homem-Aranha-04x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha">
+    <episode-num>S04E11</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-04x11A.mp4</file>
+      <file block="b">Homem-Aranha-04x11B.mp4</file>
     </video-files>
   </programme>
 
@@ -1789,6 +2960,139 @@
     <video-files>
       <file block="a">Homem-Aranha-05x13A.mp4</file>
       <file block="b">Homem-Aranha-05x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E01</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x01A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x02A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x03A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E04</episode-num>
+    <sub-title>Fogo Solar</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x04A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x05A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x06A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x07A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x08A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x09A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x10A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x11A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x12A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E13</episode-num>
+    <sub-title>Em Busca do Caveira Vermelha</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x13A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S02E01</episode-num>
+    <sub-title>A Origem do Homem Gelo</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-02x01A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S02E02</episode-num>
+    <sub-title>A História do Aranha</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-02x02A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-02x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S02E03</episode-num>
+    <sub-title>Nasce a Flama</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-02x03A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-02x03B.mp4</file>
     </video-files>
   </programme>
 
@@ -2096,6 +3400,14 @@
     </video-files>
   </programme>
 
+  <programme progid="super-pig">
+    <episode-num>S01E35</episode-num>
+    <video-files>
+      <file block="a">SUPER PIG-35A.mp4</file>
+      <file block="b">SUPER PIG-35B.mp4</file>
+    </video-files>
+  </programme>
+
   <programme progid="oggy-e-as-baratas">
     <episode-num>S01E01</episode-num>
     <video-files>
@@ -2331,6 +3643,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S01E06</episode-num>
+    <sub-title>A Bela Adormecida</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-01x06A.mp4</file>
       <file block="b">Contos-Cripta-01x06B.mp4</file>
@@ -2339,6 +3652,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S01E07</episode-num>
+    <sub-title>O Homem das Cavernas</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-01x07A.mp4</file>
       <file block="b">Contos-Cripta-01x07B.mp4</file>
@@ -2347,6 +3661,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S01E08</episode-num>
+    <sub-title>Esconde, Esconde!</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-01x08A.mp4</file>
       <file block="b">Contos-Cripta-01x08B.mp4</file>
@@ -2602,9 +3917,169 @@
 
   <programme progid="the-tick">
     <episode-num>S02E01</episode-num>
+    <sub-title>O Garoto de Madeira e a Barriga de Amor</sub-title>
     <video-files>
       <file block="a">Tick-02x01A.mp4</file>
       <file block="b">Tick-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S02E03</episode-num>
+    <sub-title>A Vênus e os Sem Braços</sub-title>
+    <video-files>
+      <file block="a">Tick-02x03A.mp4</file>
+      <file block="b">Tick-02x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S02E04</episode-num>
+    <sub-title>Leonardo da Vinci e os Comandos dos Lutadores do Gênio do Tempo</sub-title>
+    <video-files>
+      <file block="a">Tick-02x04A.mp4</file>
+      <file block="b">Tick-02x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S02E05</episode-num>
+    <sub-title>O Lamento do Treinador Fussell</sub-title>
+    <video-files>
+      <file block="a">Tick-02x05A.mp4</file>
+      <file block="b">Tick-02x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S02E11</episode-num>
+    <sub-title>O Tick contra o grande nada.</sub-title>
+    <video-files>
+      <file block="a">Tick-02x11A.mp4</file>
+      <file block="b">Tick-02x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S02E12</episode-num>
+    <sub-title>O Tick contra Reno, Nevada</sub-title>
+    <video-files>
+      <file block="a">Tick-02x12A.mp4</file>
+      <file block="b">Tick-02x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="the-tick">
+    <episode-num>S03E05</episode-num>
+    <sub-title>O Careca de Frauda</sub-title>
+    <video-files>
+      <file block="a">Tick-03x05A.mp4</file>
+      <file block="b">Tick-03x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E01</episode-num>
+    <sub-title>O Retorno da Besta</sub-title>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x01A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x02A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x03A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x04A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x05A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x06A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x07A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x08A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x09A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x10A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x11A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x12A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-incrivel-hulk">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">O-Incrivel-Hulk-01x13A.mp4</file>
+      <file block="b">O-Incrivel-Hulk-01x13B.mp4</file>
     </video-files>
   </programme>
 
@@ -2693,6 +4168,268 @@
   </programme>
 
   <programme progid="paulie-o-papagaio-bom-de-papo">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E01</episode-num>
+    <sub-title>O Despertar</sub-title>
+    <video-files>
+      <file block="a">Shinzo-01A.mp4</file>
+      <file block="b">Shinzo-01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">Shinzo-02A.mp4</file>
+      <file block="b">Shinzo-02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">Shinzo-03A.mp4</file>
+      <file block="b">Shinzo-03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">Shinzo-04A.mp4</file>
+      <file block="b">Shinzo-04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">Shinzo-05A.mp4</file>
+      <file block="b">Shinzo-05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">Shinzo-06A.mp4</file>
+      <file block="b">Shinzo-06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">Shinzo-07A.mp4</file>
+      <file block="b">Shinzo-07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">Shinzo-08A.mp4</file>
+      <file block="b">Shinzo-08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">Shinzo-09A.mp4</file>
+      <file block="b">Shinzo-09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">Shinzo-10A.mp4</file>
+      <file block="b">Shinzo-10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">Shinzo-11A.mp4</file>
+      <file block="b">Shinzo-11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">Shinzo-12A.mp4</file>
+      <file block="b">Shinzo-12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">Shinzo-13A.mp4</file>
+      <file block="b">Shinzo-13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">Shinzo-14A.mp4</file>
+      <file block="b">Shinzo-14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">Shinzo-15A.mp4</file>
+      <file block="b">Shinzo-15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">Shinzo-16A.mp4</file>
+      <file block="b">Shinzo-16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">Shinzo-17A.mp4</file>
+      <file block="b">Shinzo-17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E18</episode-num>
+    <video-files>
+      <file block="a">Shinzo-18A.mp4</file>
+      <file block="b">Shinzo-18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E19</episode-num>
+    <video-files>
+      <file block="a">Shinzo-19A.mp4</file>
+      <file block="b">Shinzo-19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E20</episode-num>
+    <video-files>
+      <file block="a">Shinzo-20A.mp4</file>
+      <file block="b">Shinzo-20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E21</episode-num>
+    <video-files>
+      <file block="a">Shinzo-21A.mp4</file>
+      <file block="b">Shinzo-21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E22</episode-num>
+    <video-files>
+      <file block="a">Shinzo-22A.mp4</file>
+      <file block="b">Shinzo-22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E23</episode-num>
+    <video-files>
+      <file block="a">Shinzo-23A.mp4</file>
+      <file block="b">Shinzo-23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E24</episode-num>
+    <video-files>
+      <file block="a">Shinzo-24A.mp4</file>
+      <file block="b">Shinzo-24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E25</episode-num>
+    <video-files>
+      <file block="a">Shinzo-25A.mp4</file>
+      <file block="b">Shinzo-25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E26</episode-num>
+    <video-files>
+      <file block="a">Shinzo-26A.mp4</file>
+      <file block="b">Shinzo-26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E27</episode-num>
+    <video-files>
+      <file block="a">Shinzo-27A.mp4</file>
+      <file block="b">Shinzo-27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E28</episode-num>
+    <video-files>
+      <file block="a">Shinzo-28A.mp4</file>
+      <file block="b">Shinzo-28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E29</episode-num>
+    <video-files>
+      <file block="a">Shinzo-29A.mp4</file>
+      <file block="b">Shinzo-29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E30</episode-num>
+    <video-files>
+      <file block="a">Shinzo-30A.mp4</file>
+      <file block="b">Shinzo-30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E31</episode-num>
+    <video-files>
+      <file block="a">Shinzo-31A.mp4</file>
+      <file block="b">Shinzo-31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="shinzo">
+    <episode-num>S01E32</episode-num>
+    <video-files>
+      <file block="a">Shinzo-32A.mp4</file>
+      <file block="b">Shinzo-32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="um-ratinho-encrenqueiro">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
   </programme>
