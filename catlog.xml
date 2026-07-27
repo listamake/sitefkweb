@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
 
-  <prog id="digimon" onair="yes" start="20260608">
+  <prog id="digimon" onair="yes" repeat="1" start="20260608">
     <display-name lang="pt">Digimon</display-name>
     <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para o digi-Mundo. E agora tentarão salvá-lo com a ajuda dos Digimon, contras forças do mal.</desc>
     <category lang="pt">Anime</category>
+    <category lang="pt">Séries</category>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
@@ -18,7 +19,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="power-rangers-no-espaco" onair="yes" start="20260604">
+  <prog id="power-rangers-no-espaco" onair="yes" repeat="1" start="20260604">
     <display-name lang="pt">Power Rangers no Espaço</display-name>
     <category lang="pt">Série</category>
     <rating system="CLASSIND">
@@ -26,25 +27,35 @@
     </rating>
     <file-prefix>powerrangersm</file-prefix>
     <length units="minutes">30</length>
+    <hour type="o" days="ter,qui">143000</hour>
+    <hour type="r" days="ter,qui">170000</hour>
+    <hour type="r" days="ter,qui">210000</hour>
+    <hour type="r" days="qua,sex">010000</hour>
     <weekday days="ter,qui"/>
   </prog>
 
-  <prog id="o-mundo-de-bobby" onair="yes" start="20260615">
+  <prog id="o-mundo-de-bobby" onair="yes" repeat="1" start="20260615">
     <display-name lang="pt">O Mundo de Bobby</display-name>
     <desc lang="pt">Imagine que você é um menino de apenas quatro anos de idade e que seus sonhos frequentemente se tornam realidade. Assim é mundo de Bobby!</desc>
     <category lang="pt">Desenho</category>
+    <category lang="pt">Séries</category>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
     <file-prefix>bobby</file-prefix>
     <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">123000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">153000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">193000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex,sab">030000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="patlabor" onair="yes" start="20260722">
+  <prog id="patlabor" onair="yes" repeat="1" start="20260722">
     <display-name lang="pt">Patlabor</display-name>
     <desc lang="pt">Essa série animada de ficção científica mostra as aventuras dos “Labors”, robôs gigantes que são usados como ferramentas na construção civil e até mesmo como apoio à polícia no cumprimento da lei.</desc>
     <category lang="pt">Anime</category>
+    <category lang="pt">Séries</category>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
@@ -52,12 +63,12 @@
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">183000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">223000</hour>
-    <hour type="r" days="seg,ter,qua,qui,sex">073000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">070000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">113000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="power-rangers-forca-animal" onair="yes" start="20260624">
+  <prog id="power-rangers-forca-animal" onair="yes" repeat="1" start="20260624">
     <display-name lang="pt">Power Rangers: Força Animal</display-name>
     <category lang="pt">Série</category>
     <rating system="CLASSIND">
@@ -65,10 +76,15 @@
     </rating>
     <file-prefix>pr-forca-do-animal</file-prefix>
     <length units="minutes">30</length>
+    <hour type="o" days="seg,qua,sex">143000</hour>
+    <hour type="r" days="seg,qua,sex">170000</hour>
+    <hour type="r" days="seg,qua,sex">210000</hour>
+    <hour type="r" days="seg,ter,qui,sab">010000</hour>
+    <hour type="r" days="seg,ter,qui">083000</hour>
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="goosebumps" onair="yes" start="20260615">
+  <prog id="goosebumps" onair="yes" repeat="1" start="20260615">
     <display-name lang="pt">Goosebumps</display-name>
     <category lang="pt">Séries</category>
     <rating system="CLASSIND">
@@ -82,9 +98,10 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="homem-aranha" onair="yes" start="20260701">
+  <prog id="homem-aranha" onair="yes" repeat="1" start="20260701">
     <display-name lang="pt">Homem Aranha</display-name>
     <category lang="pt">Animação</category>
+    <category lang="pt">Séries</category>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
@@ -93,10 +110,12 @@
     <hour type="o" days="seg,qua,sex">140000</hour>
     <hour type="r" days="seg,qua,sex">163000</hour>
     <hour type="r" days="seg,qua,sex">203000</hour>
+    <hour type="r" days="seg,ter,qui,sab">003000</hour>
+    <hour type="r" days="seg,ter,qui">080000</hour>
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="homem-aranha-e-seus-amigos" onair="yes" start="20260703">
+  <prog id="homem-aranha-e-seus-amigos" onair="yes" repeat="1" start="20260703">
     <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
     <category lang="pt">Animação</category>
     <rating system="CLASSIND">
@@ -104,32 +123,46 @@
     </rating>
     <file-prefix>homem-aranha-e-amigos</file-prefix>
     <length units="minutes">30</length>
+    <hour type="o" days="seg,qua,sex">133000</hour>
+    <hour type="r" days="seg,qua,sex">160000</hour>
+    <hour type="r" days="seg,ter,qui,sab">000000</hour>
+    <hour type="r" days="seg,ter,qui">033000</hour>
+    <hour type="r" days="seg,ter,qui">073000</hour>
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="super-pig" onair="yes" start="20260720">
+  <prog id="super-pig" onair="yes" repeat="1" start="20260720">
     <display-name lang="pt">Super Pig</display-name>
     <category lang="pt">Anime</category>
+    <category lang="pt">Séries</category>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
     <file-prefix>super-pig</file-prefix>
     <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">120000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">150000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">190000</hour>
+    <hour type="o" days="seg,ter,qua,qui,sex,sab">023000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="oggy-e-as-baratas" onair="yes" start="20260706">
+  <prog id="oggy-e-as-baratas" onair="yes" repeat="1" start="20260706">
     <display-name lang="pt">Oggy e as Baratas</display-name>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
     <file-prefix>oggy</file-prefix>
     <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">130000</hour>
+    <hour type="r" days="sab">033000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">100000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="contos-da-cripta" onair="yes" start="20260713">
+  <prog id="contos-da-cripta" onair="yes" repeat="1" start="20260713">
     <display-name lang="pt">Contos da Cripta</display-name>
+    <category lang="pt">Séries</category>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
@@ -141,7 +174,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="the-tick" onair="yes" start="20260604">
+  <prog id="the-tick" onair="yes" repeat="1" start="20260604">
     <display-name lang="pt">The Tick</display-name>
     <category lang="pt">Animação</category>
     <rating system="CLASSIND">
@@ -149,10 +182,13 @@
     </rating>
     <file-prefix>tick</file-prefix>
     <length units="minutes">30</length>
+    <hour type="o" days="ter,qui">133000</hour>
+    <hour type="r" days="ter,qui">160000</hour>
+    <hour type="r" days="ter,qui">200000</hour>
     <weekday days="ter,qui"/>
   </prog>
 
-  <prog id="o-incrivel-hulk" onair="yes" start="20260702">
+  <prog id="o-incrivel-hulk" onair="yes" repeat="1" start="20260702">
     <display-name lang="pt">O Incrível Hulk</display-name>
     <category lang="pt">Animação</category>
     <rating system="CLASSIND">
@@ -160,10 +196,12 @@
     </rating>
     <file-prefix>o-incrivel-hulk</file-prefix>
     <length units="minutes">30</length>
+    <hour type="o" days="ter,qui">140000</hour>
+    <hour type="r" days="ter,qui">163000</hour>
     <weekday days="ter,qui"/>
   </prog>
 
-  <prog id="patlabor-o-filme" onair="yes" start="20260628">
+  <prog id="patlabor-o-filme" onair="yes" repeat="1" start="20260628">
     <display-name lang="pt">Patlabor: O Filme</display-name>
     <category lang="pt">Movie</category>
     <icon src="https://assets.mubicdn.net/images/film/31806/image-w1280.jpg?1745491903" />
@@ -171,33 +209,33 @@
     <length units="minutes">30</length>
   </prog>
 
-  <prog id="retorno-da-familia-addams" onair="yes" start="20260705">
+  <prog id="retorno-da-familia-addams" onair="yes" repeat="1" start="20260705">
     <display-name lang="pt">Retorno da Familia Addams</display-name>
     <category lang="pt">Movie</category>
     <icon src="https://macabra.tv/wp-content/uploads/2021/09/O-Retorno-da-Fam%C3%ADlia-Addams-MacabraTV.jpg" />
     <file-prefix>retornodafamiliaaddams</file-prefix>
-    <length units="minutes">30</length>
+    <length units="minutes">120</length>
     <weekday days="dom"/>
   </prog>
 
-  <prog id="o-caminho-para-el-dorado" onair="yes" start="20260712">
+  <prog id="o-caminho-para-el-dorado" onair="yes" repeat="1" start="20260712">
     <display-name lang="pt">O Caminho para El Dorado</display-name>
     <category lang="pt">Movie</category>
     <file-prefix>ocaminhoparaeldorado</file-prefix>
-    <length units="minutes">30</length>
+    <length units="minutes">120</length>
     <weekday days="dom"/>
   </prog>
 
-  <prog id="paulie-o-papagaio-bom-de-papo" onair="yes" start="20260719">
+  <prog id="paulie-o-papagaio-bom-de-papo" onair="yes" repeat="1" start="20260719">
     <display-name lang="pt">Paulie - O Papagaio Bom de Papo</display-name>
     <category lang="pt">Movie</category>
     <icon src="https://img.youtube.com/vi/AGV8nB_EEAU/mqdefault.jpg" />
     <file-prefix>paulieopapagaiobomdepapo</file-prefix>
-    <length units="minutes">30</length>
+    <length units="minutes">120</length>
     <weekday days="dom"/>
   </prog>
 
-  <prog id="shinzo" onair="no" start="20260727">
+  <prog id="shinzo" onair="no" repeat="1" start="20260727">
     <display-name lang="pt">Shinzo</display-name>
     <category lang="pt">Anime</category>
     <rating system="CLASSIND">
@@ -209,9 +247,10 @@
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="invasao-anime" onair="no" type="block">
+  <prog id="invasao-anime" onair="yes" type="block">
     <display-name lang="pt">Invasão Anime</display-name>
     <category lang="pt">Anime</category>
+    <category lang="pt">Bloque</category>
     <color>rgb(0, 255, 255);</color>
     <length units="minutes">90</length>
     <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
@@ -226,6 +265,7 @@
   <prog id="cineskopio" onair="yes" type="block">
     <display-name lang="pt">Cineskópio</display-name>
     <category lang="pt">Filmes</category>
+    <category lang="pt">Bloque</category>
     <color>rgb(204, 255, 204);</color>
     <file-prefix>cineskopio</file-prefix>
     <length units="minutes">120</length>
@@ -233,6 +273,7 @@
     <hour type="r" days="dom">190000</hour>
     <weekday days="dom"/>
     <block>
+       <ass id="patlabor-o-filme"/>
        <ass id="retorno-da-familia-addams"/>
        <ass id="o-caminho-para-el-dorado"/>
        <ass id="paulie-o-papagaio-bom-de-papo"/>
@@ -240,9 +281,9 @@
     </block>
   </prog>
 
-  <prog id="mysteria" onair="no" type="block">
+  <prog id="mysteria" onair="yes" type="block">
     <display-name lang="pt">Mysteria</display-name>
-    <category lang="pt">Anime</category>
+    <category lang="pt">Bloque</category>
     <color>rgb(204, 153, 255);</color>
     <file-prefix>mysteria</file-prefix>
     <length units="minutes">60</length>
@@ -254,13 +295,35 @@
     </block>
   </prog>
 
-  <prog id="um-ratinho-encrenqueiro" onair="yes" start="20260726">
+  <prog id="um-ratinho-encrenqueiro" onair="yes" repeat="1" start="20260726">
     <display-name lang="pt">Um Ratinho Encrenqueiro</display-name>
     <desc lang="pt">O ratinho se transforma em uma ameaça para os dois irmãos que percebem que o roedor pode colocar a casa a baixo se eles não vencerem logo a batalha contra ele.</desc>
     <category lang="pt">Movie</category>
     <icon src="https://m.media-amazon.com/images/S/pv-target-images/204721f58aacc9287020f1b1d26ef3b515e11cc3731ccfabfdfcbf1e9830391d.jpg" />
     <file-prefix>umratinhoencrenqueiro</file-prefix>
     <length units="minutes">120</length>
+    <weekday days="dom"/>
+  </prog>
+
+  <prog id="evolusabdo" onair="yes" type="block">
+    <display-name lang="pt">Evolusábdo</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>evolusabdo</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="sab">183000</hour>
+  </prog>
+
+  <prog id="power-domingo" onair="yes" type="block">
+    <display-name lang="pt">Power Domingo</display-name>
+    <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>powerdomingo</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="dom">140000</hour>
   </prog>
 
   <programme progid="digimon">
