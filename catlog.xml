@@ -10,7 +10,7 @@
       <value>A10</value>
     </rating>
     <file-prefix>da</file-prefix>
-    <length units="minutes">30</length>
+    <length units="minutes">60</length>
     <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
     <hour type="r" days="sab">040000</hour>
