@@ -368,6 +368,7 @@
   <prog id="maratonas" onair="yes" type="block">
     <display-name lang="pt">Maratonas</display-name>
     <category lang="pt">Anime</category>
+    <category lang="pt">Bloque</category>
     <color>rgb(255, 204, 153);</color>
     <file-prefix>maratonas</file-prefix>
     <length units="minutes">60</length>
