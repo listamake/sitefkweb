@@ -10,7 +10,7 @@
       <value>A10</value>
     </rating>
     <file-prefix>da</file-prefix>
-    <length units="minutes">60</length>
+    <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
     <hour type="r" days="sab">040000</hour>
@@ -31,6 +31,8 @@
     <hour type="r" days="ter,qui">170000</hour>
     <hour type="r" days="ter,qui">210000</hour>
     <hour type="r" days="qua,sex">010000</hour>
+    <hour type="o" days="qua,sex">043000</hour>
+    <hour type="r" days="qua,sex">083000</hour>
     <weekday days="ter,qui"/>
   </prog>
 
@@ -65,6 +67,7 @@
     <hour type="r" days="seg,ter,qua,qui,sex">223000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">070000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">113000</hour>
+    <hour type="r" days="sab">050000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
@@ -80,6 +83,7 @@
     <hour type="r" days="seg,qua,sex">170000</hour>
     <hour type="r" days="seg,qua,sex">210000</hour>
     <hour type="r" days="seg,ter,qui,sab">010000</hour>
+    <hour type="r" days="seg,ter,qui">043000</hour>
     <hour type="r" days="seg,ter,qui">083000</hour>
     <weekday days="seg,qua,sex"/>
   </prog>
@@ -105,12 +109,14 @@
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
+    <icon src="https://disneyplusbrasil.com.br/wp-content/uploads/2021/08/Trailer-Homem-Aranha-Sem-Volta-Para-Casa-desenho-anos-90.jpg" />
     <file-prefix>homem-aranha</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,qua,sex">140000</hour>
     <hour type="r" days="seg,qua,sex">163000</hour>
     <hour type="r" days="seg,qua,sex">203000</hour>
     <hour type="r" days="seg,ter,qui,sab">003000</hour>
+    <hour type="r" days="seg,ter,qui">040000</hour>
     <hour type="r" days="seg,ter,qui">080000</hour>
     <weekday days="seg,qua,sex"/>
   </prog>
@@ -128,6 +134,7 @@
     <hour type="r" days="seg,ter,qui,sab">000000</hour>
     <hour type="r" days="seg,ter,qui">033000</hour>
     <hour type="r" days="seg,ter,qui">073000</hour>
+    <hour type="r" days="seg,qua,sex">200000</hour>
     <weekday days="seg,qua,sex"/>
   </prog>
 
@@ -147,7 +154,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="oggy-e-as-baratas" onair="yes" repeat="1" start="20260706">
+  <prog id="oggy-e-as-baratas" onair="yes" repeat="3" start="20260706">
     <display-name lang="pt">Oggy e as Baratas</display-name>
     <rating system="CLASSIND">
       <value>AL</value>
@@ -160,7 +167,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="contos-da-cripta" onair="yes" repeat="1" start="20260713">
+  <prog id="contos-da-cripta" onair="yes" repeat="2" start="20260713">
     <display-name lang="pt">Contos da Cripta</display-name>
     <category lang="pt">Séries</category>
     <rating system="CLASSIND">
@@ -185,6 +192,9 @@
     <hour type="o" days="ter,qui">133000</hour>
     <hour type="r" days="ter,qui">160000</hour>
     <hour type="r" days="ter,qui">200000</hour>
+    <hour type="r" days="qua,sex">000000</hour>
+    <hour type="r" days="qua,sex">033000</hour>
+    <hour type="r" days="qua,sex">073000</hour>
     <weekday days="ter,qui"/>
   </prog>
 
@@ -198,6 +208,10 @@
     <length units="minutes">30</length>
     <hour type="o" days="ter,qui">140000</hour>
     <hour type="r" days="ter,qui">163000</hour>
+    <hour type="r" days="ter,qui">203000</hour>
+    <hour type="r" days="qua,sex">003000</hour>
+    <hour type="r" days="qua,sex">040000</hour>
+    <hour type="r" days="qua,sex">080000</hour>
     <weekday days="ter,qui"/>
   </prog>
 
@@ -221,6 +235,7 @@
   <prog id="o-caminho-para-el-dorado" onair="yes" repeat="1" start="20260712">
     <display-name lang="pt">O Caminho para El Dorado</display-name>
     <category lang="pt">Movie</category>
+    <icon src="https://cinepop.com.br/wp-content/uploads/2025/08/el-dorado-4.jpg" />
     <file-prefix>ocaminhoparaeldorado</file-prefix>
     <length units="minutes">120</length>
     <weekday days="dom"/>
@@ -278,6 +293,8 @@
        <ass id="o-caminho-para-el-dorado"/>
        <ass id="paulie-o-papagaio-bom-de-papo"/>
        <ass id="um-ratinho-encrenqueiro"/>
+       <ass id="jose-o-rei-dos-sonhos"/>
+       <ass id="turbo-a-power-rangers-movie"/>
     </block>
   </prog>
 
@@ -324,6 +341,75 @@
     <file-prefix>powerdomingo</file-prefix>
     <length units="minutes">150</length>
     <hour type="o" days="dom">140000</hour>
+  </prog>
+
+  <prog id="jose-o-rei-dos-sonhos" onair="yes" repeat="1" start="20260802">
+    <display-name lang="pt">José, o Rei dos Sonhos</display-name>
+    <desc lang="pt">A habilidade de um menino em prever o futuro gera discórdia familiar, levando-o para o Egito, onde ele ajuda o faraó a proteger o reino e evitar tragédias.</desc>
+    <category lang="pt">Movie</category>
+    <icon src="https://blogbeautifuldreams.wordpress.com/wp-content/uploads/2017/01/joseph-king-of-dreams-2.jpg" />
+    <file-prefix>joseoreidossonhos</file-prefix>
+    <length units="minutes">120</length>
+    <weekday days="dom"/>
+  </prog>
+
+  <prog id="turbo-a-power-rangers-movie" onair="yes" repeat="1" start="20260809">
+    <display-name lang="pt">Turbo: A Power Rangers Movie</display-name>
+    <desc lang="pt">Os Turbo Power Rangers têm que enfrentar o diabólico pirata espacial Diratox que sequestrou um alienígena pequeno, mas sábio. Diratox o sequestra na ilha de Muranthias, onde apenas o mago Lerigot tem a chave para libertá-lo.</desc>
+    <category lang="pt">Movie</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://tokusatsu.blog.br/wp-content/uploads/2020/09/Power-Rangers-Turbo.jpg" />
+    <file-prefix>turboapowerrangersmovie</file-prefix>
+    <length units="minutes">120</length>
+  </prog>
+
+  <prog id="maratonas" onair="yes" type="block">
+    <display-name lang="pt">Maratonas</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonas</file-prefix>
+    <length units="minutes">60</length>
+  </prog>
+
+  <prog id="sabado-aranha" onair="yes" type="block">
+    <display-name lang="pt">Sábado Aranha</display-name>
+    <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>sabadoaranha</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="sab">160000</hour>
+  </prog>
+
+  <prog id="maratona-oggy-e-as-baratas" onair="yes" type="block">
+    <display-name lang="pt">Maratona: Oggy e as Baratas</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonaoggyeasbaratas</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="sab">083000</hour>
+  </prog>
+
+  <prog id="maratona-o-fantastico-mundo-de-bobby" onair="yes" type="block">
+    <display-name lang="pt">Maratona: O Fantástico Mundo De Bobby</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonaofantasticomundodebobby</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="sab">110000</hour>
+  </prog>
+
+  <prog id="maratona-goosebumps" onair="yes" type="block">
+    <display-name lang="pt">Maratona: Goosebumps</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonagoosebumps</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="dom">213000</hour>
   </prog>
 
   <programme progid="digimon">
@@ -1406,7 +1492,7 @@
     <episode-num>S03E11</episode-num>
     <video-files>
       <file block="a">BOBBY-03x11A.mp4</file>
-      <file block="b">BO3BY-03x11B.mp4</file>
+      <file block="b">BOBBY-03x11B.mp4</file>
     </video-files>
   </programme>
 
@@ -1415,6 +1501,206 @@
     <video-files>
       <file block="a">BOBBY-03x12A.mp4</file>
       <file block="b">BOBBY-03x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E01</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x01A.mp4</file>
+      <file block="b">BOBBY-04x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E02</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x02A.mp4</file>
+      <file block="b">BOBBY-04x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E03</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x03A.mp4</file>
+      <file block="b">BOBBY-04x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E04</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x04A.mp4</file>
+      <file block="b">BOBBY-04x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E05</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x05A.mp4</file>
+      <file block="b">BOBBY-04x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E06</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x06A.mp4</file>
+      <file block="b">BOBBY-04x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E07</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x07A.mp4</file>
+      <file block="b">BOBBY-04x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E08</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x08A.mp4</file>
+      <file block="b">BOBBY-04x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E09</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x09A.mp4</file>
+      <file block="b">BOBBY-04x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E10</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x10A.mp4</file>
+      <file block="b">BOBBY-04x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E11</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x11A.mp4</file>
+      <file block="b">BOBBY-04x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E12</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x12A.mp4</file>
+      <file block="b">BOBBY-04x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S04E13</episode-num>
+    <video-files>
+      <file block="a">BOBBY-04x13A.mp4</file>
+      <file block="b">BOBBY-04x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E01</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x01A.mp4</file>
+      <file block="b">BOBBY-05x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E02</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x02A.mp4</file>
+      <file block="b">BOBBY-05x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E03</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x03A.mp4</file>
+      <file block="b">BOBBY-05x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E04</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x04A.mp4</file>
+      <file block="b">BOBBY-05x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E05</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x05A.mp4</file>
+      <file block="b">BOBBY-05x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E06</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x06A.mp4</file>
+      <file block="b">BOBBY-05x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E07</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x07A.mp4</file>
+      <file block="b">BOBBY-05x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E08</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x08A.mp4</file>
+      <file block="b">BOBBY-05x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E09</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x09A.mp4</file>
+      <file block="b">BOBBY-05x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E10</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x10A.mp4</file>
+      <file block="b">BOBBY-05x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E11</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x11A.mp4</file>
+      <file block="b">BOBBY-05x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S05E12</episode-num>
+    <video-files>
+      <file block="a">BOBBY-05x12A.mp4</file>
+      <file block="b">BOBBY-05x12B.mp4</file>
     </video-files>
   </programme>
 
@@ -3663,6 +3949,14 @@
     </video-files>
   </programme>
 
+  <programme progid="oggy-e-as-baratas">
+    <episode-num>S01E25</episode-num>
+    <video-files>
+      <file block="a">Oggy-01x25A.mp4</file>
+      <file block="b">Oggy-01x25B.mp4</file>
+    </video-files>
+  </programme>
+
   <programme progid="contos-da-cripta">
     <episode-num>S01E01</episode-num>
     <sub-title>Quando o Gato não está</sub-title>
@@ -4493,6 +4787,16 @@
   </programme>
 
   <programme progid="um-ratinho-encrenqueiro">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="jose-o-rei-dos-sonhos">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="turbo-a-power-rangers-movie">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
   </programme>
