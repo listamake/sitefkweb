@@ -420,9 +420,6 @@
     <file-prefix>insomnia</file-prefix>
     <length units="minutes">60</length>
     <hour type="o" days="sab">233000</hour>
-    <block>
-       <ass id="dilbert"/>
-    </block>
   </prog>
 
   <prog id="dilbert" onair="yes" repeat="1" start="20260607">
