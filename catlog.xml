@@ -273,6 +273,7 @@
     <block>
        <ass id="digimon"/>
        <ass id="patlabor"/>
+       <ass id="shinzo"/>
     </block>
   </prog>
 
@@ -420,9 +421,12 @@
     <file-prefix>insomnia</file-prefix>
     <length units="minutes">60</length>
     <hour type="o" days="sab">233000</hour>
+    <block>
+       <ass id="dilbert"/>
+    </block>
   </prog>
 
-  <prog id="dilbert" onair="yes" repeat="1" start="20260607">
+  <prog id="dilbert" onair="yes" repeat="2" start="20260531">
     <display-name lang="pt">Dilbert</display-name>
     <rating system="CLASSIND">
       <value>A12</value>
@@ -430,7 +434,6 @@
     <file-prefix>dilbert</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="dom">000000</hour>
-    <hour type="r" days="dom">050000</hour>
   </prog>
 
   <programme progid="digimon">
