@@ -31,7 +31,7 @@
     <hour type="r" days="ter,qui">170000</hour>
     <hour type="r" days="ter,qui">210000</hour>
     <hour type="r" days="qua,sex">010000</hour>
-    <hour type="o" days="qua,sex">043000</hour>
+    <hour type="r" days="qua,sex">043000</hour>
     <hour type="r" days="qua,sex">083000</hour>
     <weekday days="ter,qui"/>
   </prog>
@@ -411,6 +411,29 @@
     <file-prefix>maratonagoosebumps</file-prefix>
     <length units="minutes">150</length>
     <hour type="o" days="dom">213000</hour>
+  </prog>
+
+  <prog id="insomnia" onair="yes" type="block">
+    <display-name lang="pt">Insomnia</display-name>
+    <category lang="pt">Cult</category>
+    <category lang="pt">Bloque</category>
+    <color>rgb(156, 207, 0);</color>
+    <file-prefix>insomnia</file-prefix>
+    <length units="minutes">60</length>
+    <hour type="o" days="sab">233000</hour>
+    <block>
+       <ass id="dilbert"/>
+    </block>
+  </prog>
+
+  <prog id="dilbert" onair="yes" repeat="1" start="20260607">
+    <display-name lang="pt">Dilbert</display-name>
+    <rating system="CLASSIND">
+      <value>A12</value>
+    </rating>
+    <file-prefix>dilbert</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="dom">000000</hour>
   </prog>
 
   <programme progid="digimon">
@@ -4060,6 +4083,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S01E13</episode-num>
+    <sub-title>O Navio Fantasma</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-01x13A.mp4</file>
       <file block="b">Contos-Cripta-01x13B.mp4</file>
@@ -4068,6 +4092,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E01</episode-num>
+    <sub-title>Fim de jogo!</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x01A.mp4</file>
       <file block="b">Contos-Cripta-02x01B.mp4</file>
@@ -4800,6 +4825,230 @@
   <programme progid="turbo-a-power-rangers-movie">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E01</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x01A.mp4</file>
+      <file block="b">Dilbert-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x02A.mp4</file>
+      <file block="b">Dilbert-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x03A.mp4</file>
+      <file block="b">Dilbert-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x04A.mp4</file>
+      <file block="b">Dilbert-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x05A.mp4</file>
+      <file block="b">Dilbert-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x06A.mp4</file>
+      <file block="b">Dilbert-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x07A.mp4</file>
+      <file block="b">Dilbert-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x08A.mp4</file>
+      <file block="b">Dilbert-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x09A.mp4</file>
+      <file block="b">Dilbert-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x10A.mp4</file>
+      <file block="b">Dilbert-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x11A.mp4</file>
+      <file block="b">Dilbert-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x12A.mp4</file>
+      <file block="b">Dilbert-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">Dilbert-01x13A.mp4</file>
+      <file block="b">Dilbert-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E01</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x01A.mp4</file>
+      <file block="b">Dilbert-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E02</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x02A.mp4</file>
+      <file block="b">Dilbert-02x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E03</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x03A.mp4</file>
+      <file block="b">Dilbert-02x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E04</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x04A.mp4</file>
+      <file block="b">Dilbert-02x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E05</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x05A.mp4</file>
+      <file block="b">Dilbert-02x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E06</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x06A.mp4</file>
+      <file block="b">Dilbert-02x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E07</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x07A.mp4</file>
+      <file block="b">Dilbert-02x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E08</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x08A.mp4</file>
+      <file block="b">Dilbert-02x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E09</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x09A.mp4</file>
+      <file block="b">Dilbert-02x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E10</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x10A.mp4</file>
+      <file block="b">Dilbert-02x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E11</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x11A.mp4</file>
+      <file block="b">Dilbert-02x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E12</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x12A.mp4</file>
+      <file block="b">Dilbert-02x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E13</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x13A.mp4</file>
+      <file block="b">Dilbert-02x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E14</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x14A.mp4</file>
+      <file block="b">Dilbert-02x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="dilbert">
+    <episode-num>S02E15</episode-num>
+    <video-files>
+      <file block="a">Dilbert-02x15A.mp4</file>
+      <file block="b">Dilbert-02x15B.mp4</file>
+    </video-files>
   </programme>
 
 </catalog>
