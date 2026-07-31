@@ -150,7 +150,7 @@
     <hour type="o" days="seg,ter,qua,qui,sex">120000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">150000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">190000</hour>
-    <hour type="o" days="seg,ter,qua,qui,sex,sab">023000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex,sab">023000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
@@ -273,7 +273,6 @@
     <block>
        <ass id="digimon"/>
        <ass id="patlabor"/>
-       <ass id="shinzo"/>
     </block>
   </prog>
 
@@ -434,6 +433,7 @@
     <file-prefix>dilbert</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="dom">000000</hour>
+    <hour type="r" days="dom">050000</hour>
   </prog>
 
   <programme progid="digimon">
