@@ -50,6 +50,7 @@
     <hour type="r" days="seg,ter,qua,qui,sex">153000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">193000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex,sab">030000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">093000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
@@ -151,6 +152,7 @@
     <hour type="r" days="seg,ter,qua,qui,sex">150000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">190000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex,sab">023000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">090000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
@@ -434,6 +436,37 @@
     <file-prefix>dilbert</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="dom">000000</hour>
+  </prog>
+
+  <prog id="maratona-homem-aranha-e-seus-amigos" onair="yes" type="block">
+    <display-name lang="pt">Maratona: Homem-Aranha e Seus Amigos</display-name>
+    <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>6</value>
+    </rating>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonahomemaranhaeseusamigos</file-prefix>
+    <length units="minutes">90</length>
+    <hour type="o" days="sab">070000</hour>
+    <hour type="r" days="dom">003000</hour>
+  </prog>
+
+  <prog id="maratona-patlabor" onair="yes" type="block">
+    <display-name lang="pt">Maratona: Patlabor</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonapatlabor</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="sab">210000</hour>
+  </prog>
+
+  <prog id="maratona-contos-da-cripta" onair="yes" type="block">
+    <display-name lang="pt">Maratona: Contos da Cripta</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonacontosdacripta</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="dom">060000</hour>
   </prog>
 
   <programme progid="digimon">
