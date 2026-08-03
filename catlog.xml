@@ -106,6 +106,7 @@
 
   <prog id="homem-aranha" onair="yes" repeat="1" start="20260701">
     <display-name lang="pt">Homem Aranha</display-name>
+    <desc lang="pt">Para o Homem-Aranha, ser um super-herói não é nada fácil: ele tem que encontrar tempo para a sua namorada enquanto livra a cidade dos criminosos mais perigosos.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Séries</category>
     <rating system="CLASSIND">
@@ -3578,6 +3579,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S03E02</episode-num>
+    <sub-title>A Noiva de Drácula!</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-03x02A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-03x02B.mp4</file>
@@ -3586,6 +3588,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S03E03</episode-num>
+    <sub-title>A Formação  de um Super-herói</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-03x03A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-03x03B.mp4</file>
@@ -3594,6 +3597,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S03E04</episode-num>
+    <sub-title>Ataque do aracnídeo</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-03x04A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-03x04B.mp4</file>
