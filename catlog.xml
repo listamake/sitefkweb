@@ -89,7 +89,7 @@
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="goosebumps" onair="yes" repeat="1" start="20260615">
+  <prog id="goosebumps" onair="yes" repeat="8" start="20260615">
     <display-name lang="pt">Goosebumps</display-name>
     <desc lang="pt">Você acha que é corajoso o suficiente para embarcar nas mais tenebrosas histórias de terror, sem perder a calma? Se é assim, R.L. Stine tem muitas para mostrar para você.</desc>
     <category lang="pt">Séries</category>
@@ -140,8 +140,9 @@
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="super-pig" onair="yes" repeat="1" start="20260720">
+  <prog id="super-pig" onair="yes" repeat="2" start="20260720">
     <display-name lang="pt">Super Pig</display-name>
+    <desc lang="pt">Descubra como uma garota normal adquire super poderes de um porquinho mágico.</desc>
     <category lang="pt">Anime</category>
     <category lang="pt">Séries</category>
     <rating system="CLASSIND">
@@ -184,8 +185,9 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="the-tick" onair="yes" repeat="1" start="20260604">
+  <prog id="the-tick" onair="yes" repeat="4" start="20260604">
     <display-name lang="pt">The Tick</display-name>
+    <desc lang="pt">Você consegue imaginar um super-herói azul com dois metros e meio de altura e quase 200 quilos? É o Tick, o mais corajoso dos nossos super-heróis.</desc>
     <category lang="pt">Animação</category>
     <rating system="CLASSIND">
       <value>A10</value>
@@ -278,6 +280,7 @@
        <ass id="digimon"/>
        <ass id="patlabor"/>
        <ass id="shinzo"/>
+       <ass id="medabots"/>
     </block>
   </prog>
 
@@ -479,6 +482,20 @@
     <file-prefix>ostrespatetas</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="sab">233000</hour>
+  </prog>
+
+  <prog id="medabots" onair="yes" repeat="1">
+    <display-name lang="pt">Medabots</display-name>
+    <desc lang="pt">No futuro, há crianças que têm como mascotes robôs com inteligência artificial. São os Medalutadores e seus Medabots que são os protagonistas de surpreendentes Ciberlutas.</desc>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
+    <file-prefix>medabots</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">180000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">220000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">063000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">110000</hour>
   </prog>
 
   <programme progid="digimon">
@@ -2834,6 +2851,42 @@
     <video-files>
       <file block="a">GOOSEBUMPS-03x18A.mp4</file>
       <file block="b">GOOSEBUMPS-03x18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S04E01</episode-num>
+    <sub-title>Como Consegui Minha Cabeça Encolhida - Parte 1</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-04x01A.mp4</file>
+      <file block="b">GOOSEBUMPS-04x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S04E02</episode-num>
+    <sub-title>Como Consegui Minha Cabeça Encolhida - Parte 2</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-04x02A.mp4</file>
+      <file block="b">GOOSEBUMPS-04x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S04E07</episode-num>
+    <sub-title>Mar de Problemas - Parte 1</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-04x07A.mp4</file>
+      <file block="b">GOOSEBUMPS-04x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="goosebumps">
+    <episode-num>S04E08</episode-num>
+    <sub-title>Mar de Problemas - Parte 2</sub-title>
+    <video-files>
+      <file block="a">GOOSEBUMPS-04x08A.mp4</file>
+      <file block="b">GOOSEBUMPS-04x08B.mp4</file>
     </video-files>
   </programme>
 
