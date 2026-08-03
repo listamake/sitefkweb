@@ -91,6 +91,7 @@
 
   <prog id="goosebumps" onair="yes" repeat="1" start="20260615">
     <display-name lang="pt">Goosebumps</display-name>
+    <desc lang="pt">Você acha que é corajoso o suficiente para embarcar nas mais tenebrosas histórias de terror, sem perder a calma? Se é assim, R.L. Stine tem muitas para mostrar para você.</desc>
     <category lang="pt">Séries</category>
     <rating system="CLASSIND">
       <value>A10</value>
@@ -202,6 +203,7 @@
 
   <prog id="o-incrivel-hulk" onair="yes" repeat="1" start="20260702">
     <display-name lang="pt">O Incrível Hulk</display-name>
+    <desc lang="pt">O desenho animado do monstro verde mais famoso do mundo está de volta, narrando a triste história do cientista Bruce Banner, que precisa lidar com uma poderosa fera interior: O Incrível Hulk</desc>
     <category lang="pt">Animação</category>
     <rating system="CLASSIND">
       <value>A10</value>
@@ -325,7 +327,8 @@
   </prog>
 
   <prog id="evolusabdo" onair="yes" type="block">
-    <display-name lang="pt">Evolusábdo</display-name>
+    <display-name lang="pt">Evolusábado</display-name>
+    <desc lang="pt">No Digimundo, a batalha contra o mal se vence com pura digievolução! Não perca essa maratona impressionante.</desc>
     <category lang="pt">Anime</category>
     <color>rgb(255, 204, 153);</color>
     <file-prefix>evolusabdo</file-prefix>
@@ -425,6 +428,7 @@
     <hour type="o" days="sab">233000</hour>
     <block>
        <ass id="dilbert"/>
+       <ass id="os-tres-patetas"/>
     </block>
   </prog>
 
@@ -467,6 +471,14 @@
     <file-prefix>maratonacontosdacripta</file-prefix>
     <length units="minutes">150</length>
     <hour type="o" days="dom">060000</hour>
+  </prog>
+
+  <prog id="os-tres-patetas" onair="yes" repeat="1">
+    <display-name lang="pt">Os Três Patetas</display-name>
+    <desc lang="pt">Curly, Larry e Moe entraram para a história da comédia com suas guerras de tortas, as brigas atrapalhadas e a inesquecível furada de olhos. Não perca um dos maiores fenômenos da televisão, os Três Patetas, agora na Fox Kids.</desc>
+    <file-prefix>ostrespatetas</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="sab">233000</hour>
   </prog>
 
   <programme progid="digimon">
