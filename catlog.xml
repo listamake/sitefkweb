@@ -124,8 +124,9 @@
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="homem-aranha-e-seus-amigos" onair="yes" repeat="1" start="20260703">
+  <prog id="homem-aranha-e-seus-amigos" onair="yes" repeat="3" start="20260703">
     <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
+    <desc lang="pt">Os verdadeiros fãs de todo o mundo ficarão encantados com as magníficas aventuras do super-herói “O Homem Aranha”.</desc>
     <category lang="pt">Animação</category>
     <rating system="CLASSIND">
       <value>A10</value>
@@ -161,6 +162,7 @@
 
   <prog id="oggy-e-as-baratas" onair="yes" repeat="3" start="20260706">
     <display-name lang="pt">Oggy e as Baratas</display-name>
+    <desc lang="pt">O maior problema de Oggy são três baratas, cujo único objetivo é fazer com que sua vida se torne um pesadelo.</desc>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
@@ -174,6 +176,7 @@
 
   <prog id="contos-da-cripta" onair="yes" repeat="2" start="20260713">
     <display-name lang="pt">Contos da Cripta</display-name>
+    <desc lang="pt">o Guardião da Cripta conta as histórias de terror mais amigáveis para crianças aos espectadores, cada uma com uma lição para aprender.</desc>
     <category lang="pt">Séries</category>
     <rating system="CLASSIND">
       <value>AL</value>
@@ -232,6 +235,7 @@
 
   <prog id="retorno-da-familia-addams" onair="yes" repeat="1" start="20260705">
     <display-name lang="pt">Retorno da Familia Addams</display-name>
+    <desc lang="pt">Os Addams estão super animados: receberam um convite inesperado para uma &quot;reunião familiar&quot;. O que há de estranho nisso? Que o convite estava escrito errado e que a reunião era da família A-d-a-m-s!</desc>
     <category lang="pt">Movie</category>
     <icon src="https://macabra.tv/wp-content/uploads/2021/09/O-Retorno-da-Fam%C3%ADlia-Addams-MacabraTV.jpg" />
     <file-prefix>retornodafamiliaaddams</file-prefix>
@@ -438,6 +442,7 @@
 
   <prog id="dilbert" onair="yes" repeat="2" start="20260531">
     <display-name lang="pt">Dilbert</display-name>
+    <desc lang="pt">DILBERT retrata a vida e a rotina do protótipo do herói da atualidade, enquanto ele lida com seus problemas na The Company e os obstáculos que ele enfrenta para realizar seu trabalho.</desc>
     <rating system="CLASSIND">
       <value>A12</value>
     </rating>
@@ -497,6 +502,34 @@
     <hour type="r" days="seg,ter,qua,qui,sex">220000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">063000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">110000</hour>
+  </prog>
+
+  <prog id="acao-e-aventura" onair="yes" type="block">
+    <display-name lang="pt">Ação e Aventura</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(111, 158, 206);</color>
+    <file-prefix>acaoeaventura</file-prefix>
+    <length units="minutes">60</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">140000</hour>
+    <weekday days="seg,ter,qua,qui,sex"/>
+    <block>
+       <ass id="power-rangers-no-espaco"/>
+       <ass id="power-rangers-forca-animal"/>
+       <ass id="homem-aranha"/>
+       <ass id="o-incrivel-hulk"/>
+    </block>
+  </prog>
+
+  <prog id="esquadrilha-aerea" onair="yes" repeat="1">
+    <display-name lang="pt">Esquadrilha Aérea</display-name>
+    <desc lang="pt">ESQUADRILHA AÉREA é a escola secreta de treinamento aeronáutico onde chegam as missões mais perigosas e clandestinas que ninguém mais é capaz de resolver.</desc>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
+    <file-prefix>esquadrilhaaerea</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="dom">210000</hour>
+    <hour type="o" days="dom,sab">053000</hour>
   </prog>
 
   <programme progid="digimon">
