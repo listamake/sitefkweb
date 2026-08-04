@@ -575,7 +575,7 @@
     <color>rgb(255, 204, 153);</color>
     <file-prefix>maratonasuperpig</file-prefix>
     <length units="minutes">150</length>
-    <hour type="o" days="sab">130000</hour>
+    <hour type="o" days="sab">133000</hour>
     <hour type="r" days="dom">083000</hour>
   </prog>
 
