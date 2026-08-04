@@ -74,6 +74,7 @@
 
   <prog id="power-rangers-forca-animal" onair="yes" repeat="1" start="20260624">
     <display-name lang="pt">Power Rangers: Força Animal</display-name>
+    <desc lang="pt">Das profundezas da Terra, o líder dos Orgs escapou. Agora o planeta está em perigo. Cinco jovens corajosos são escolhidos para derrotá-lo: os Power Rangers: Força Animal!</desc>
     <category lang="pt">Série</category>
     <rating system="CLASSIND">
       <value>A10</value>
@@ -395,7 +396,7 @@
     </rating>
     <color>rgb(255, 204, 153);</color>
     <file-prefix>sabadoaranha</file-prefix>
-    <length units="minutes">150</length>
+    <length units="minutes">90</length>
     <hour type="o" days="sab">160000</hour>
   </prog>
 
@@ -485,6 +486,9 @@
   <prog id="os-tres-patetas" onair="yes" repeat="1">
     <display-name lang="pt">Os Três Patetas</display-name>
     <desc lang="pt">Curly, Larry e Moe entraram para a história da comédia com suas guerras de tortas, as brigas atrapalhadas e a inesquecível furada de olhos. Não perca um dos maiores fenômenos da televisão, os Três Patetas, agora na Fox Kids.</desc>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <file-prefix>ostrespatetas</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="sab">233000</hour>
@@ -530,6 +534,49 @@
     <length units="minutes">30</length>
     <hour type="o" days="dom">210000</hour>
     <hour type="o" days="dom,sab">053000</hour>
+  </prog>
+
+  <prog id="maratona-the-tick" onair="yes" type="block">
+    <display-name lang="pt">Maratona: The Tick</display-name>
+    <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonathetick</file-prefix>
+    <length units="minutes">60</length>
+    <hour type="o" days="sab">060000</hour>
+    <hour type="r" days="dom">023000</hour>
+    <hour type="r" days="dom">110000</hour>
+  </prog>
+
+  <prog id="sabado-verde" onair="yes" type="block">
+    <display-name lang="pt">Sábado Verde</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>sabadoverde</file-prefix>
+    <length units="minutes">60</length>
+    <hour type="o" days="sab">173000</hour>
+    <hour type="r" days="dom">043000</hour>
+  </prog>
+
+  <prog id="maratona-homem-aranha" onair="yes" type="block">
+    <display-name lang="pt">Maratona: Homem Aranha</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonahomemaranha</file-prefix>
+    <length units="minutes">90</length>
+    <hour type="o" days="dom">030000</hour>
+  </prog>
+
+  <prog id="maratona-super-pig" onair="yes" type="block">
+    <display-name lang="pt">Maratona: Super Pig</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonasuperpig</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="sab">130000</hour>
+    <hour type="r" days="dom">083000</hour>
   </prog>
 
   <programme progid="digimon">
