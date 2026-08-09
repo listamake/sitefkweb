@@ -583,6 +583,18 @@
     <hour type="r" days="dom">083000</hour>
   </prog>
 
+  <prog id="maratona-medabots" onair="yes" type="block">
+    <display-name lang="pt">Maratona: Medabots</display-name>
+    <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonamedabots</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="dom">163000</hour>
+  </prog>
+
   <programme progid="digimon">
     <episode-num>S01E01</episode-num>
     <sub-title>Férias de Verão</sub-title>
