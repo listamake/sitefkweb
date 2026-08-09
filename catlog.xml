@@ -506,6 +506,7 @@
     <hour type="r" days="seg,ter,qua,qui,sex">220000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">063000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">110000</hour>
+    <hour type="r" days="sab">043000</hour>
   </prog>
 
   <prog id="acao-e-aventura" onair="yes" type="block">
@@ -546,13 +547,16 @@
     <file-prefix>maratonathetick</file-prefix>
     <length units="minutes">60</length>
     <hour type="o" days="sab">060000</hour>
-    <hour type="r" days="dom">023000</hour>
+    <hour type="r" days="dom">020000</hour>
     <hour type="r" days="dom">110000</hour>
   </prog>
 
   <prog id="sabado-verde" onair="yes" type="block">
     <display-name lang="pt">Sábado Verde</display-name>
     <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <color>rgb(255, 204, 153);</color>
     <file-prefix>sabadoverde</file-prefix>
     <length units="minutes">60</length>
@@ -929,6 +933,7 @@
 
   <programme progid="digimon">
     <episode-num>S01E42</episode-num>
+    <sub-title>Obrigado, Whamon!</sub-title>
     <video-files>
       <file block="a">DA-01x42A.mp4</file>
       <file block="b">DA-01x42B.mp4</file>
@@ -937,6 +942,7 @@
 
   <programme progid="digimon">
     <episode-num>S01E43</episode-num>
+    <sub-title>Pinokkimon, Brincando de Matar</sub-title>
     <video-files>
       <file block="a">DA-01x43A.mp4</file>
       <file block="b">DA-01x43B.mp4</file>
@@ -945,6 +951,7 @@
 
   <programme progid="digimon">
     <episode-num>S01E44</episode-num>
+    <sub-title>O Misterioso Jyureimon</sub-title>
     <video-files>
       <file block="a">DA-01x44A.mp4</file>
       <file block="b">DA-01x44B.mp4</file>
@@ -953,6 +960,7 @@
 
   <programme progid="digimon">
     <episode-num>S01E45</episode-num>
+    <sub-title>WarGreymon Contra MetalGarurumon</sub-title>
     <video-files>
       <file block="a">DA-01x45A.mp4</file>
       <file block="b">DA-01x45B.mp4</file>
@@ -961,6 +969,7 @@
 
   <programme progid="digimon">
     <episode-num>S01E46</episode-num>
+    <sub-title>A Vingança de Etemon</sub-title>
     <video-files>
       <file block="a">DA-01x46A.mp4</file>
       <file block="b">DA-01x46B.mp4</file>
@@ -969,6 +978,7 @@
 
   <programme progid="digimon">
     <episode-num>S01E47</episode-num>
+    <sub-title>Adeus, Leomon!</sub-title>
     <video-files>
       <file block="a">DA-01x47A.mp4</file>
       <file block="b">DA-01x47B.mp4</file>
@@ -977,6 +987,7 @@
 
   <programme progid="digimon">
     <episode-num>S01E48</episode-num>
+    <sub-title>Kari em Perigo</sub-title>
     <video-files>
       <file block="a">DA-01x48A.mp4</file>
       <file block="b">DA-01x48B.mp4</file>
@@ -1187,6 +1198,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E18</episode-num>
+    <sub-title>A Falsa Ranger</sub-title>
     <video-files>
       <file block="a">PR-Espaco-18A.mp4</file>
       <file block="b">PR-Espaco-18B.mp4</file>
