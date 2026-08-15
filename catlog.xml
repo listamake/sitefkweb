@@ -308,6 +308,8 @@
        <ass id="um-ratinho-encrenqueiro"/>
        <ass id="jose-o-rei-dos-sonhos"/>
        <ass id="turbo-a-power-rangers-movie"/>
+       <ass id="gasparzinho-como-tudo-comecou"/>
+       <ass id="digimon-o-filme"/>
     </block>
   </prog>
 
@@ -593,6 +595,30 @@
     <file-prefix>maratonamedabots</file-prefix>
     <length units="minutes">150</length>
     <hour type="o" days="dom">163000</hour>
+  </prog>
+
+  <prog id="gasparzinho-como-tudo-comecou" onair="yes" repeat="1" start="20260816">
+    <display-name lang="pt">Gasparzinho Como Tudo Começou</display-name>
+    <desc lang="pt">Gasparzinho falta em seu treinamento fantasma e seus poderes fantasmagóricos são os únicos que podem salvar a cidade da bola destruidora e reunir um pai e um filho.</desc>
+    <category lang="pt">Movie</category>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
+    <icon src="https://images.firstpost.com/wp-content/uploads/2017/03/casper.jpg" />
+    <file-prefix>gasparzinhocomotudocomecou</file-prefix>
+    <length units="minutes">120</length>
+  </prog>
+
+  <prog id="digimon-o-filme" onair="yes" repeat="1" start="20260823">
+    <display-name lang="pt">Digimon: O Filme</display-name>
+    <desc lang="pt">Os primeiros digidestined estão de volta neste filme incrível! Um novo Digimon poderoso está tomando conta de todos os dados do Digiworld e ameaça expandir sua destruição para o mundo real. Izzy e seus amigos vão enfrentá-lo usando uma estratégia surpreendente: unir todas as crianças do mundo nesta batalha definitiva!</desc>
+    <category lang="pt">Movie</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/07/ezgif-3-5718cb98a7.jpg" />
+    <file-prefix>digimonofilme</file-prefix>
+    <length units="minutes">120</length>
   </prog>
 
   <programme progid="digimon">
@@ -5255,6 +5281,16 @@
       <file block="a">Dilbert-02x15A.mp4</file>
       <file block="b">Dilbert-02x15B.mp4</file>
     </video-files>
+  </programme>
+
+  <programme progid="gasparzinho-como-tudo-comecou">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="digimon-o-filme">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
   </programme>
 
 </catalog>
