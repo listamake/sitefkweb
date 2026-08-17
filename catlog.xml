@@ -621,6 +621,15 @@
     <length units="minutes">120</length>
   </prog>
 
+  <prog id="maratona-digimon-2" onair="no" type="block" start="20260821">
+    <display-name lang="pt">Maratona: Digimon 2</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonadigimon2</file-prefix>
+    <length units="minutes">1200</length>
+    <hour type="o" days="sex">200000</hour>
+  </prog>
+
   <programme progid="digimon">
     <episode-num>S01E01</episode-num>
     <sub-title>Férias de Verão</sub-title>
@@ -1245,6 +1254,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E19</episode-num>
+    <sub-title>a Falsa Ranger</sub-title>
     <video-files>
       <file block="a">PR-Espaco-19A.mp4</file>
       <file block="b">PR-Espaco-19B.mp4</file>
@@ -1253,6 +1263,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E20</episode-num>
+    <sub-title>Sobrevivência do Ranger de Prata</sub-title>
     <video-files>
       <file block="a">PR-Espaco-20A.mp4</file>
       <file block="b">PR-Espaco-20B.mp4</file>
@@ -1261,6 +1272,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E21</episode-num>
+    <sub-title>o Ciúme de Andros</sub-title>
     <video-files>
       <file block="a">PR-Espaco-21A.mp4</file>
       <file block="b">PR-Espaco-21B.mp4</file>
@@ -1269,6 +1281,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E22</episode-num>
+    <sub-title>o Segredo do Ranger de Prata</sub-title>
     <video-files>
       <file block="a">PR-Espaco-22A.mp4</file>
       <file block="b">PR-Espaco-22B.mp4</file>
@@ -1277,6 +1290,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E23</episode-num>
+    <sub-title>Um Encontro Com o Perigo</sub-title>
     <video-files>
       <file block="a">PR-Espaco-23A.mp4</file>
       <file block="b">PR-Espaco-23B.mp4</file>
@@ -1285,6 +1299,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E24</episode-num>
+    <sub-title>o Destino de Zhane</sub-title>
     <video-files>
       <file block="a">PR-Espaco-24A.mp4</file>
       <file block="b">PR-Espaco-24B.mp4</file>
@@ -1293,6 +1308,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E25</episode-num>
+    <sub-title>Sempre Há Uma Chance</sub-title>
     <video-files>
       <file block="a">PR-Espaco-25A.mp4</file>
       <file block="b">PR-Espaco-25B.mp4</file>
@@ -1301,6 +1317,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E26</episode-num>
+    <sub-title>o Segredo do Medalhão</sub-title>
     <video-files>
       <file block="a">PR-Espaco-26A.mp4</file>
       <file block="b">PR-Espaco-26B.mp4</file>
@@ -1309,6 +1326,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E27</episode-num>
+    <sub-title>o Dilema de Astronema</sub-title>
     <video-files>
       <file block="a">PR-Espaco-27A.mp4</file>
       <file block="b">PR-Espaco-27B.mp4</file>
@@ -1317,6 +1335,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E28</episode-num>
+    <sub-title>a Fé dos Rangers</sub-title>
     <video-files>
       <file block="a">PR-Espaco-28A.mp4</file>
       <file block="b">PR-Espaco-28B.mp4</file>
@@ -1325,6 +1344,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E29</episode-num>
+    <sub-title>a Vingança do Espectro Negro - Parte 1</sub-title>
     <video-files>
       <file block="a">PR-Espaco-29A.mp4</file>
       <file block="b">PR-Espaco-29B.mp4</file>
@@ -1333,6 +1353,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E30</episode-num>
+    <sub-title>a Vingança do Espectro Negro - Parte 2</sub-title>
     <video-files>
       <file block="a">PR-Espaco-30A.mp4</file>
       <file block="b">PR-Espaco-30B.mp4</file>
@@ -1341,6 +1362,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E31</episode-num>
+    <sub-title>os Rangers Contra os Psycho Rangers</sub-title>
     <video-files>
       <file block="a">PR-Espaco-31A.mp4</file>
       <file block="b">PR-Espaco-31B.mp4</file>
@@ -1349,6 +1371,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E32</episode-num>
+    <sub-title>a Amiguinha de Carlos</sub-title>
     <video-files>
       <file block="a">PR-Espaco-32A.mp4</file>
       <file block="b">PR-Espaco-32B.mp4</file>
@@ -1357,6 +1380,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E33</episode-num>
+    <sub-title>Rompimento Entre os Rangers</sub-title>
     <video-files>
       <file block="a">PR-Espaco-33A.mp4</file>
       <file block="b">PR-Espaco-33B.mp4</file>
@@ -1755,6 +1779,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E05</episode-num>
+    <sub-title>A Aventura de Bobby e Derek</sub-title>
     <video-files>
       <file block="a">BOBBY-04x05A.mp4</file>
       <file block="b">BOBBY-04x05B.mp4</file>
@@ -1763,6 +1788,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E06</episode-num>
+    <sub-title>Bobby e as Aulas de Karate</sub-title>
     <video-files>
       <file block="a">BOBBY-04x06A.mp4</file>
       <file block="b">BOBBY-04x06B.mp4</file>
@@ -1771,6 +1797,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E07</episode-num>
+    <sub-title>Meu Pai é o Maior</sub-title>
     <video-files>
       <file block="a">BOBBY-04x07A.mp4</file>
       <file block="b">BOBBY-04x07B.mp4</file>
@@ -1779,6 +1806,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E08</episode-num>
+    <sub-title>Mamãe Merece uma Estátua</sub-title>
     <video-files>
       <file block="a">BOBBY-04x08A.mp4</file>
       <file block="b">BOBBY-04x08B.mp4</file>
@@ -1787,6 +1815,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E09</episode-num>
+    <sub-title>O Que é Ser Dedo Duro</sub-title>
     <video-files>
       <file block="a">BOBBY-04x09A.mp4</file>
       <file block="b">BOBBY-04x09B.mp4</file>
@@ -1795,6 +1824,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E10</episode-num>
+    <sub-title>E o Meu Dia</sub-title>
     <video-files>
       <file block="a">BOBBY-04x10A.mp4</file>
       <file block="b">BOBBY-04x10B.mp4</file>
@@ -1803,6 +1833,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E11</episode-num>
+    <sub-title>O Mistério da Bola de Lama</sub-title>
     <video-files>
       <file block="a">BOBBY-04x11A.mp4</file>
       <file block="b">BOBBY-04x11B.mp4</file>
@@ -1811,6 +1842,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E12</episode-num>
+    <sub-title>O Grande Sonho de Bobby</sub-title>
     <video-files>
       <file block="a">BOBBY-04x12A.mp4</file>
       <file block="b">BOBBY-04x12B.mp4</file>
@@ -1819,6 +1851,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E13</episode-num>
+    <sub-title>Bobby, o Músical</sub-title>
     <video-files>
       <file block="a">BOBBY-04x13A.mp4</file>
       <file block="b">BOBBY-04x13B.mp4</file>
@@ -1827,6 +1860,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E01</episode-num>
+    <sub-title>Rebelde Sem Causa</sub-title>
     <video-files>
       <file block="a">BOBBY-05x01A.mp4</file>
       <file block="b">BOBBY-05x01B.mp4</file>
@@ -1835,6 +1869,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E02</episode-num>
+    <sub-title>Parque dos Velhinhos</sub-title>
     <video-files>
       <file block="a">BOBBY-05x02A.mp4</file>
       <file block="b">BOBBY-05x02B.mp4</file>
@@ -1843,6 +1878,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E03</episode-num>
+    <sub-title>Harry Fica Numa Boa</sub-title>
     <video-files>
       <file block="a">BOBBY-05x03A.mp4</file>
       <file block="b">BOBBY-05x03B.mp4</file>
@@ -1851,6 +1887,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E04</episode-num>
+    <sub-title>O Grande Susto de Bobby</sub-title>
     <video-files>
       <file block="a">BOBBY-05x04A.mp4</file>
       <file block="b">BOBBY-05x04B.mp4</file>
@@ -1859,6 +1896,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E05</episode-num>
+    <sub-title>O Emprego da Mamãe</sub-title>
     <video-files>
       <file block="a">BOBBY-05x05A.mp4</file>
       <file block="b">BOBBY-05x05B.mp4</file>
@@ -1867,6 +1905,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E06</episode-num>
+    <sub-title>Fim de Semana no Tio Teddie</sub-title>
     <video-files>
       <file block="a">BOBBY-05x06A.mp4</file>
       <file block="b">BOBBY-05x06B.mp4</file>
@@ -1875,6 +1914,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E07</episode-num>
+    <sub-title>A Reforma da Casa</sub-title>
     <video-files>
       <file block="a">BOBBY-05x07A.mp4</file>
       <file block="b">BOBBY-05x07B.mp4</file>
@@ -1883,6 +1923,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E08</episode-num>
+    <sub-title>Uma Babá Quase Imperfeita</sub-title>
     <video-files>
       <file block="a">BOBBY-05x08A.mp4</file>
       <file block="b">BOBBY-05x08B.mp4</file>
@@ -1891,6 +1932,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E09</episode-num>
+    <sub-title>O Rancho</sub-title>
     <video-files>
       <file block="a">BOBBY-05x09A.mp4</file>
       <file block="b">BOBBY-05x09B.mp4</file>
@@ -1899,6 +1941,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E10</episode-num>
+    <sub-title>Quem Vende Mais</sub-title>
     <video-files>
       <file block="a">BOBBY-05x10A.mp4</file>
       <file block="b">BOBBY-05x10B.mp4</file>
@@ -1907,6 +1950,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E11</episode-num>
+    <sub-title>Sozinho Fora de Casa</sub-title>
     <video-files>
       <file block="a">BOBBY-05x11A.mp4</file>
       <file block="b">BOBBY-05x11B.mp4</file>
@@ -1915,6 +1959,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S05E12</episode-num>
+    <sub-title>Bobby o Contador de História</sub-title>
     <video-files>
       <file block="a">BOBBY-05x12A.mp4</file>
       <file block="b">BOBBY-05x12B.mp4</file>
@@ -4604,6 +4649,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E02</episode-num>
+    <sub-title>O Retorno da Besta (Parte 2)</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x02A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x02B.mp4</file>
@@ -4644,6 +4690,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E07</episode-num>
+    <sub-title>Condenado</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x07A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x07B.mp4</file>
@@ -4652,6 +4699,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E08</episode-num>
+    <sub-title>Fortaleza Fantástica</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x08A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x08B.mp4</file>
@@ -4660,6 +4708,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E09</episode-num>
+    <sub-title>Limites Mortais</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x09A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x09B.mp4</file>
@@ -4668,6 +4717,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E10</episode-num>
+    <sub-title>Wendigo, Quando o Vento Chora</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x10A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x10B.mp4</file>
@@ -4676,6 +4726,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E11</episode-num>
+    <sub-title>Trevas e Luz (parte 1)</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x11A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x11B.mp4</file>
@@ -4684,6 +4735,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E12</episode-num>
+    <sub-title>Trevas e Luz (parte 2)</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x12A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x12B.mp4</file>
@@ -4692,6 +4744,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E13</episode-num>
+    <sub-title>Trevas e Luz (parte 3)</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x13A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x13B.mp4</file>
@@ -4709,6 +4762,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S02E02</episode-num>
+    <sub-title>A Alameda da Memória</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-02x02A.mp4</file>
       <file block="b">O-Incrivel-Hulk-02x02B.mp4</file>
@@ -4717,6 +4771,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S02E03</episode-num>
+    <sub-title>Possessão Mental</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-02x03A.mp4</file>
       <file block="b">O-Incrivel-Hulk-02x03B.mp4</file>
@@ -4725,6 +4780,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S02E04</episode-num>
+    <sub-title>O Senhor Conserta-Tudo</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-02x04A.mp4</file>
       <file block="b">O-Incrivel-Hulk-02x04B.mp4</file>
@@ -4733,6 +4789,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S02E05</episode-num>
+    <sub-title>As Guerreiras da Moda</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-02x05A.mp4</file>
       <file block="b">O-Incrivel-Hulk-02x05B.mp4</file>
