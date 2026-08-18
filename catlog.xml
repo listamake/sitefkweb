@@ -621,28 +621,6 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="digimon-2" onair="yes" repeat="1">
-    <display-name lang="pt">Digimon 2</display-name>
-    <desc lang="pt">O perigo está rondando novamente: Ken se declarou Imperador Digimon e pretende controlar o Digimundo. T. K., Kari e três novos digiescolhidos com seus digimon deverão enfrentá-lo</desc>
-    <rating system="CLASSIND">
-      <value>A10</value>
-    </rating>
-    <file-prefix>digimon2</file-prefix>
-    <length units="minutes">30</length>
-  </prog>
-
-  <prog id="digimon-3" onair="yes" repeat="1" start="20260824">
-    <display-name lang="pt">Digimon 3</display-name>
-    <desc lang="pt">Esqueça tudo o que você sabe sobre Digimon. Mude sua realidade por dessa vez vai ser para valer!</desc>
-    <rating system="CLASSIND">
-      <value>A12</value>
-    </rating>
-    <file-prefix>digimon3</file-prefix>
-    <length units="minutes">30</length>
-    <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
-    <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
-  </prog>
-
   <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260821">
     <display-name lang="pt">Pré-estreia: Digimon 3</display-name>
     <category lang="pt">Especial</category>
@@ -670,49 +648,85 @@
     <length units="minutes">1260</length>
     <hour type="o" days="sab">000000</hour>
     <block>
-       <ass id="digimon" eps="S01E01,S01E02,S01E03,S01E04,S01E05,S01E06,S01E07,S01E08,S01E09,S01E10,S01E11,S01E12,S01E13,S01E14,S01E15,S01E16,S01E17,S01E18,S01E19,S01E20,S01E21,S01E22,S01E23,S01E24,S01E25,S01E26,S01E27,S01E28,S01E29,S01E30,S01E31,S01E32,S01E33,S01E34,S01E35,S01E36,S01E37,S01E38,S01E39,S01E40">
-          <episode-num>S01E01</episode-num>
-          <episode-num>S01E02</episode-num>
-          <episode-num>S01E03</episode-num>
-          <episode-num>S01E04</episode-num>
-          <episode-num>S01E05</episode-num>
-          <episode-num>S01E06</episode-num>
-          <episode-num>S01E07</episode-num>
-          <episode-num>S01E08</episode-num>
-          <episode-num>S01E09</episode-num>
-          <episode-num>S01E10</episode-num>
-          <episode-num>S01E11</episode-num>
-          <episode-num>S01E12</episode-num>
-          <episode-num>S01E13</episode-num>
-          <episode-num>S01E14</episode-num>
-          <episode-num>S01E15</episode-num>
-          <episode-num>S01E16</episode-num>
-          <episode-num>S01E17</episode-num>
-          <episode-num>S01E18</episode-num>
-          <episode-num>S01E19</episode-num>
-          <episode-num>S01E20</episode-num>
-          <episode-num>S01E21</episode-num>
-          <episode-num>S01E22</episode-num>
-          <episode-num>S01E23</episode-num>
-          <episode-num>S01E24</episode-num>
-          <episode-num>S01E25</episode-num>
-          <episode-num>S01E26</episode-num>
-          <episode-num>S01E27</episode-num>
-          <episode-num>S01E28</episode-num>
-          <episode-num>S01E29</episode-num>
-          <episode-num>S01E30</episode-num>
-          <episode-num>S01E31</episode-num>
-          <episode-num>S01E32</episode-num>
-          <episode-num>S01E33</episode-num>
-          <episode-num>S01E34</episode-num>
-          <episode-num>S01E35</episode-num>
-          <episode-num>S01E36</episode-num>
-          <episode-num>S01E37</episode-num>
-          <episode-num>S01E38</episode-num>
-          <episode-num>S01E39</episode-num>
-          <episode-num>S01E40</episode-num>
+       <ass id="digimon-2" eps="S02E01,S02E02,S02E03,S02E04,S02E05,S02E06,S02E07,S02E08,S02E09,S02E10,S02E11,S02E12,S02E13,S02E14,S02E15,S02E16,S02E17,S02E18,S02E19,S02E20,S02E21,S02E22,S02E23,S02E24,S02E25,S02E26,S02E27,S02E28,S02E29,S02E30,S02E31,S02E32,S02E33,S02E34,S02E35,S02E36,S02E37,S02E38,S02E39,S02E40">
+          <episode-num>S02E01</episode-num>
+          <episode-num>S02E02</episode-num>
+          <episode-num>S02E03</episode-num>
+          <episode-num>S02E04</episode-num>
+          <episode-num>S02E05</episode-num>
+          <episode-num>S02E06</episode-num>
+          <episode-num>S02E07</episode-num>
+          <episode-num>S02E08</episode-num>
+          <episode-num>S02E09</episode-num>
+          <episode-num>S02E10</episode-num>
+          <episode-num>S02E11</episode-num>
+          <episode-num>S02E12</episode-num>
+          <episode-num>S02E13</episode-num>
+          <episode-num>S02E14</episode-num>
+          <episode-num>S02E15</episode-num>
+          <episode-num>S02E16</episode-num>
+          <episode-num>S02E17</episode-num>
+          <episode-num>S02E18</episode-num>
+          <episode-num>S02E19</episode-num>
+          <episode-num>S02E20</episode-num>
+          <episode-num>S02E21</episode-num>
+          <episode-num>S02E22</episode-num>
+          <episode-num>S02E23</episode-num>
+          <episode-num>S02E24</episode-num>
+          <episode-num>S02E25</episode-num>
+          <episode-num>S02E26</episode-num>
+          <episode-num>S02E27</episode-num>
+          <episode-num>S02E28</episode-num>
+          <episode-num>S02E29</episode-num>
+          <episode-num>S02E30</episode-num>
+          <episode-num>S02E31</episode-num>
+          <episode-num>S02E32</episode-num>
+          <episode-num>S02E33</episode-num>
+          <episode-num>S02E34</episode-num>
+          <episode-num>S02E35</episode-num>
+          <episode-num>S02E36</episode-num>
+          <episode-num>S02E37</episode-num>
+          <episode-num>S02E38</episode-num>
+          <episode-num>S02E39</episode-num>
+          <episode-num>S02E40</episode-num>
+       </ass>
+       <ass id="digimon-3" eps="S03E01,S03E02">
+          <episode-num>S03E01</episode-num>
+          <episode-num>S03E02</episode-num>
        </ass>
     </block>
+  </prog>
+
+  <prog id="digimon-2" onair="yes" repeat="2" start="20260216">
+    <display-name lang="pt">Digimon 2</display-name>
+    <desc lang="pt">O perigo está rondando novamente: Ken se declarou Imperador Digimon e pretende controlar o Digimundo. T. K., Kari e três novos digiescolhidos com seus digimon deverão enfrentá-lo</desc>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <file-prefix>da</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
+    <hour type="r" days="sab">040000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">060000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">103000</hour>
+    <weekday days="seg,ter,qua,qui,sex"/>
+  </prog>
+
+  <prog id="digimon-3" onair="yes" repeat="1" start="20260824">
+    <display-name lang="pt">Digimon 3</display-name>
+    <desc lang="pt">Esqueça tudo o que você sabe sobre Digimon. Mude sua realidade por dessa vez vai ser para valer!</desc>
+    <rating system="CLASSIND">
+      <value>A12</value>
+    </rating>
+    <file-prefix>da</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
+    <hour type="r" days="sab">040000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">060000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">103000</hour>
+    <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
   <programme progid="digimon">
@@ -5433,6 +5447,327 @@
   <programme progid="digimon-o-filme">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E01</episode-num>
+    <sub-title>Aquele que encontra a coragem</sub-title>
+    <video-files>
+      <file block="a">DA-02x01A.mp4</file>
+      <file block="b">DA-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E02</episode-num>
+    <video-files>
+      <file block="a">DA-02x02A.mp4</file>
+      <file block="b">DA-02x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E03</episode-num>
+    <video-files>
+      <file block="a">DA-02x03A.mp4</file>
+      <file block="b">DA-02x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E04</episode-num>
+    <video-files>
+      <file block="a">DA-02x04A.mp4</file>
+      <file block="b">DA-02x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E05</episode-num>
+    <video-files>
+      <file block="a">DA-02x05A.mp4</file>
+      <file block="b">DA-02x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E06</episode-num>
+    <video-files>
+      <file block="a">DA-02x06A.mp4</file>
+      <file block="b">DA-02x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E07</episode-num>
+    <video-files>
+      <file block="a">DA-02x07A.mp4</file>
+      <file block="b">DA-02x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E08</episode-num>
+    <video-files>
+      <file block="a">DA-02x08A.mp4</file>
+      <file block="b">DA-02x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E09</episode-num>
+    <video-files>
+      <file block="a">DA-02x09A.mp4</file>
+      <file block="b">DA-02x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E10</episode-num>
+    <video-files>
+      <file block="a">DA-02x10A.mp4</file>
+      <file block="b">DA-02x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E11</episode-num>
+    <video-files>
+      <file block="a">DA-02x11A.mp4</file>
+      <file block="b">DA-02x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E12</episode-num>
+    <video-files>
+      <file block="a">DA-02x12A.mp4</file>
+      <file block="b">DA-02x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E13</episode-num>
+    <video-files>
+      <file block="a">DA-02x13A.mp4</file>
+      <file block="b">DA-02x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E14</episode-num>
+    <video-files>
+      <file block="a">DA-02x14A.mp4</file>
+      <file block="b">DA-02x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E15</episode-num>
+    <video-files>
+      <file block="a">DA-02x15A.mp4</file>
+      <file block="b">DA-02x15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E16</episode-num>
+    <video-files>
+      <file block="a">DA-02x16A.mp4</file>
+      <file block="b">DA-02x16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E17</episode-num>
+    <video-files>
+      <file block="a">DA-02x17A.mp4</file>
+      <file block="b">DA-02x17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E18</episode-num>
+    <video-files>
+      <file block="a">DA-02x18A.mp4</file>
+      <file block="b">DA-02x18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E19</episode-num>
+    <video-files>
+      <file block="a">DA-02x19A.mp4</file>
+      <file block="b">DA-02x19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E20</episode-num>
+    <video-files>
+      <file block="a">DA-02x20A.mp4</file>
+      <file block="b">DA-02x20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E21</episode-num>
+    <video-files>
+      <file block="a">DA-02x21A.mp4</file>
+      <file block="b">DA-02x21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E22</episode-num>
+    <video-files>
+      <file block="a">DA-02x22A.mp4</file>
+      <file block="b">DA-02x22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E23</episode-num>
+    <video-files>
+      <file block="a">DA-02x23A.mp4</file>
+      <file block="b">DA-02x23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E24</episode-num>
+    <video-files>
+      <file block="a">DA-02x24A.mp4</file>
+      <file block="b">DA-02x24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E25</episode-num>
+    <video-files>
+      <file block="a">DA-02x25A.mp4</file>
+      <file block="b">DA-02x25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E26</episode-num>
+    <video-files>
+      <file block="a">DA-02x26A.mp4</file>
+      <file block="b">DA-02x26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E27</episode-num>
+    <video-files>
+      <file block="a">DA-02x27A.mp4</file>
+      <file block="b">DA-02x27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E28</episode-num>
+    <video-files>
+      <file block="a">DA-02x28A.mp4</file>
+      <file block="b">DA-02x28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E29</episode-num>
+    <video-files>
+      <file block="a">DA-02x29A.mp4</file>
+      <file block="b">DA-02x29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E30</episode-num>
+    <video-files>
+      <file block="a">DA-02x30A.mp4</file>
+      <file block="b">DA-02x30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E31</episode-num>
+    <video-files>
+      <file block="a">DA-02x31A.mp4</file>
+      <file block="b">DA-02x31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E32</episode-num>
+    <video-files>
+      <file block="a">DA-02x32A.mp4</file>
+      <file block="b">DA-02x32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E33</episode-num>
+    <video-files>
+      <file block="a">DA-02x33A.mp4</file>
+      <file block="b">DA-02x33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E34</episode-num>
+    <video-files>
+      <file block="a">DA-02x34A.mp4</file>
+      <file block="b">DA-02x34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E35</episode-num>
+    <video-files>
+      <file block="a">DA-02x35A.mp4</file>
+      <file block="b">DA-02x35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E36</episode-num>
+    <video-files>
+      <file block="a">DA-02x36A.mp4</file>
+      <file block="b">DA-02x36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E37</episode-num>
+    <video-files>
+      <file block="a">DA-02x37A.mp4</file>
+      <file block="b">DA-02x37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E38</episode-num>
+    <video-files>
+      <file block="a">DA-02x38A.mp4</file>
+      <file block="b">DA-02x38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E39</episode-num>
+    <video-files>
+      <file block="a">DA-02x39A.mp4</file>
+      <file block="b">DA-02x39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E40</episode-num>
+    <video-files>
+      <file block="a">DA-02x40A.mp4</file>
+      <file block="b">DA-02x40B.mp4</file>
+    </video-files>
   </programme>
 
   <programme progid="digimon-3">
