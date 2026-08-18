@@ -621,13 +621,48 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="maratona-digimon-2" onair="no" type="block" start="20260821">
-    <display-name lang="pt">Maratona: Digimon 2</display-name>
-    <category lang="pt">Anime</category>
-    <color>rgb(255, 204, 153);</color>
-    <file-prefix>maratonadigimon2</file-prefix>
-    <length units="minutes">1200</length>
-    <hour type="o" days="sex">200000</hour>
+  <prog id="digimon-2" onair="yes" repeat="1">
+    <display-name lang="pt">Digimon 2</display-name>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <file-prefix>digimon2</file-prefix>
+    <length units="minutes">30</length>
+  </prog>
+
+  <prog id="digimon-3" onair="no" repeat="1">
+    <display-name lang="pt">Digimon 3</display-name>
+    <rating system="CLASSIND">
+      <value>A12</value>
+    </rating>
+    <file-prefix>digimon3</file-prefix>
+    <length units="minutes">30</length>
+  </prog>
+
+  <prog id="pre-estreia-digimon-3" onair="yes" type="event">
+    <display-name lang="pt">Pré-estreia: Digimon 3</display-name>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <file-prefix>preestreiadigimon3</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="sex">173000</hour>
+    <block>
+       <ass id="digimon-3" eps="S03E01">
+          <episode-num>S03E01</episode-num>
+       </ass>
+    </block>
+  </prog>
+
+  <prog id="digi-maratona" onair="yes" type="event" start="20260822">
+    <display-name lang="pt">Digi-Maratona</display-name>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <file-prefix>digimaratona</file-prefix>
+    <length units="minutes">1260</length>
+    <hour type="o" days="sab">000000</hour>
   </prog>
 
   <programme progid="digimon">
@@ -5348,6 +5383,15 @@
   <programme progid="digimon-o-filme">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E01</episode-num>
+    <sub-title>O Nascimento de Guillmon</sub-title>
+    <video-files>
+      <file block="a">Digi-Tamers-01A.mp4</file>
+      <file block="b">Digi-Tamers-01B.mp4</file>
+    </video-files>
   </programme>
 
 </catalog>
