@@ -669,6 +669,50 @@
     <file-prefix>digimaratona</file-prefix>
     <length units="minutes">1260</length>
     <hour type="o" days="sab">000000</hour>
+    <block>
+       <ass id="digimon" eps="S01E01,S01E02,S01E03,S01E04,S01E05,S01E06,S01E07,S01E08,S01E09,S01E10,S01E11,S01E12,S01E13,S01E14,S01E15,S01E16,S01E17,S01E18,S01E19,S01E20,S01E21,S01E22,S01E23,S01E24,S01E25,S01E26,S01E27,S01E28,S01E29,S01E30,S01E31,S01E32,S01E33,S01E34,S01E35,S01E36,S01E37,S01E38,S01E39,S01E40">
+          <episode-num>S01E01</episode-num>
+          <episode-num>S01E02</episode-num>
+          <episode-num>S01E03</episode-num>
+          <episode-num>S01E04</episode-num>
+          <episode-num>S01E05</episode-num>
+          <episode-num>S01E06</episode-num>
+          <episode-num>S01E07</episode-num>
+          <episode-num>S01E08</episode-num>
+          <episode-num>S01E09</episode-num>
+          <episode-num>S01E10</episode-num>
+          <episode-num>S01E11</episode-num>
+          <episode-num>S01E12</episode-num>
+          <episode-num>S01E13</episode-num>
+          <episode-num>S01E14</episode-num>
+          <episode-num>S01E15</episode-num>
+          <episode-num>S01E16</episode-num>
+          <episode-num>S01E17</episode-num>
+          <episode-num>S01E18</episode-num>
+          <episode-num>S01E19</episode-num>
+          <episode-num>S01E20</episode-num>
+          <episode-num>S01E21</episode-num>
+          <episode-num>S01E22</episode-num>
+          <episode-num>S01E23</episode-num>
+          <episode-num>S01E24</episode-num>
+          <episode-num>S01E25</episode-num>
+          <episode-num>S01E26</episode-num>
+          <episode-num>S01E27</episode-num>
+          <episode-num>S01E28</episode-num>
+          <episode-num>S01E29</episode-num>
+          <episode-num>S01E30</episode-num>
+          <episode-num>S01E31</episode-num>
+          <episode-num>S01E32</episode-num>
+          <episode-num>S01E33</episode-num>
+          <episode-num>S01E34</episode-num>
+          <episode-num>S01E35</episode-num>
+          <episode-num>S01E36</episode-num>
+          <episode-num>S01E37</episode-num>
+          <episode-num>S01E38</episode-num>
+          <episode-num>S01E39</episode-num>
+          <episode-num>S01E40</episode-num>
+       </ass>
+    </block>
   </prog>
 
   <programme progid="digimon">
