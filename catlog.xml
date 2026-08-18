@@ -643,7 +643,7 @@
     <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
   </prog>
 
-  <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event">
+  <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260821">
     <display-name lang="pt">Pré-estreia: Digimon 3</display-name>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
@@ -660,6 +660,7 @@
 
   <prog id="digi-maratona" onair="yes" repeat="1" type="event" start="20260822">
     <display-name lang="pt">Digi-Maratona</display-name>
+    <desc lang="pt">Mais de 20h só de Digimon</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
       <value>A10</value>
@@ -5396,6 +5397,323 @@
     <video-files>
       <file block="a">Digi-Tamers-01A.mp4</file>
       <file block="b">Digi-Tamers-01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E02</episode-num>
+    <sub-title>Surge Terriermon</sub-title>
+    <video-files>
+      <file block="a">Digi-Tamers-02A.mp4</file>
+      <file block="b">Digi-Tamers-02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E03</episode-num>
+    <sub-title>Renamon Contra Guillmon</sub-title>
+    <video-files>
+      <file block="a">Digi-Tamers-03A.mp4</file>
+      <file block="b">Digi-Tamers-03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E04</episode-num>
+    <sub-title>Derrotem Gorimon</sub-title>
+    <video-files>
+      <file block="a">Digi-Tamers-04A.mp4</file>
+      <file block="b">Digi-Tamers-04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E05</episode-num>
+    <sub-title>Culu, Culu! Vamos nos Divertir com Culumon</sub-title>
+    <video-files>
+      <file block="a">Digi-Tamers-05A.mp4</file>
+      <file block="b">Digi-Tamers-05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E06</episode-num>
+    <sub-title>Renamon Digivolve</sub-title>
+    <video-files>
+      <file block="a">Digi-Tamers-06A.mp4</file>
+      <file block="b">Digi-Tamers-06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E07</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-07A.mp4</file>
+      <file block="b">Digi-Tamers-07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E08</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-08A.mp4</file>
+      <file block="b">Digi-Tamers-08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E09</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-09A.mp4</file>
+      <file block="b">Digi-Tamers-09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E10</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-10A.mp4</file>
+      <file block="b">Digi-Tamers-10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E11</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-11A.mp4</file>
+      <file block="b">Digi-Tamers-11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E12</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-12A.mp4</file>
+      <file block="b">Digi-Tamers-12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E13</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-13A.mp4</file>
+      <file block="b">Digi-Tamers-13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E14</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-14A.mp4</file>
+      <file block="b">Digi-Tamers-14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E15</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-15A.mp4</file>
+      <file block="b">Digi-Tamers-15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E16</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-16A.mp4</file>
+      <file block="b">Digi-Tamers-16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E17</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-17A.mp4</file>
+      <file block="b">Digi-Tamers-17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E18</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-18A.mp4</file>
+      <file block="b">Digi-Tamers-18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E19</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-19A.mp4</file>
+      <file block="b">Digi-Tamers-19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E20</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-20A.mp4</file>
+      <file block="b">Digi-Tamers-20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E21</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-21A.mp4</file>
+      <file block="b">Digi-Tamers-21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E22</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-22A.mp4</file>
+      <file block="b">Digi-Tamers-22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E23</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-23A.mp4</file>
+      <file block="b">Digi-Tamers-23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E24</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-24A.mp4</file>
+      <file block="b">Digi-Tamers-24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E25</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-25A.mp4</file>
+      <file block="b">Digi-Tamers-25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E26</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-26A.mp4</file>
+      <file block="b">Digi-Tamers-26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E27</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-27A.mp4</file>
+      <file block="b">Digi-Tamers-27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E28</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-28A.mp4</file>
+      <file block="b">Digi-Tamers-28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E29</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-29A.mp4</file>
+      <file block="b">Digi-Tamers-29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E30</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-30A.mp4</file>
+      <file block="b">Digi-Tamers-30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E31</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-31A.mp4</file>
+      <file block="b">Digi-Tamers-31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E32</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-32A.mp4</file>
+      <file block="b">Digi-Tamers-32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E33</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-33A.mp4</file>
+      <file block="b">Digi-Tamers-33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E34</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-34A.mp4</file>
+      <file block="b">Digi-Tamers-34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E35</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-35A.mp4</file>
+      <file block="b">Digi-Tamers-35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E36</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-36A.mp4</file>
+      <file block="b">Digi-Tamers-36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E37</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-37A.mp4</file>
+      <file block="b">Digi-Tamers-37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E38</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-38A.mp4</file>
+      <file block="b">Digi-Tamers-38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E39</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-39A.mp4</file>
+      <file block="b">Digi-Tamers-39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E40</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-40A.mp4</file>
+      <file block="b">Digi-Tamers-40B.mp4</file>
     </video-files>
   </programme>
 
