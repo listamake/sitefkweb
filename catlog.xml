@@ -623,6 +623,7 @@
 
   <prog id="digimon-2" onair="yes" repeat="1">
     <display-name lang="pt">Digimon 2</display-name>
+    <desc lang="pt">O perigo está rondando novamente: Ken se declarou Imperador Digimon e pretende controlar o Digimundo. T. K., Kari e três novos digiescolhidos com seus digimon deverão enfrentá-lo</desc>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
@@ -630,22 +631,26 @@
     <length units="minutes">30</length>
   </prog>
 
-  <prog id="digimon-3" onair="no" repeat="1">
+  <prog id="digimon-3" onair="yes" repeat="1" start="20260824">
     <display-name lang="pt">Digimon 3</display-name>
+    <desc lang="pt">Esqueça tudo o que você sabe sobre Digimon. Mude sua realidade por dessa vez vai ser para valer!</desc>
     <rating system="CLASSIND">
       <value>A12</value>
     </rating>
     <file-prefix>digimon3</file-prefix>
     <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
   </prog>
 
-  <prog id="pre-estreia-digimon-3" onair="yes" type="event">
+  <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event">
     <display-name lang="pt">Pré-estreia: Digimon 3</display-name>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
     <file-prefix>preestreiadigimon3</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="sex">173000</hour>
+    <hour type="r" days="sex">213000</hour>
     <block>
        <ass id="digimon-3" eps="S03E01">
           <episode-num>S03E01</episode-num>
@@ -653,7 +658,7 @@
     </block>
   </prog>
 
-  <prog id="digi-maratona" onair="yes" type="event" start="20260822">
+  <prog id="digi-maratona" onair="yes" repeat="1" type="event" start="20260822">
     <display-name lang="pt">Digi-Maratona</display-name>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
