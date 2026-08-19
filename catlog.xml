@@ -9,6 +9,7 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://prcdn.freetls.fastly.net/release_image/31422/1272/31422-1272-8447dfd4a8b3dad2903a771f9ecaaae3-2011x2700.jpg" />
     <file-prefix>da</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
@@ -21,10 +22,12 @@
 
   <prog id="power-rangers-no-espaco" onair="yes" repeat="1" start="20260604">
     <display-name lang="pt">Power Rangers no Espaço</display-name>
+    <desc lang="pt">Entre eles estavam presentes Rita Repulsa, Lord Zedd, Goldar, Finster, Dom Ritão, Globbor, Patrulheiros Z, Guerreiros Tengas, Rei Mondo, Rainha Machina, Cogs, Rygog, Elgar, Porto, General Devastador, Piranhatrons, e a nova vilã Astronema e seu exército de Quantros e um espião.</desc>
     <category lang="pt">Série</category>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPW8MuQ23H2e1iE5V3Pe8PokOzQht7w-Z59Q" />
     <file-prefix>powerrangersm</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="ter,qui">143000</hour>
@@ -62,6 +65,7 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
     <file-prefix>patlabor</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">183000</hour>
@@ -79,6 +83,7 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://blogdaileon.com/wp-content/uploads/2022/07/powerrangersforcaanimal-destacada.jpg" />
     <file-prefix>pr-forca-do-animal</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,qua,sex">143000</hour>
@@ -97,6 +102,7 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://imgix.bustle.com/rehost/2016/10/4/ed163b47-16f3-45da-b52d-352a209bfa76.jpg" />
     <file-prefix>goosebumps</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">230000</hour>
@@ -132,6 +138,7 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUpQLcvDc8E7rLDTF1_kZBtxzVp7jKe2IMReuRdMpsSYeZkugqULC4lvajCroUx_0Q-BWxiDms-2WFNmShOsciYYPF_CQ-ixwJOEDfehAXmvYp8HVf0AJI2U2gjDY7OARIHQrucgdltQQ/s1600/spiderman+3.jpg" />
     <file-prefix>homem-aranha-e-amigos</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,qua,sex">133000</hour>
@@ -182,6 +189,7 @@
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
+    <icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
     <file-prefix>contos-cripta</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">233000</hour>
@@ -287,6 +295,8 @@
        <ass id="patlabor"/>
        <ass id="shinzo"/>
        <ass id="medabots"/>
+       <ass id="digimon-2"/>
+       <ass id="digimon-3"/>
     </block>
   </prog>
 
@@ -624,7 +634,8 @@
   <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260821">
     <display-name lang="pt">Pré-estreia: Digimon 3</display-name>
     <category lang="pt">Especial</category>
-    <color>rgb(225, 29, 72);</color>
+    <color>rgb(249, 62, 103);</color>
+    <icon src="https://static.wikitide.net/deathbattlewiki/7/71/Portrait.guilmon.png" />
     <file-prefix>preestreiadigimon3</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="sex">173000</hour>
@@ -643,7 +654,8 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
-    <color>rgb(225, 29, 72);</color>
+    <color>rgb(249, 62, 103);</color>
+    <icon src="https://wikimon.net/images/thumb/4/4b/NECA-13007.jpg/320px-NECA-13007.jpg" />
     <file-prefix>digimaratona</file-prefix>
     <length units="minutes">1260</length>
     <hour type="o" days="sab">000000</hour>
@@ -719,6 +731,7 @@
     <rating system="CLASSIND">
       <value>A12</value>
     </rating>
+    <icon src="https://static.wikitide.net/deathbattlewiki/7/71/Portrait.guilmon.png" />
     <file-prefix>da</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
