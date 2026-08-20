@@ -47,6 +47,7 @@
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
+    <icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
     <file-prefix>bobby</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">123000</hour>
@@ -158,6 +159,7 @@
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
+    <icon src="https://i.pinimg.com/originals/a0/41/03/a04103ddf99ec03481b50eb03087fa9f.jpg" />
     <file-prefix>super-pig</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">120000</hour>
@@ -223,6 +225,7 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/the-incredible-hulk-3.jpg" />
     <file-prefix>o-incrivel-hulk</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="ter,qui">140000</hour>
@@ -275,6 +278,7 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://pic6.iqiyipic.com/image/20150731/70/86/v_109342521_m_601_480_270.jpg" />
     <file-prefix>shinzo</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,qua,sex">183000</hour>
@@ -513,6 +517,7 @@
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
+    <icon src="https://criticalhits.com.br/wp-content/uploads/2018/11/Medabot-RPG.jpg" />
     <file-prefix>medabots</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">180000</hour>
@@ -634,9 +639,10 @@
 
   <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260821">
     <display-name lang="pt">Pré-estreia: Shinzo</display-name>
+    <desc lang="pt">Não perca esta sexta dia 21!</desc>
     <category lang="pt">Especial</category>
     <color>rgb(249, 62, 103);</color>
-    <icon src="https://static.wikitide.net/deathbattlewiki/7/71/Portrait.guilmon.png" />
+    <icon src="https://pic6.iqiyipic.com/image/20150731/70/86/v_109342521_m_601_480_270.jpg" />
     <file-prefix>preestreiadigimon3</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="sex">173000</hour>
