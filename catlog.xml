@@ -272,13 +272,13 @@
 
   <prog id="shinzo" onair="yes" repeat="1" start="20260831">
     <display-name lang="pt">Shinzo</display-name>
-    <category lang="pt">Anime</category>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
     <file-prefix>shinzo</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,qua,sex">183000</hour>
+    <hour type="r" days="seg,qua,sex">213000</hour>
     <weekday days="seg,qua,sex"/>
   </prog>
 
