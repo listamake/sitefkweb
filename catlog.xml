@@ -270,7 +270,7 @@
     <weekday days="dom"/>
   </prog>
 
-  <prog id="shinzo" onair="no" repeat="1" start="20260727">
+  <prog id="shinzo" onair="yes" repeat="1" start="20260831">
     <display-name lang="pt">Shinzo</display-name>
     <category lang="pt">Anime</category>
     <rating system="CLASSIND">
@@ -320,6 +320,7 @@
        <ass id="turbo-a-power-rangers-movie"/>
        <ass id="gasparzinho-como-tudo-comecou"/>
        <ass id="digimon-o-filme"/>
+       <ass id="o-principe-do-egito"/>
     </block>
   </prog>
 
@@ -632,7 +633,7 @@
   </prog>
 
   <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260821">
-    <display-name lang="pt">Pré-estreia: Digimon 3</display-name>
+    <display-name lang="pt">Pré-estreia: Shinzo</display-name>
     <category lang="pt">Especial</category>
     <color>rgb(249, 62, 103);</color>
     <icon src="https://static.wikitide.net/deathbattlewiki/7/71/Portrait.guilmon.png" />
@@ -641,8 +642,8 @@
     <hour type="o" days="sex">173000</hour>
     <hour type="r" days="sex">213000</hour>
     <block>
-       <ass id="digimon-3" eps="S03E01">
-          <episode-num>S03E01</episode-num>
+       <ass id="shinzo" eps="S01E01">
+          <episode-num>S01E01</episode-num>
        </ass>
     </block>
   </prog>
@@ -740,6 +741,17 @@
     <hour type="r" days="seg,ter,qua,qui,sex">060000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">103000</hour>
     <weekday days="seg,ter,qua,qui,sex"/>
+  </prog>
+
+  <prog id="o-principe-do-egito" onair="yes" repeat="1" start="20260830">
+    <display-name lang="pt">O Príncipe do Egito</display-name>
+    <category lang="pt">Movie</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://futaricombii.com/wp-content/uploads/2021/05/prince-of-egypt-dreamworks-1024x580.jpg" />
+    <file-prefix>oprincipedoegito</file-prefix>
+    <length units="minutes">120</length>
   </prog>
 
   <programme progid="digimon">
@@ -6107,6 +6119,11 @@
       <file block="a">Digi-Tamers-40A.mp4</file>
       <file block="b">Digi-Tamers-40B.mp4</file>
     </video-files>
+  </programme>
+
+  <programme progid="o-principe-do-egito">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
   </programme>
 
 </catalog>
