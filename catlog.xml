@@ -664,10 +664,10 @@
     <color>rgb(249, 62, 103);</color>
     <icon src="https://wikimon.net/images/thumb/4/4b/NECA-13007.jpg/320px-NECA-13007.jpg" />
     <file-prefix>digimaratona</file-prefix>
-    <length units="minutes">1260</length>
-    <hour type="o" days="sab">220000</hour>
+    <length units="minutes">1530</length>
+    <hour type="o" days="sab">173000</hour>
     <block>
-       <ass id="digimon-2" eps="S02E01,S02E02,S02E03,S02E04,S02E05,S02E06,S02E07,S02E08,S02E09,S02E10,S02E11,S02E12,S02E13,S02E14,S02E15,S02E16,S02E17,S02E18,S02E19,S02E20,S02E21,S02E22,S02E23,S02E24,S02E25,S02E26,S02E27,S02E28,S02E29,S02E30,S02E31,S02E32,S02E33,S02E34,S02E35,S02E36,S02E37,S02E38,S02E39,S02E40">
+       <ass id="digimon-2" eps="S02E01,S02E02,S02E03,S02E04,S02E05,S02E06,S02E07,S02E08,S02E09,S02E10,S02E11,S02E12,S02E13,S02E14,S02E15,S02E16,S02E17,S02E18,S02E19,S02E20,S02E21,S02E22,S02E23,S02E24,S02E25,S02E26,S02E27,S02E28,S02E29,S02E30,S02E31,S02E32,S02E33,S02E34,S02E35,S02E36,S02E37,S02E38,S02E39,S02E40,S02E41,S02E42,S02E43,S02E44,S02E45,S02E46,S02E47,S02E48,S02E49,S02E50">
           <episode-num>S02E01</episode-num>
           <episode-num>S02E02</episode-num>
           <episode-num>S02E03</episode-num>
@@ -708,10 +708,19 @@
           <episode-num>S02E38</episode-num>
           <episode-num>S02E39</episode-num>
           <episode-num>S02E40</episode-num>
+          <episode-num>S02E41</episode-num>
+          <episode-num>S02E42</episode-num>
+          <episode-num>S02E43</episode-num>
+          <episode-num>S02E44</episode-num>
+          <episode-num>S02E45</episode-num>
+          <episode-num>S02E46</episode-num>
+          <episode-num>S02E47</episode-num>
+          <episode-num>S02E48</episode-num>
+          <episode-num>S02E49</episode-num>
+          <episode-num>S02E50</episode-num>
        </ass>
-       <ass id="digimon-3" eps="S03E01,S03E02">
+       <ass id="digimon-3" eps="S03E01">
           <episode-num>S03E01</episode-num>
-          <episode-num>S03E02</episode-num>
        </ass>
     </block>
   </prog>
@@ -5798,6 +5807,86 @@
     <video-files>
       <file block="a">DA-02x40A.mp4</file>
       <file block="b">DA-02x40B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E41</episode-num>
+    <video-files>
+      <file block="a">DA-02x41A.mp4</file>
+      <file block="b">DA-02x41B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E42</episode-num>
+    <video-files>
+      <file block="a">DA-02x42A.mp4</file>
+      <file block="b">DA-02x42B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E43</episode-num>
+    <video-files>
+      <file block="a">DA-02x43A.mp4</file>
+      <file block="b">DA-02x43B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E44</episode-num>
+    <video-files>
+      <file block="a">DA-02x44A.mp4</file>
+      <file block="b">DA-02x44B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E45</episode-num>
+    <video-files>
+      <file block="a">DA-02x45A.mp4</file>
+      <file block="b">DA-02x45B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E46</episode-num>
+    <video-files>
+      <file block="a">DA-02x46A.mp4</file>
+      <file block="b">DA-02x46B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E47</episode-num>
+    <video-files>
+      <file block="a">DA-02x47A.mp4</file>
+      <file block="b">DA-02x47B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E48</episode-num>
+    <video-files>
+      <file block="a">DA-02x48A.mp4</file>
+      <file block="b">DA-02x48B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E49</episode-num>
+    <video-files>
+      <file block="a">DA-02x49A.mp4</file>
+      <file block="b">DA-02x49B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-2">
+    <episode-num>S02E50</episode-num>
+    <video-files>
+      <file block="a">DA-02x50A.mp4</file>
+      <file block="b">DA-02x50B.mp4</file>
     </video-files>
   </programme>
 
