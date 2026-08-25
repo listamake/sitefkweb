@@ -698,6 +698,7 @@
     </rating>
     <icon src="https://static.wikitide.net/deathbattlewiki/7/71/Portrait.guilmon.png" />
     <file-prefix>da</file-prefix>
+    <url>https://fkidsweb.blogspot.com/2026/08/digimon-3.html</url>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
