@@ -736,6 +736,23 @@
     </block>
   </prog>
 
+  <prog id="homem-aranha-e-seus-amigos-finale" onair="yes" repeat="1" type="event" start="20260826">
+    <display-name lang="pt">Homem Aranha e seus Amigos</display-name>
+    <desc lang="pt">Dia 26: A irmã do homem gelo aparece!!</desc>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://www.writeups.org/wp-content/uploads/Lightwave-Spider-Man-Amazing-Friends-Cartoon.jpg" />
+    <file-prefix>homemaranhaeseusamigos</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="qua">143000</hour>
+    <block>
+       <ass id="homem-aranha-e-seus-amigos" eps="S03E08"/>
+    </block>
+  </prog>
+
   <programme progid="digimon">
     <episode-num>S01E01</episode-num>
     <sub-title>Férias de Verão</sub-title>
