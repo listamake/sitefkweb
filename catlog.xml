@@ -176,6 +176,7 @@
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
+    <icon src="https://rukminim2.flixcart.com/image/480/480/poster/g/9/z/oggy-cartoon-hd-poster-art-bshi290-bshil290-large-original-imaeg56ydpgbr56e.jpeg?q=90" />
     <file-prefix>oggy</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="seg,ter,qua,qui,sex">130000</hour>
@@ -207,6 +208,7 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
     <file-prefix>tick</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="ter,qui">133000</hour>
@@ -466,6 +468,7 @@
     <rating system="CLASSIND">
       <value>A12</value>
     </rating>
+    <icon src="https://images.seattletimes.com/wp-content/uploads/2022/09/09212022_tzr_tzr_160225.jpg" />
     <file-prefix>dilbert</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="dom">000000</hour>
@@ -508,12 +511,13 @@
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
+    <icon src="https://aventurasnahistoria.com.br/media/uploads/hollywood/curly-moe-larry.jpg" />
     <file-prefix>ostrespatetas</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="sab">233000</hour>
   </prog>
 
-  <prog id="medabots" onair="yes" repeat="1">
+  <prog id="medabots" onair="yes" repeat="8" start="20251009">
     <display-name lang="pt">Medabots</display-name>
     <desc lang="pt">No futuro, há crianças que têm como mascotes robôs com inteligência artificial. São os Medalutadores e seus Medabots que são os protagonistas de surpreendentes Ciberlutas.</desc>
     <rating system="CLASSIND">
@@ -2832,6 +2836,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E04</episode-num>
+    <sub-title>A Garota que Gritava Monstro</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x04A.mp4</file>
       <file block="b">GOOSEBUMPS-01x04B.mp4</file>
@@ -2840,6 +2845,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E05</episode-num>
+    <sub-title>Bem-Vindos ao Acampamento dos Pesadelos - Parte 1</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x05A.mp4</file>
       <file block="b">GOOSEBUMPS-01x05B.mp4</file>
@@ -2848,6 +2854,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E06</episode-num>
+    <sub-title>Bem-Vindos ao Acampamento dos Pesadelos - Parte 2</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x06A.mp4</file>
       <file block="b">GOOSEBUMPS-01x06B.mp4</file>
@@ -2856,6 +2863,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E07</episode-num>
+    <sub-title>O Fantasma do Auditório</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x07A.mp4</file>
       <file block="b">GOOSEBUMPS-01x07B.mp4</file>
@@ -2864,6 +2872,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E08</episode-num>
+    <sub-title>Lições de Piano Pode Matar</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x08A.mp4</file>
       <file block="b">GOOSEBUMPS-01x08B.mp4</file>
@@ -2872,6 +2881,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E09</episode-num>
+    <sub-title>O Retorno da Múmia</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x09A.mp4</file>
       <file block="b">GOOSEBUMPS-01x09B.mp4</file>
@@ -2880,6 +2890,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E10</episode-num>
+    <sub-title>A Noite do Boneco Vivo</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x10A.mp4</file>
       <file block="b">GOOSEBUMPS-01x10B.mp4</file>
@@ -2888,6 +2899,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E11</episode-num>
+    <sub-title>Minha Aventura Peluda</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x11A.mp4</file>
       <file block="b">GOOSEBUMPS-01x11B.mp4</file>
@@ -2896,6 +2908,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E12</episode-num>
+    <sub-title>Fique longe do Porão - Parte 1</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x12A.mp4</file>
       <file block="b">GOOSEBUMPS-01x12B.mp4</file>
@@ -2904,6 +2917,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E13</episode-num>
+    <sub-title>Fique longe do Porão - Parte 2</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x13A.mp4</file>
       <file block="b">GOOSEBUMPS-01x13B.mp4</file>
@@ -2912,6 +2926,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E14</episode-num>
+    <sub-title>Ele Saiu de Baixo da Pia</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x14A.mp4</file>
       <file block="b">GOOSEBUMPS-01x14B.mp4</file>
@@ -2920,7 +2935,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S01E15</episode-num>
-    <sub-title>Olha o Passarinho</sub-title>
+    <sub-title>Sorria e Morra</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-01x15A.mp4</file>
       <file block="b">GOOSEBUMPS-01x15B.mp4</file>
@@ -3191,6 +3206,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S01E01</episode-num>
+    <sub-title>Noite do Lagarto.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-01x01A.mp4</file>
       <file block="b">Homem-Aranha-01x01B.mp4</file>
@@ -3208,6 +3224,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S01E03</episode-num>
+    <sub-title>A Volta do Destruidor de Aranha.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-01x03A.mp4</file>
       <file block="b">Homem-Aranha-01x03B.mp4</file>
@@ -3216,6 +3233,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S01E04</episode-num>
+    <sub-title>Doutor Octopus: Armado e Perigoso.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-01x04A.mp4</file>
       <file block="b">Homem-Aranha-01x04B.mp4</file>
@@ -3224,6 +3242,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S01E05</episode-num>
+    <sub-title>A Ameaça de Mysterio.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-01x05A.mp4</file>
       <file block="b">Homem-Aranha-01x05B.mp4</file>
@@ -3349,6 +3368,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S02E06</episode-num>
+    <sub-title>Morbius (Parte 01).</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-02x06A.mp4</file>
       <file block="b">Homem-Aranha-02x06B.mp4</file>
@@ -3357,6 +3377,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S02E07</episode-num>
+    <sub-title>Morbius (Parte 02).</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-02x07A.mp4</file>
       <file block="b">Homem-Aranha-02x07B.mp4</file>
@@ -3365,6 +3386,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S02E08</episode-num>
+    <sub-title>Duelo de Caçadores.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-02x08A.mp4</file>
       <file block="b">Homem-Aranha-02x08B.mp4</file>
@@ -3373,6 +3395,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S02E09</episode-num>
+    <sub-title>Blade O Vampiro Caçador.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-02x09A.mp4</file>
       <file block="b">Homem-Aranha-02x09B.mp4</file>
@@ -3381,6 +3404,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S02E10</episode-num>
+    <sub-title>O Vampiro Imortal.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-02x10A.mp4</file>
       <file block="b">Homem-Aranha-02x10B.mp4</file>
@@ -3389,6 +3413,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S02E11</episode-num>
+    <sub-title>Tabuleta do Tempo.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-02x11A.mp4</file>
       <file block="b">Homem-Aranha-02x11B.mp4</file>
@@ -3397,6 +3422,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S02E12</episode-num>
+    <sub-title>Devastação dos Tempos.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-02x12A.mp4</file>
       <file block="b">Homem-Aranha-02x12B.mp4</file>
@@ -3405,6 +3431,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S02E13</episode-num>
+    <sub-title>O Gemido da Criatura.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-02x13A.mp4</file>
       <file block="b">Homem-Aranha-02x13B.mp4</file>
@@ -3413,6 +3440,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S02E14</episode-num>
+    <sub-title>O Pesadelo Final.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-02x14A.mp4</file>
       <file block="b">Homem-Aranha-02x14B.mp4</file>
@@ -3430,6 +3458,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S03E02</episode-num>
+    <sub-title>Faça um Desejo.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-03x02A.mp4</file>
       <file block="b">Homem-Aranha-03x02B.mp4</file>
@@ -3438,6 +3467,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S03E03</episode-num>
+    <sub-title>O Ataque do Octobot.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-03x03A.mp4</file>
       <file block="b">Homem-Aranha-03x03B.mp4</file>
@@ -3446,6 +3476,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S03E04</episode-num>
+    <sub-title>Chega O Duende Verde.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-03x04A.mp4</file>
       <file block="b">Homem-Aranha-03x04B.mp4</file>
@@ -3454,6 +3485,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S03E05</episode-num>
+    <sub-title>Homens Foguetes.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-03x05A.mp4</file>
       <file block="b">Homem-Aranha-03x05B.mp4</file>
@@ -3462,6 +3494,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S03E06</episode-num>
+    <sub-title>Enganado.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-03x06A.mp4</file>
       <file block="b">Homem-Aranha-03x06B.mp4</file>
@@ -3470,6 +3503,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S03E07</episode-num>
+    <sub-title>O Homem Sem Medo.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-03x07A.mp4</file>
       <file block="b">Homem-Aranha-03x07B.mp4</file>
@@ -3478,6 +3512,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S03E08</episode-num>
+    <sub-title>O Assassino Automato.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-03x08A.mp4</file>
       <file block="b">Homem-Aranha-03x08B.mp4</file>
@@ -3735,6 +3770,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E01</episode-num>
+    <sub-title>O Triunfo de Duende Verde</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x01A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x01B.mp4</file>
@@ -3743,6 +3779,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E02</episode-num>
+    <sub-title>O Crime dos Séculos</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x02A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x02B.mp4</file>
@@ -3751,6 +3788,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E03</episode-num>
+    <sub-title>O Fantástico Sr. Frump!</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x03A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x03B.mp4</file>
@@ -3768,6 +3806,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E05</episode-num>
+    <sub-title>Enxame!</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x05A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x05B.mp4</file>
@@ -3776,6 +3815,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E06</episode-num>
+    <sub-title>Os sete super-heróis.</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x06A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x06B.mp4</file>
@@ -3784,6 +3824,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E07</episode-num>
+    <sub-title>Vídeo-Man</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x07A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x07B.mp4</file>
@@ -3792,6 +3833,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E08</episode-num>
+    <sub-title>Plano da Prisão</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x08A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x08B.mp4</file>
@@ -3800,6 +3842,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E09</episode-num>
+    <sub-title>Aranha em Hollywood</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x09A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x09B.mp4</file>
@@ -3808,6 +3851,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E10</episode-num>
+    <sub-title>A Vingança de Loki</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x10A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x10B.mp4</file>
@@ -3816,6 +3860,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E11</episode-num>
+    <sub-title>Cavaleiros e Demônios</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x11A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x11B.mp4</file>
@@ -3824,6 +3869,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S01E12</episode-num>
+    <sub-title>Fantoche do Rei do Crime</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-01x12A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-01x12B.mp4</file>
@@ -3904,6 +3950,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S03E05</episode-num>
+    <sub-title>A Origem dos Amigos do Aranha</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-03x05A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-03x05B.mp4</file>
@@ -3912,6 +3959,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S03E06</episode-num>
+    <sub-title>O Aranha Conhece a Garota do Amanha</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-03x06A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-03x06B.mp4</file>
@@ -3920,6 +3968,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S03E07</episode-num>
+    <sub-title>A aventura dos X-Men</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-03x07A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-03x07B.mp4</file>
@@ -3928,6 +3977,7 @@
 
   <programme progid="homem-aranha-e-seus-amigos">
     <episode-num>S03E08</episode-num>
+    <sub-title>Missão: Salvar o Satélite</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-e-Amigos-03x08A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-03x08B.mp4</file>
@@ -4392,6 +4442,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S01E02</episode-num>
+    <sub-title>Numa enrascada que não tem tamanho</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-01x02A.mp4</file>
       <file block="b">Contos-Cripta-01x02B.mp4</file>
@@ -4400,6 +4451,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S01E03</episode-num>
+    <sub-title>Gritos Agradáveis</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-01x03A.mp4</file>
       <file block="b">Contos-Cripta-01x03B.mp4</file>
@@ -4408,6 +4460,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S01E04</episode-num>
+    <sub-title>Pescaria do Terror/ Uma Pequena Lanternagem</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-01x04A.mp4</file>
       <file block="b">Contos-Cripta-01x04B.mp4</file>
@@ -4416,6 +4469,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S01E05</episode-num>
+    <sub-title>O Museu de Cera</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-01x05A.mp4</file>
       <file block="b">Contos-Cripta-01x05B.mp4</file>
@@ -4451,6 +4505,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S01E09</episode-num>
+    <sub-title>Noite Mal-Assombrada</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-01x09A.mp4</file>
       <file block="b">Contos-Cripta-01x09B.mp4</file>
@@ -5460,6 +5515,371 @@
     <video-files>
       <file block="a">Dilbert-02x15A.mp4</file>
       <file block="b">Dilbert-02x15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Picado por um Medabee</sub-title>
+    <video-files>
+      <file block="a">MEDABOTS-01x01.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x02.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x03.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x04.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x05.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x06.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x07.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x08.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x09.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x10.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x11.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x12.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x13.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x14.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x15.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x16.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x17.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E18</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x18.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E19</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x19.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E20</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x20.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E21</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x21.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E22</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x22.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E23</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x23.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E24</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x24.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E25</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x25.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E26</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x26.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E27</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x27.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E28</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x28.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E29</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x29.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E30</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x30.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E31</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x31.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E32</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x32.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E33</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x33.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E34</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x34.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E35</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x35.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E36</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x36.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E37</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x37.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E38</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x38.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E39</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x39.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E40</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x40.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E41</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x41.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E42</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x42.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E43</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x43.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E44</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x44.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E45</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x45.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E46</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x46.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E47</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x47.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E48</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x48.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E49</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x49.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E50</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x50.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E51</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x51.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="medabots">
+    <episode-num>S01E52</episode-num>
+    <video-files>
+      <file block="a">MEDABOTS-01x52.mp4</file>
     </video-files>
   </programme>
 
