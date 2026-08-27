@@ -61,8 +61,6 @@
   <prog id="patlabor" onair="yes" repeat="1" start="20260722">
     <display-name lang="pt">Patlabor</display-name>
     <desc lang="pt">Essa série animada de ficção científica mostra as aventuras dos “Labors”, robôs gigantes que são usados como ferramentas na construção civil e até mesmo como apoio à polícia no cumprimento da lei.</desc>
-    <category lang="pt">Anime</category>
-    <category lang="pt">Séries</category>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
@@ -115,8 +113,7 @@
   <prog id="homem-aranha" onair="yes" repeat="1" start="20260701">
     <display-name lang="pt">Homem Aranha</display-name>
     <desc lang="pt">Para o Homem-Aranha, ser um super-herói não é nada fácil: ele tem que encontrar tempo para a sua namorada enquanto livra a cidade dos criminosos mais perigosos.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Séries</category>
+    <category lang="pt">Séries de animação</category>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
@@ -134,7 +131,7 @@
 
   <prog id="homem-aranha-e-seus-amigos" onair="yes" repeat="3" start="20260703">
     <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
-    <desc lang="pt">Os verdadeiros fãs de todo o mundo ficarão encantados com as magníficas aventuras do super-herói “O Homem Aranha”.</desc>
+    <desc lang="pt">O pesadelo dos mais perigosos vilões de Nova Iorque se multiplicou: o Homem Aranha não está mais sozinho, mas acompanhado pelo Homem de Gelo e a Estrela de Fogo.</desc>
     <category lang="pt">Animação</category>
     <rating system="CLASSIND">
       <value>A10</value>
@@ -188,7 +185,7 @@
   <prog id="contos-da-cripta" onair="yes" repeat="2" start="20260713">
     <display-name lang="pt">Contos da Cripta</display-name>
     <desc lang="pt">o Guardião da Cripta conta as histórias de terror mais amigáveis para crianças aos espectadores, cada uma com uma lição para aprender.</desc>
-    <category lang="pt">Séries</category>
+    <category lang="pt">Séries de animação</category>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
@@ -277,6 +274,7 @@
 
   <prog id="shinzo" onair="yes" repeat="1" start="20260831">
     <display-name lang="pt">Shinzo</display-name>
+    <desc lang="pt">Em um mundo onde humanos não existem mais, a única sobrevivente é a única esperança de sobrevivência em “SHINZO”.</desc>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
@@ -329,6 +327,7 @@
        <ass id="gasparzinho-como-tudo-comecou"/>
        <ass id="digimon-o-filme"/>
        <ass id="o-principe-do-egito"/>
+       <ass id="herois-fora-de-orbita"/>
     </block>
   </prog>
 
@@ -465,6 +464,7 @@
   <prog id="dilbert" onair="yes" repeat="2" start="20260531">
     <display-name lang="pt">Dilbert</display-name>
     <desc lang="pt">DILBERT retrata a vida e a rotina do protótipo do herói da atualidade, enquanto ele lida com seus problemas na The Company e os obstáculos que ele enfrenta para realizar seu trabalho.</desc>
+    <category lang="pt">Séries de animação</category>
     <rating system="CLASSIND">
       <value>A12</value>
     </rating>
@@ -517,7 +517,7 @@
     <hour type="o" days="sab">233000</hour>
   </prog>
 
-  <prog id="medabots" onair="yes" repeat="8" start="20251009">
+  <prog id="medabots" onair="yes" repeat="8" start="20251010">
     <display-name lang="pt">Medabots</display-name>
     <desc lang="pt">No futuro, há crianças que têm como mascotes robôs com inteligência artificial. São os Medalutadores e seus Medabots que são os protagonistas de surpreendentes Ciberlutas.</desc>
     <rating system="CLASSIND">
@@ -755,6 +755,35 @@
     <block>
        <ass id="homem-aranha-e-seus-amigos" eps="S03E08"/>
     </block>
+  </prog>
+
+  <prog id="a-noite-do-boneco-vivo" onair="yes" repeat="1" type="event" start="20260828">
+    <display-name lang="pt">Goosebumps</display-name>
+    <desc lang="pt">Dia 28: Descubra como um boneco ganha vida!</desc>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(255, 255, 153);</color>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTcyODEzMDM0MF5BMl5BanBnXkFtZTgwNzA0MDQ2MjE@._V1_FMjpg_UX1000_.jpg" />
+    <file-prefix>anoitedobonecovivo</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="sex">230000</hour>
+    <block>
+       <ass id="goosebumps" eps="S01E10"/>
+    </block>
+  </prog>
+
+  <prog id="herois-fora-de-orbita" onair="yes" repeat="1" start="20260906">
+    <display-name lang="pt">Heróis Fora de Órbita</display-name>
+    <desc lang="pt">Alienígenas sequestram os heróis de uma série de televisão e os forçam a ajudá-los na luta contra seus inimigos.</desc>
+    <category lang="pt">Movie</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://play-lh.googleusercontent.com/proxy/LT6uggI3E_FFgzddHflD4bkII4V5MSCUedbDqJskQ_woDxXHx2pFuodRXqp-G_YTDW-mNjgzLwzKVCLy50VWzNVSuwQi7K3o3bPaA98sT4F4XsK4gg=s1920-w1920-h1080" />
+    <file-prefix>heroisforadeorbita</file-prefix>
+    <length units="minutes">120</length>
   </prog>
 
   <programme progid="digimon">
@@ -6621,6 +6650,11 @@
   </programme>
 
   <programme progid="o-principe-do-egito">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="herois-fora-de-orbita">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
   </programme>
