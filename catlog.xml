@@ -643,18 +643,18 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260821">
-    <display-name lang="pt">Pré-estreia: Shinzo</display-name>
-    <desc lang="pt">Não perca esta sexta dia 21!</desc>
+  <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260831">
+    <display-name lang="pt">Estreia: Shinzo</display-name>
+    <desc lang="pt">Uma nova aventura começa!</desc>
     <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <color>rgb(249, 62, 103);</color>
     <icon src="https://pic6.iqiyipic.com/image/20150731/70/86/v_109342521_m_601_480_270.jpg" />
     <file-prefix>preestreiadigimon3</file-prefix>
     <length units="minutes">30</length>
-    <hour type="o" days="sex">173000</hour>
-    <hour type="r" days="sex">213000</hour>
-    <hour type="r" days="seg">060000</hour>
-    <hour type="r" days="seg">103000</hour>
+    <hour type="o" days="seg">183000</hour>
     <block>
        <ass id="shinzo" eps="S01E01"/>
     </block>
@@ -784,6 +784,20 @@
     <icon src="https://play-lh.googleusercontent.com/proxy/LT6uggI3E_FFgzddHflD4bkII4V5MSCUedbDqJskQ_woDxXHx2pFuodRXqp-G_YTDW-mNjgzLwzKVCLy50VWzNVSuwQi7K3o3bPaA98sT4F4XsK4gg=s1920-w1920-h1080" />
     <file-prefix>heroisforadeorbita</file-prefix>
     <length units="minutes">120</length>
+  </prog>
+
+  <prog id="power-domingo-merrick-vs-zen-aku" onair="yes" repeat="1" type="event" start="20260830">
+    <display-name lang="pt">Power Domingo: Merrick vs. Zen-Aku</display-name>
+    <desc lang="pt">Dia 30: Merrick terá que revolver seu passado.</desc>
+    <category lang="pt">Especial</category>
+    <color>rgb(255, 204, 153);</color>
+    <icon src="https://static.wikia.nocookie.net/powerrangers/images/5/50/PRWF_Zen-Aku_returns_again.jpg/revision/latest?cb=20220525144849" />
+    <file-prefix>powerdomingomerrickvszenaku</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="dom">150000</hour>
+    <block>
+       <ass id="power-rangers-forca-animal" eps="S01E27"/>
+    </block>
   </prog>
 
   <programme progid="digimon">
@@ -2720,6 +2734,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E27</episode-num>
+    <sub-title>Negócio Inacabado</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 27A.mp4</file>
       <file block="b">PR-Força do Animal - 27B.mp4</file>
@@ -2728,6 +2743,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E28</episode-num>
+    <sub-title>A Volta ao Lar</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 28A.mp4</file>
       <file block="b">PR-Força do Animal - 28B.mp4</file>
@@ -2736,6 +2752,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E29</episode-num>
+    <sub-title>A Flauta</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 29A.mp4</file>
       <file block="b">PR-Força do Animal - 29B.mp4</file>
@@ -2744,6 +2761,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E30</episode-num>
+    <sub-title>Equipe Divertida</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 30A.mp4</file>
       <file block="b">PR-Força do Animal - 30B.mp4</file>
@@ -2752,6 +2770,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E31</episode-num>
+    <sub-title>Domando os Zords</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 31A.mp4</file>
       <file block="b">PR-Força do Animal - 31B.mp4</file>
@@ -2760,6 +2779,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E32</episode-num>
+    <sub-title>Monitorando a Terra</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 32A.mp4</file>
       <file block="b">PR-Força do Animal - 32B.mp4</file>
@@ -2768,6 +2788,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E33</episode-num>
+    <sub-title>O Valor da Amizade</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 33A.mp4</file>
       <file block="b">PR-Força do Animal - 33B.mp4</file>
@@ -2776,6 +2797,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E34</episode-num>
+    <sub-title>Eternamente Vermelho</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 34A.mp4</file>
       <file block="b">PR-Força do Animal - 34B.mp4</file>
