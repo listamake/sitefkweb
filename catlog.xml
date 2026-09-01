@@ -800,6 +800,19 @@
     </block>
   </prog>
 
+  <prog id="maratona-shinzo" onair="yes" type="block" start="20260905">
+    <display-name lang="pt">Maratona: Shinzo</display-name>
+    <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonashinzo</file-prefix>
+    <length units="minutes">90</length>
+    <hour type="o" days="sab">220000</hour>
+    <weekday days="sab"/>
+  </prog>
+
   <programme progid="digimon">
     <episode-num>S01E01</episode-num>
     <sub-title>Férias de Verão</sub-title>
@@ -2136,6 +2149,168 @@
     </video-files>
   </programme>
 
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S06E01</episode-num>
+    <sub-title>A Maravilha do Computador</sub-title>
+    <video-files>
+      <file block="a">BOBBY-06x01A.mp4</file>
+      <file block="b">BOBBY-06x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S06E02</episode-num>
+    <video-files>
+      <file block="a">BOBBY-06x02A.mp4</file>
+      <file block="b">BOBBY-06x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S06E03</episode-num>
+    <video-files>
+      <file block="a">BOBBY-06x03A.mp4</file>
+      <file block="b">BOBBY-06x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S06E04</episode-num>
+    <video-files>
+      <file block="a">BOBBY-06x04A.mp4</file>
+      <file block="b">BOBBY-06x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S06E06</episode-num>
+    <video-files>
+      <file block="a">BOBBY-06x06A.mp4</file>
+      <file block="b">BOBBY-06x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S06E07</episode-num>
+    <video-files>
+      <file block="a">BOBBY-06x07A.mp4</file>
+      <file block="b">BOBBY-06x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S06E08</episode-num>
+    <video-files>
+      <file block="a">BOBBY-06x08A.mp4</file>
+      <file block="b">BOBBY-06x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S06E09</episode-num>
+    <video-files>
+      <file block="a">BOBBY-06x09A.mp4</file>
+      <file block="b">BOBBY-06x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S06E10</episode-num>
+    <video-files>
+      <file block="a">BOBBY-06x10A.mp4</file>
+      <file block="b">BOBBY-06x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E01</episode-num>
+    <sub-title>Dia da Independência</sub-title>
+    <video-files>
+      <file block="a">BOBBY-07x01A.mp4</file>
+      <file block="b">BOBBY-07x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E02</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x02A.mp4</file>
+      <file block="b">BOBBY-07x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E03</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x03A.mp4</file>
+      <file block="b">BOBBY-07x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E04</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x04A.mp4</file>
+      <file block="b">BOBBY-07x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E05</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x05A.mp4</file>
+      <file block="b">BOBBY-07x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E06</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x06A.mp4</file>
+      <file block="b">BOBBY-07x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E07</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x07A.mp4</file>
+      <file block="b">BOBBY-07x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E08</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x08A.mp4</file>
+      <file block="b">BOBBY-07x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E09</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x09A.mp4</file>
+      <file block="b">BOBBY-07x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E10</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x10A.mp4</file>
+      <file block="b">BOBBY-07x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-mundo-de-bobby">
+    <episode-num>S07E11</episode-num>
+    <video-files>
+      <file block="a">BOBBY-07x11A.mp4</file>
+      <file block="b">BOBBY-07x11B.mp4</file>
+    </video-files>
+  </programme>
+
   <programme progid="patlabor">
     <episode-num>S01E01</episode-num>
     <sub-title>Confusão na Policia</sub-title>
@@ -2373,6 +2548,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E29</episode-num>
+    <sub-title>Falta de comida no Segundo Comando</sub-title>
     <video-files>
       <file block="a">Patlabor-29A.mp4</file>
       <file block="b">Patlabor-29B.mp4</file>
@@ -2381,6 +2557,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E30</episode-num>
+    <sub-title>O Retorno de Griphon</sub-title>
     <video-files>
       <file block="a">Patlabor-30A.mp4</file>
       <file block="b">Patlabor-30B.mp4</file>
@@ -2389,6 +2566,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E31</episode-num>
+    <sub-title>A Batalha na chuva</sub-title>
     <video-files>
       <file block="a">Patlabor-31A.mp4</file>
       <file block="b">Patlabor-31B.mp4</file>
@@ -2397,6 +2575,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E32</episode-num>
+    <sub-title>Vejam novamente</sub-title>
     <video-files>
       <file block="a">Patlabor-32A.mp4</file>
       <file block="b">Patlabor-32B.mp4</file>
@@ -2405,6 +2584,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E33</episode-num>
+    <sub-title>O Coleira do Cachorro</sub-title>
     <video-files>
       <file block="a">Patlabor-33A.mp4</file>
       <file block="b">Patlabor-33B.mp4</file>
@@ -2413,6 +2593,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E34</episode-num>
+    <sub-title>A Luta Final</sub-title>
     <video-files>
       <file block="a">Patlabor-34A.mp4</file>
       <file block="b">Patlabor-34B.mp4</file>
@@ -2421,6 +2602,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E35</episode-num>
+    <sub-title>A Derrota de Griphon</sub-title>
     <video-files>
       <file block="a">Patlabor-35A.mp4</file>
       <file block="b">Patlabor-35B.mp4</file>
@@ -2429,6 +2611,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E36</episode-num>
+    <sub-title>A Aventura de Noah</sub-title>
     <video-files>
       <file block="a">Patlabor-36A.mp4</file>
       <file block="b">Patlabor-36B.mp4</file>
@@ -2437,6 +2620,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E37</episode-num>
+    <sub-title>Eu vendo confiança</sub-title>
     <video-files>
       <file block="a">Patlabor-37A.mp4</file>
       <file block="b">Patlabor-37B.mp4</file>
@@ -2445,6 +2629,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E38</episode-num>
+    <sub-title>Uma coisa embaixo da terra</sub-title>
     <video-files>
       <file block="a">Patlabor-38A.mp4</file>
       <file block="b">Patlabor-38B.mp4</file>
@@ -2453,6 +2638,7 @@
 
   <programme progid="patlabor">
     <episode-num>S01E39</episode-num>
+    <sub-title>O Plano da produção em massa</sub-title>
     <video-files>
       <file block="a">Patlabor-39A.mp4</file>
       <file block="b">Patlabor-39B.mp4</file>
