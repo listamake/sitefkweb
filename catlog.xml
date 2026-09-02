@@ -816,7 +816,7 @@
 
   <prog id="fique-longe-do-porao" onair="yes" repeat="1" type="event" start="20260906">
     <display-name lang="pt">Goosebumps: Fique longe do porão</display-name>
-    <desc lang="pt">Um porão poder guardar mistérios.</desc>
+    <desc lang="pt">Um porão pode guardar mistérios.</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
       <value>A10</value>
