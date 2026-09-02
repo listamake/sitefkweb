@@ -151,8 +151,7 @@
   <prog id="super-pig" onair="yes" repeat="2" start="20260720">
     <display-name lang="pt">Super Pig</display-name>
     <desc lang="pt">Descubra como uma garota normal adquire super poderes de um porquinho mágico.</desc>
-    <category lang="pt">Anime</category>
-    <category lang="pt">Séries</category>
+    <category lang="pt">Série de Animação</category>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
@@ -201,7 +200,7 @@
   <prog id="the-tick" onair="yes" repeat="4" start="20260604">
     <display-name lang="pt">The Tick</display-name>
     <desc lang="pt">Você consegue imaginar um super-herói azul com dois metros e meio de altura e quase 200 quilos? É o Tick, o mais corajoso dos nossos super-heróis.</desc>
-    <category lang="pt">Animação</category>
+    <category lang="pt">Série de Animação</category>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
@@ -5288,6 +5287,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E02</episode-num>
+    <sub-title>Quatro é Demais</sub-title>
     <video-files>
       <file block="a">Shinzo-02A.mp4</file>
       <file block="b">Shinzo-02B.mp4</file>
@@ -5296,6 +5296,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E03</episode-num>
+    <sub-title>A Teia do Mal</sub-title>
     <video-files>
       <file block="a">Shinzo-03A.mp4</file>
       <file block="b">Shinzo-03B.mp4</file>
@@ -5304,6 +5305,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E04</episode-num>
+    <sub-title>Um Dia no Parque</sub-title>
     <video-files>
       <file block="a">Shinzo-04A.mp4</file>
       <file block="b">Shinzo-04B.mp4</file>
@@ -5312,6 +5314,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E05</episode-num>
+    <sub-title>Kiri</sub-title>
     <video-files>
       <file block="a">Shinzo-05A.mp4</file>
       <file block="b">Shinzo-05B.mp4</file>
@@ -5320,6 +5323,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E06</episode-num>
+    <sub-title>A Batlha contra Daku</sub-title>
     <video-files>
       <file block="a">Shinzo-06A.mp4</file>
       <file block="b">Shinzo-06B.mp4</file>
