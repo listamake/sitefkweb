@@ -531,6 +531,7 @@
     <hour type="r" days="seg,ter,qua,qui,sex">063000</hour>
     <hour type="r" days="seg,ter,qua,qui,sex">110000</hour>
     <hour type="r" days="sab">043000</hour>
+    <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
   <prog id="acao-e-aventura" onair="yes" type="block">
@@ -811,6 +812,23 @@
     <length units="minutes">90</length>
     <hour type="o" days="sab">220000</hour>
     <weekday days="sab"/>
+  </prog>
+
+  <prog id="fique-longe-do-porao" onair="yes" repeat="1" type="event" start="20260906">
+    <display-name lang="pt">Goosebumps: Fique longe do porão</display-name>
+    <desc lang="pt">Um porão poder guardar mistérios.</desc>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://static.tvtropes.org/pmwiki/pub/images/mv5bnzbjmta4zjityfff.png" />
+    <file-prefix>fiquelongedoporao</file-prefix>
+    <length units="minutes">60</length>
+    <hour type="o" days="dom">220000</hour>
+    <block>
+       <ass id="goosebumps" eps="S01E12,S01E13"/>
+    </block>
   </prog>
 
   <programme progid="digimon">
