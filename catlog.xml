@@ -39,7 +39,7 @@
     <weekday days="ter,qui"/>
   </prog>
 
-  <prog id="o-mundo-de-bobby" onair="yes" repeat="1" start="20260615">
+  <prog id="o-mundo-de-bobby" onair="yes" repeat="2" start="20260615">
     <display-name lang="pt">O Mundo de Bobby</display-name>
     <desc lang="pt">Imagine que você é um menino de apenas quatro anos de idade e que seus sonhos frequentemente se tornam realidade. Assim é mundo de Bobby!</desc>
     <category lang="pt">Desenho</category>
@@ -75,7 +75,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="power-rangers-forca-animal" onair="yes" repeat="1" start="20260624">
+  <prog id="power-rangers-forca-animal" onair="yes" repeat="3" start="20260323">
     <display-name lang="pt">Power Rangers: Força Animal</display-name>
     <desc lang="pt">Das profundezas da Terra, o líder dos Orgs escapou. Agora o planeta está em perigo. Cinco jovens corajosos são escolhidos para derrotá-lo: os Power Rangers: Força Animal!</desc>
     <category lang="pt">Série</category>
@@ -216,7 +216,7 @@
     <weekday days="ter,qui"/>
   </prog>
 
-  <prog id="o-incrivel-hulk" onair="yes" repeat="3" start="20260702">
+  <prog id="o-incrivel-hulk" onair="yes" repeat="4" start="20260702">
     <display-name lang="pt">O Incrível Hulk</display-name>
     <desc lang="pt">O desenho animado do monstro verde mais famoso do mundo está de volta, narrando a triste história do cientista Bruce Banner, que precisa lidar com uma poderosa fera interior: O Incrível Hulk</desc>
     <category lang="pt">Animação</category>
@@ -240,7 +240,7 @@
     <category lang="pt">Movie</category>
     <icon src="https://assets.mubicdn.net/images/film/31806/image-w1280.jpg?1745491903" />
     <file-prefix>patlabor-o-filme</file-prefix>
-    <length units="minutes">30</length>
+    <length units="minutes">120</length>
   </prog>
 
   <prog id="retorno-da-familia-addams" onair="yes" repeat="1" start="20260705">
@@ -460,7 +460,7 @@
     </block>
   </prog>
 
-  <prog id="dilbert" onair="yes" repeat="2" start="20260531">
+  <prog id="dilbert" onair="yes" repeat="3" start="20260531">
     <display-name lang="pt">Dilbert</display-name>
     <desc lang="pt">DILBERT retrata a vida e a rotina do protótipo do herói da atualidade, enquanto ele lida com seus problemas na The Company e os obstáculos que ele enfrenta para realizar seu trabalho.</desc>
     <category lang="pt">Séries de animação</category>
@@ -546,19 +546,21 @@
        <ass id="power-rangers-forca-animal"/>
        <ass id="homem-aranha"/>
        <ass id="o-incrivel-hulk"/>
+       <ass id="power-rangers-forca-do-tempo"/>
     </block>
   </prog>
 
-  <prog id="esquadrilha-aerea" onair="yes" repeat="1">
+  <prog id="esquadrilha-aerea" onair="yes" repeat="15" start="20250202">
     <display-name lang="pt">Esquadrilha Aérea</display-name>
     <desc lang="pt">ESQUADRILHA AÉREA é a escola secreta de treinamento aeronáutico onde chegam as missões mais perigosas e clandestinas que ninguém mais é capaz de resolver.</desc>
     <rating system="CLASSIND">
       <value>AL</value>
     </rating>
+    <icon src="https://media.senscritique.com/media/000004242046/300/air_academy.jpg" />
     <file-prefix>esquadrilhaaerea</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="dom">210000</hour>
-    <hour type="o" days="dom,sab">053000</hour>
+    <hour type="r" days="dom,sab">053000</hour>
   </prog>
 
   <prog id="maratona-the-tick" onair="yes" type="block">
@@ -828,6 +830,24 @@
     <block>
        <ass id="goosebumps" eps="S01E12,S01E13"/>
     </block>
+  </prog>
+
+  <prog id="power-rangers-forca-do-tempo" onair="yes" repeat="3" start="20250616">
+    <display-name lang="pt">Power Rangers: Força do Tempo</display-name>
+    <desc lang="pt">Quando o sinistro Ransik foge o futuro, a Terra só tem uma esperança: a elite dos corajosos policiais: Power Ranger Força do Tempo.</desc>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2020/10/legiao_2lL3jcePKp01.jpg.webp" />
+    <file-prefix>powerrangersforcadotempo</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,qua,sex">143000</hour>
+    <hour type="r" days="seg,qua,sex">170000</hour>
+    <hour type="r" days="seg,qua,sex">210000</hour>
+    <hour type="r" days="seg,ter,qui,sab">010000</hour>
+    <hour type="r" days="seg,ter,qui">043000</hour>
+    <hour type="r" days="seg,ter,qui">083000</hour>
+    <weekday days="seg,qua,sex"/>
   </prog>
 
   <programme progid="digimon">
@@ -4810,6 +4830,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E02</episode-num>
+    <sub-title>Sague Frio Coração Sincero</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x02A.mp4</file>
       <file block="b">Contos-Cripta-02x02B.mp4</file>
@@ -4818,6 +4839,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E03</episode-num>
+    <sub-title>O Fantasma Vingador / Conceitos de Min</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x03A.mp4</file>
       <file block="b">Contos-Cripta-02x03B.mp4</file>
@@ -4826,6 +4848,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E04</episode-num>
+    <sub-title>Dores do Crescimento</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x04A.mp4</file>
       <file block="b">Contos-Cripta-02x04B.mp4</file>
@@ -4834,6 +4857,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E05</episode-num>
+    <sub-title>Todos Detalhes Sangrentos</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x05A.mp4</file>
       <file block="b">Contos-Cripta-02x05B.mp4</file>
@@ -4842,6 +4866,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E06</episode-num>
+    <sub-title>Os Mortos Não Enterram</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x06A.mp4</file>
       <file block="b">Contos-Cripta-02x06B.mp4</file>
@@ -4850,6 +4875,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E07</episode-num>
+    <sub-title>Mina Mal-Assombrada</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x07A.mp4</file>
       <file block="b">Contos-Cripta-02x07B.mp4</file>
@@ -4858,6 +4884,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E08</episode-num>
+    <sub-title>Os Irmãos Gruff</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x08A.mp4</file>
       <file block="b">Contos-Cripta-02x08B.mp4</file>
@@ -4866,6 +4893,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E09</episode-num>
+    <sub-title>Casa do Tio Harry</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x09A.mp4</file>
       <file block="b">Contos-Cripta-02x09B.mp4</file>
@@ -4874,6 +4902,7 @@
 
   <programme progid="contos-da-cripta">
     <episode-num>S02E10</episode-num>
+    <sub-title>O Caçador que Virou a Caça</sub-title>
     <video-files>
       <file block="a">Contos-Cripta-02x10A.mp4</file>
       <file block="b">Contos-Cripta-02x10B.mp4</file>
@@ -5090,6 +5119,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E03</episode-num>
+    <sub-title>Força Bruta</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x03A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x03B.mp4</file>
@@ -5098,6 +5128,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E04</episode-num>
+    <sub-title>O Homem de Ferro</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x04A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x04B.mp4</file>
@@ -5106,6 +5137,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E05</episode-num>
+    <sub-title>Sangue Inocente</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x05A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x05B.mp4</file>
@@ -5114,6 +5146,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S01E06</episode-num>
+    <sub-title>De Homem pra Homem</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-01x06A.mp4</file>
       <file block="b">O-Incrivel-Hulk-01x06B.mp4</file>
@@ -5230,6 +5263,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S02E06</episode-num>
+    <sub-title>As Pedras de Hollywood</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-02x06A.mp4</file>
       <file block="b">O-Incrivel-Hulk-02x06B.mp4</file>
@@ -5238,6 +5272,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S02E07</episode-num>
+    <sub-title>A Vila Perdida</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-02x07A.mp4</file>
       <file block="b">O-Incrivel-Hulk-02x07B.mp4</file>
@@ -5246,6 +5281,7 @@
 
   <programme progid="o-incrivel-hulk">
     <episode-num>S02E08</episode-num>
+    <sub-title>Missão Incrível</sub-title>
     <video-files>
       <file block="a">O-Incrivel-Hulk-02x08A.mp4</file>
       <file block="b">O-Incrivel-Hulk-02x08B.mp4</file>
@@ -5643,6 +5679,7 @@
 
   <programme progid="dilbert">
     <episode-num>S01E12</episode-num>
+    <sub-title>O Feriado</sub-title>
     <video-files>
       <file block="a">Dilbert-01x12A.mp4</file>
       <file block="b">Dilbert-01x12B.mp4</file>
@@ -5651,6 +5688,7 @@
 
   <programme progid="dilbert">
     <episode-num>S01E13</episode-num>
+    <sub-title>O Buraco Negro</sub-title>
     <video-files>
       <file block="a">Dilbert-01x13A.mp4</file>
       <file block="b">Dilbert-01x13B.mp4</file>
@@ -5659,6 +5697,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E01</episode-num>
+    <sub-title>O Presente</sub-title>
     <video-files>
       <file block="a">Dilbert-02x01A.mp4</file>
       <file block="b">Dilbert-02x01B.mp4</file>
@@ -5667,6 +5706,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E02</episode-num>
+    <sub-title>O Sudário de Wally</sub-title>
     <video-files>
       <file block="a">Dilbert-02x02A.mp4</file>
       <file block="b">Dilbert-02x02B.mp4</file>
@@ -5675,6 +5715,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E03</episode-num>
+    <sub-title>O Julgamento</sub-title>
     <video-files>
       <file block="a">Dilbert-02x03A.mp4</file>
       <file block="b">Dilbert-02x03B.mp4</file>
@@ -5683,6 +5724,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E04</episode-num>
+    <sub-title>A Essência da Arte</sub-title>
     <video-files>
       <file block="a">Dilbert-02x04A.mp4</file>
       <file block="b">Dilbert-02x04B.mp4</file>
@@ -5691,6 +5733,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E05</episode-num>
+    <sub-title>Uma Forma Superior de Vida</sub-title>
     <video-files>
       <file block="a">Dilbert-02x05A.mp4</file>
       <file block="b">Dilbert-02x05B.mp4</file>
@@ -5699,6 +5742,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E06</episode-num>
+    <sub-title>A Fome</sub-title>
     <video-files>
       <file block="a">Dilbert-02x06A.mp4</file>
       <file block="b">Dilbert-02x06B.mp4</file>
@@ -5707,6 +5751,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E07</episode-num>
+    <sub-title>O Guarda de Segurança</sub-title>
     <video-files>
       <file block="a">Dilbert-02x07A.mp4</file>
       <file block="b">Dilbert-02x07B.mp4</file>
@@ -5715,6 +5760,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E08</episode-num>
+    <sub-title>A Sinergia</sub-title>
     <video-files>
       <file block="a">Dilbert-02x08A.mp4</file>
       <file block="b">Dilbert-02x08B.mp4</file>
@@ -5723,6 +5769,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E09</episode-num>
+    <sub-title>Um Elefante no Quintal</sub-title>
     <video-files>
       <file block="a">Dilbert-02x09A.mp4</file>
       <file block="b">Dilbert-02x09B.mp4</file>
@@ -5731,6 +5778,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E10</episode-num>
+    <sub-title>O Assistente</sub-title>
     <video-files>
       <file block="a">Dilbert-02x10A.mp4</file>
       <file block="b">Dilbert-02x10B.mp4</file>
@@ -5739,6 +5787,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E11</episode-num>
+    <sub-title>O Piquenique da Companhia</sub-title>
     <video-files>
       <file block="a">Dilbert-02x11A.mp4</file>
       <file block="b">Dilbert-02x11B.mp4</file>
@@ -5747,6 +5796,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E12</episode-num>
+    <sub-title>Em Nome de Zeus</sub-title>
     <video-files>
       <file block="a">Dilbert-02x12A.mp4</file>
       <file block="b">Dilbert-02x12B.mp4</file>
@@ -5755,6 +5805,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E13</episode-num>
+    <sub-title>A Devolução</sub-title>
     <video-files>
       <file block="a">Dilbert-02x13A.mp4</file>
       <file block="b">Dilbert-02x13B.mp4</file>
@@ -5763,6 +5814,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E14</episode-num>
+    <sub-title>Treinamento Ético</sub-title>
     <video-files>
       <file block="a">Dilbert-02x14A.mp4</file>
       <file block="b">Dilbert-02x14B.mp4</file>
@@ -5771,6 +5823,7 @@
 
   <programme progid="dilbert">
     <episode-num>S02E15</episode-num>
+    <sub-title>A Síndrome</sub-title>
     <video-files>
       <file block="a">Dilbert-02x15A.mp4</file>
       <file block="b">Dilbert-02x15B.mp4</file>
@@ -6139,6 +6192,105 @@
     <episode-num>S01E52</episode-num>
     <video-files>
       <file block="a">MEDABOTS-01x52.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Sequestro Aéreo</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-01A.mp4</file>
+      <file block="b">ESQUAD-AEREA-01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E02</episode-num>
+    <sub-title>Pé Grande</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-02A.mp4</file>
+      <file block="b">ESQUAD-AEREA-02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E03</episode-num>
+    <sub-title>Prova de fogo</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-03A.mp4</file>
+      <file block="b">ESQUAD-AEREA-03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E04</episode-num>
+    <sub-title>Gelo</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-04A.mp4</file>
+      <file block="b">ESQUAD-AEREA-04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E05</episode-num>
+    <sub-title>Risco Compacto</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-05A.mp4</file>
+      <file block="b">ESQUAD-AEREA-05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E06</episode-num>
+    <sub-title>Problema Duplo</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-06A.mp4</file>
+      <file block="b">ESQUAD-AEREA-06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E07</episode-num>
+    <sub-title>Sequestradores do Ar</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-07A.mp4</file>
+      <file block="b">ESQUAD-AEREA-07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E08</episode-num>
+    <sub-title>O Resgate das Baleias</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-08A.mp4</file>
+      <file block="b">ESQUAD-AEREA-08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E09</episode-num>
+    <sub-title>Perigo na Montanha</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-09A.mp4</file>
+      <file block="b">ESQUAD-AEREA-09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E10</episode-num>
+    <sub-title>A Loba Branca</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-10A.mp4</file>
+      <file block="b">ESQUAD-AEREA-10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="esquadrilha-aerea">
+    <episode-num>S01E11</episode-num>
+    <sub-title>A Lagoa Negra</sub-title>
+    <video-files>
+      <file block="a">ESQUAD-AEREA-11A.mp4</file>
+      <file block="b">ESQUAD-AEREA-11B.mp4</file>
     </video-files>
   </programme>
 
@@ -6609,6 +6761,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E07</episode-num>
+    <sub-title>Guilmon em Perigo</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-07A.mp4</file>
       <file block="b">Digi-Tamers-07B.mp4</file>
@@ -6617,6 +6770,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E08</episode-num>
+    <sub-title>Guilmon Digivolve</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-08A.mp4</file>
       <file block="b">Digi-Tamers-08B.mp4</file>
@@ -6625,6 +6779,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E09</episode-num>
+    <sub-title>O Pânico de Growlmon</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-09A.mp4</file>
       <file block="b">Digi-Tamers-09B.mp4</file>
@@ -6633,6 +6788,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E10</episode-num>
+    <sub-title>Ruki em Dúvida</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-10A.mp4</file>
       <file block="b">Digi-Tamers-10B.mp4</file>
@@ -6641,6 +6797,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E11</episode-num>
+    <sub-title>Muito a Fazer Sobre Musyamon</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-11A.mp4</file>
       <file block="b">Digi-Tamers-11B.mp4</file>
@@ -6649,6 +6806,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E12</episode-num>
+    <sub-title>Divididas elas Permanecem</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-12A.mp4</file>
       <file block="b">Digi-Tamers-12B.mp4</file>
@@ -6657,6 +6815,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E13</episode-num>
+    <sub-title>O Mal Pressentimento</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-13A.mp4</file>
       <file block="b">Digi-Tamers-13B.mp4</file>
@@ -6665,6 +6824,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E14</episode-num>
+    <sub-title>O Nascimento de Megalo Growlmon</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-14A.mp4</file>
       <file block="b">Digi-Tamers-14B.mp4</file>
@@ -6673,6 +6833,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E15</episode-num>
+    <sub-title>Pânico no Metrô</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-15A.mp4</file>
       <file block="b">Digi-Tamers-15B.mp4</file>
@@ -6681,6 +6842,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E16</episode-num>
+    <sub-title>Digimons Vão Acampar</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-16A.mp4</file>
       <file block="b">Digi-Tamers-16B.mp4</file>
@@ -6887,6 +7049,327 @@
   <programme progid="herois-fora-de-orbita">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E01</episode-num>
+    <sub-title>A Força do Futuro - Parte 1</sub-title>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 01A.mp4</file>
+      <file block="b">PR-Força do Tempo- 01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 02A.mp4</file>
+      <file block="b">PR-Força do Tempo- 02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 03A.mp4</file>
+      <file block="b">PR-Força do Tempo- 03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 04A.mp4</file>
+      <file block="b">PR-Força do Tempo- 04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 05A.mp4</file>
+      <file block="b">PR-Força do Tempo- 05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 06A.mp4</file>
+      <file block="b">PR-Força do Tempo- 06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 07A.mp4</file>
+      <file block="b">PR-Força do Tempo- 07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 08A.mp4</file>
+      <file block="b">PR-Força do Tempo- 08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 09A.mp4</file>
+      <file block="b">PR-Força do Tempo- 09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 10A.mp4</file>
+      <file block="b">PR-Força do Tempo- 10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 11A.mp4</file>
+      <file block="b">PR-Força do Tempo- 11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 12A.mp4</file>
+      <file block="b">PR-Força do Tempo- 12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 13A.mp4</file>
+      <file block="b">PR-Força do Tempo- 13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 14A.mp4</file>
+      <file block="b">PR-Força do Tempo- 14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 15A.mp4</file>
+      <file block="b">PR-Força do Tempo- 15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 16A.mp4</file>
+      <file block="b">PR-Força do Tempo- 16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 17A.mp4</file>
+      <file block="b">PR-Força do Tempo- 17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E18</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 18A.mp4</file>
+      <file block="b">PR-Força do Tempo- 18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E19</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 19A.mp4</file>
+      <file block="b">PR-Força do Tempo- 19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E20</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 20A.mp4</file>
+      <file block="b">PR-Força do Tempo- 20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E21</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 21A.mp4</file>
+      <file block="b">PR-Força do Tempo- 21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E22</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 22A.mp4</file>
+      <file block="b">PR-Força do Tempo- 22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E23</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 23A.mp4</file>
+      <file block="b">PR-Força do Tempo- 23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E24</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 24A.mp4</file>
+      <file block="b">PR-Força do Tempo- 24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E25</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 25A.mp4</file>
+      <file block="b">PR-Força do Tempo- 25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E26</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 26A.mp4</file>
+      <file block="b">PR-Força do Tempo- 26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E27</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 27A.mp4</file>
+      <file block="b">PR-Força do Tempo- 27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E28</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 28A.mp4</file>
+      <file block="b">PR-Força do Tempo- 28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E29</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 29A.mp4</file>
+      <file block="b">PR-Força do Tempo- 29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E30</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 30A.mp4</file>
+      <file block="b">PR-Força do Tempo- 30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E31</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 31A.mp4</file>
+      <file block="b">PR-Força do Tempo- 31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E32</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 32A.mp4</file>
+      <file block="b">PR-Força do Tempo- 32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E33</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 33A.mp4</file>
+      <file block="b">PR-Força do Tempo- 33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E34</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 34A.mp4</file>
+      <file block="b">PR-Força do Tempo- 34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E35</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 35A.mp4</file>
+      <file block="b">PR-Força do Tempo- 35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E36</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 36A.mp4</file>
+      <file block="b">PR-Força do Tempo- 36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E37</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 37A.mp4</file>
+      <file block="b">PR-Força do Tempo- 37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E38</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 38A.mp4</file>
+      <file block="b">PR-Força do Tempo- 38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E39</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 39A.mp4</file>
+      <file block="b">PR-Força do Tempo- 39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-forca-do-tempo">
+    <episode-num>S01E40</episode-num>
+    <video-files>
+      <file block="a">PR-Força do Tempo- 40A.mp4</file>
+      <file block="b">PR-Força do Tempo- 40B.mp4</file>
+    </video-files>
   </programme>
 
 </catalog>
