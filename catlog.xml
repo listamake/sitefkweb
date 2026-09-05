@@ -58,7 +58,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="patlabor" onair="yes" repeat="1" start="20260722">
+  <prog id="patlabor" onair="yes" repeat="3" start="20260722">
     <display-name lang="pt">Patlabor</display-name>
     <desc lang="pt">Essa série animada de ficção científica mostra as aventuras dos “Labors”, robôs gigantes que são usados como ferramentas na construção civil e até mesmo como apoio à polícia no cumprimento da lei.</desc>
     <rating system="CLASSIND">
@@ -110,7 +110,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="homem-aranha" onair="yes" repeat="1" start="20260701">
+  <prog id="homem-aranha" onair="yes" repeat="3" start="20260701">
     <display-name lang="pt">Homem Aranha</display-name>
     <desc lang="pt">Para o Homem-Aranha, ser um super-herói não é nada fácil: ele tem que encontrar tempo para a sua namorada enquanto livra a cidade dos criminosos mais perigosos.</desc>
     <category lang="pt">Séries de animação</category>
@@ -181,7 +181,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="contos-da-cripta" onair="yes" repeat="2" start="20260713">
+  <prog id="contos-da-cripta" onair="yes" repeat="5" start="20260713">
     <display-name lang="pt">Contos da Cripta</display-name>
     <desc lang="pt">o Guardião da Cripta conta as histórias de terror mais amigáveis para crianças aos espectadores, cada uma com uma lição para aprender.</desc>
     <category lang="pt">Séries de animação</category>
@@ -271,7 +271,7 @@
     <weekday days="dom"/>
   </prog>
 
-  <prog id="shinzo" onair="yes" repeat="1" start="20260831">
+  <prog id="shinzo" onair="yes" repeat="3" start="20260831">
     <display-name lang="pt">Shinzo</display-name>
     <desc lang="pt">Em um mundo onde humanos não existem mais, a única sobrevivente é a única esperança de sobrevivência em “SHINZO”.</desc>
     <rating system="CLASSIND">
@@ -310,6 +310,7 @@
     <category lang="pt">Filmes</category>
     <category lang="pt">Bloque</category>
     <color>rgb(204, 255, 204);</color>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj50DlENeeB32Dw1ZTiE9_3hZ_VIZxZXonSfxRMr7a5jrQDNWQ5DOA1_ARcjadV-wTnaOOYYouAJzWoaE70Q6iwEzlmQxEmfRVn22-f8VQfTsZCKh5dnER44-U1lv5iYN48Wglz6hLeJB76hhQLbE_ezVncBR0Nox4NtAeWPfHrdC6AIusTvx61jb_-Zpn5/w527-h296/Cineskopto.png" />
     <file-prefix>cineskopio</file-prefix>
     <length units="minutes">120</length>
     <hour type="o" days="dom">120000</hour>
@@ -359,6 +360,7 @@
     <desc lang="pt">No Digimundo, a batalha contra o mal se vence com pura digievolução! Não perca essa maratona impressionante.</desc>
     <category lang="pt">Anime</category>
     <color>rgb(255, 204, 153);</color>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAg0KKmKIYTiuJ-GAdrQkE63W0g3yKWA3woVmrAdv-JRU2zoVk8qXj_pDRj1UFd7YCn363j_MjYInx3S5yG2m4lu-lhMYPZNt2lwkbGCyz0kT3FDY684xVDDRhouYUO1FzsTMl0wyHny9tE2ppQokLio672TYPTKXx4yYd4TrNlR_LDxIQyAyrEWfdspub/w529-h297/evolusbado.png" />
     <file-prefix>evolusabdo</file-prefix>
     <length units="minutes">150</length>
     <hour type="o" days="sab">183000</hour>
@@ -371,6 +373,7 @@
       <value>A10</value>
     </rating>
     <color>rgb(255, 204, 153);</color>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOzpbyjU5Xp7xWzedlNMpKVAltXG6nE6o-G6QIiRdMABk324HNDom9LmnT7BLlCHVLdsVWSkjI5_w4_Np-hQGsQ9xachHTkecZJEo0MoB69y2L5UgLR1PD99zDEL0psFfXdj-T5ekTGra5vJhQHZbTAX07vgL34F7Lu79cwJVkjYqeeTqxLWFBGjI2CnoX/w526-h294/Snapshot_10469.png" />
     <file-prefix>powerdomingo</file-prefix>
     <length units="minutes">150</length>
     <hour type="o" days="dom">140000</hour>
@@ -414,6 +417,7 @@
       <value>A10</value>
     </rating>
     <color>rgb(255, 204, 153);</color>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBjSkvIQdSDt-HKww3sfFp9U3VRgayfnBIlm-ZBzGEhkyDe4aZm1t8rOULd3gUdSJ-edHozW_sthVYCH05yScEpC7xinvyYVwLycbnSiH1nulmX1eR_fQJRR1b8wzRQpzZJEZVa3YkZ0qqMfxCPFB8yfz78tQyE2WHb04JG8ptVpXQi7k-1iu2Z9AepqKG/w525-h292/sabadosa.png" />
     <file-prefix>sabadoaranha</file-prefix>
     <length units="minutes">90</length>
     <hour type="o" days="sab">160000</hour>
@@ -432,6 +436,7 @@
     <display-name lang="pt">Maratona: O Fantástico Mundo De Bobby</display-name>
     <category lang="pt">Anime</category>
     <color>rgb(255, 204, 153);</color>
+    <icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
     <file-prefix>maratonaofantasticomundodebobby</file-prefix>
     <length units="minutes">150</length>
     <hour type="o" days="sab">110000</hour>
@@ -696,7 +701,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="digimon-3" onair="yes" repeat="1" start="20260824">
+  <prog id="digimon-3" onair="yes" repeat="2" start="20260824">
     <display-name lang="pt">Digimon 3</display-name>
     <desc lang="pt">Esqueça tudo o que você sabe sobre Digimon. Mude sua realidade por dessa vez vai ser para valer!</desc>
     <rating system="CLASSIND">
@@ -6797,7 +6802,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E11</episode-num>
-    <sub-title>Muito a Fazer Sobre Musyamon</sub-title>
+    <sub-title>Confronto em Um Minuto e Meio</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-11A.mp4</file>
       <file block="b">Digi-Tamers-11B.mp4</file>
