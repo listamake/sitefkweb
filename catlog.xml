@@ -253,7 +253,7 @@
     <weekday days="dom"/>
   </prog>
 
-  <prog id="o-caminho-para-el-dorado" onair="yes" repeat="1" start="20260712">
+  <prog id="o-caminho-para-el-dorado" onair="yes" repeat="1" start="20260913">
     <display-name lang="pt">O Caminho para El Dorado</display-name>
     <category lang="pt">Movie</category>
     <icon src="https://cinepop.com.br/wp-content/uploads/2025/08/el-dorado-4.jpg" />
@@ -853,6 +853,20 @@
     <hour type="r" days="seg,ter,qui">043000</hour>
     <hour type="r" days="seg,ter,qui">083000</hour>
     <weekday days="seg,qua,sex"/>
+  </prog>
+
+  <prog id="power-rangers-ranger-vermelho" onair="yes" repeat="1" type="event" start="20260909">
+    <display-name lang="pt">Os Rangers Vermelho</display-name>
+    <desc lang="pt">O mundo está em perigo. Os Rangers conseguirá salvá-lo ?</desc>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://i.ytimg.com/vi/-cHadutGIRA/maxresdefault.jpg" />
+    <file-prefix>powerrangersrangervermelho</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="qua">143000</hour>
+    <block>
+       <ass id="power-rangers-forca-animal" eps="S01E34"/>
+    </block>
   </prog>
 
   <programme progid="digimon">
