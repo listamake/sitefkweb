@@ -869,6 +869,23 @@
     </block>
   </prog>
 
+  <prog id="o-lobisomem-do-pantano" onair="yes" repeat="1" type="event" start="20260913">
+    <display-name lang="pt">O Lobisomem do pântano</display-name>
+    <desc lang="pt">Uma aventura que nunca esqueceriam...</desc>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://static.wikia.nocookie.net/stine/images/f/ff/Download_%283%29.jpeg/revision/latest?cb=20180205164519" />
+    <file-prefix>olobisomemdopantano</file-prefix>
+    <length units="minutes">60</length>
+    <hour type="o" days="dom">213000</hour>
+    <block>
+       <ass id="goosebumps" eps="S01E18,S01E19"/>
+    </block>
+  </prog>
+
   <programme progid="digimon">
     <episode-num>S01E01</episode-num>
     <sub-title>Férias de Verão</sub-title>
