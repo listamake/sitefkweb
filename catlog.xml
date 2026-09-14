@@ -302,6 +302,7 @@
        <ass id="medabots"/>
        <ass id="digimon-2"/>
        <ass id="digimon-3"/>
+       <ass id="digimon-espelho"/>
     </block>
   </prog>
 
@@ -328,6 +329,7 @@
        <ass id="digimon-o-filme"/>
        <ass id="o-principe-do-egito"/>
        <ass id="herois-fora-de-orbita"/>
+       <ass id="um-ratinho-encrenqueiro-espelho"/>
     </block>
   </prog>
 
@@ -883,6 +885,72 @@
     <hour type="o" days="dom">213000</hour>
     <block>
        <ass id="goosebumps" eps="S01E18,S01E19"/>
+    </block>
+  </prog>
+
+  <prog id="digimon-espelho" onair="yes" repeat="7" type="mirror" start="20240506">
+    <display-name lang="pt">Digimon (Espelho)</display-name>
+    <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para o digi-Mundo. E agora tentarão salvá-lo com a ajuda dos Digimon, contras forças do mal.</desc>
+    <category lang="pt">Anime</category>
+    <category lang="pt">Séries</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://prcdn.freetls.fastly.net/release_image/31422/1272/31422-1272-8447dfd4a8b3dad2903a771f9ecaaae3-2011x2700.jpg" />
+    <file-prefix>digimonespelho</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
+    <hour type="r" days="sab">040000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">060000</hour>
+    <hour type="r" days="seg,ter,qua,qui,sex">103000</hour>
+    <block>
+       <ass id="digimon" eps="S01E01-S01E54"/>
+    </block>
+  </prog>
+
+  <prog id="o-incrivel-hulk-espelho" onair="yes" repeat="1" type="mirror" start="20251007">
+    <display-name lang="pt">O Incrível Hulk (Espelho)</display-name>
+    <desc lang="pt">O desenho animado do monstro verde mais famoso do mundo está de volta, narrando a triste história do cientista Bruce Banner, que precisa lidar com uma poderosa fera interior: O Incrível Hulk</desc>
+    <category lang="pt">Animação</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/the-incredible-hulk-3.jpg" />
+    <file-prefix>oincrivelhulkespelho</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="ter,qui">173000</hour>
+    <hour type="r" days="ter,qui">213000</hour>
+    <hour type="r" days="ter,qui">060000</hour>
+    <hour type="r" days="qua,sex">103000</hour>
+    <block>
+       <ass id="o-incrivel-hulk" eps="S01E01-S02E07"/>
+    </block>
+  </prog>
+
+  <prog id="um-ratinho-encrenqueiro-espelho" onair="yes" repeat="1" type="mirror" start="20260920">
+    <display-name lang="pt">Um Ratinho Encrenqueiro (Espelho)</display-name>
+    <desc lang="pt">O ratinho se transforma em uma ameaça para os dois irmãos que percebem que o roedor pode colocar a casa a baixo se eles não vencerem logo a batalha contra ele.</desc>
+    <category lang="pt">Movie</category>
+    <icon src="https://m.media-amazon.com/images/S/pv-target-images/204721f58aacc9287020f1b1d26ef3b515e11cc3731ccfabfdfcbf1e9830391d.jpg" />
+    <file-prefix>umratinhoencrenqueiroespelho</file-prefix>
+    <length units="minutes">120</length>
+    <block>
+       <ass id="um-ratinho-encrenqueiro"/>
+    </block>
+  </prog>
+
+  <prog id="o-retorno-da-mascara-maldita" onair="yes" repeat="1" type="event" start="20260916">
+    <display-name lang="pt">O Retorno da Máscara Maldita</display-name>
+    <desc lang="pt">Steve quer encontrar uma máscara tão assustadora...</desc>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://static.wikia.nocookie.net/goosebumps/images/a/a2/Vlcsnap-2021-06-19-11h22m28s688.png" />
+    <file-prefix>oretornodamascaramaldita</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="qui">230000</hour>
+    <block>
+       <ass id="goosebumps" eps="S02E11"/>
     </block>
   </prog>
 
