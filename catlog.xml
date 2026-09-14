@@ -929,7 +929,7 @@
   </prog>
 
   <prog id="um-ratinho-encrenqueiro-espelho" onair="yes" repeat="1" type="mirror" start="20260920">
-    <display-name lang="pt">Um Ratinho Encrenqueiro (Espelho)</display-name>
+    <display-name lang="pt">Um Ratinho Encrenqueiro</display-name>
     <desc lang="pt">O ratinho se transforma em uma ameaça para os dois irmãos que percebem que o roedor pode colocar a casa a baixo se eles não vencerem logo a batalha contra ele.</desc>
     <category lang="pt">Movie</category>
     <icon src="https://m.media-amazon.com/images/S/pv-target-images/204721f58aacc9287020f1b1d26ef3b515e11cc3731ccfabfdfcbf1e9830391d.jpg" />
