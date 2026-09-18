@@ -284,6 +284,7 @@
     <hour type="r" days="seg,qua,sex">223000</hour>
     <hour type="r" days="seg,ter,qui">070000</hour>
     <hour type="r" days="seg,ter,qui">113000</hour>
+    <hour type="r" days="sab">050000</hour>
     <weekday days="seg,qua,sex"/>
   </prog>
 
@@ -308,7 +309,6 @@
 
   <prog id="cineskopio" onair="yes" type="block">
     <display-name lang="pt">Cineskópio</display-name>
-    <category lang="pt">Filmes</category>
     <category lang="pt">Bloque</category>
     <color>rgb(204, 255, 204);</color>
     <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj50DlENeeB32Dw1ZTiE9_3hZ_VIZxZXonSfxRMr7a5jrQDNWQ5DOA1_ARcjadV-wTnaOOYYouAJzWoaE70Q6iwEzlmQxEmfRVn22-f8VQfTsZCKh5dnER44-U1lv5iYN48Wglz6hLeJB76hhQLbE_ezVncBR0Nox4NtAeWPfHrdC6AIusTvx61jb_-Zpn5/w527-h296/Cineskopto.png" />
@@ -330,6 +330,7 @@
        <ass id="o-principe-do-egito"/>
        <ass id="herois-fora-de-orbita"/>
        <ass id="um-ratinho-encrenqueiro-espelho"/>
+       <ass id="paulie-o-papagaio-bom-de-papo-espelho"/>
     </block>
   </prog>
 
@@ -928,19 +929,16 @@
     </block>
   </prog>
 
-  <prog id="um-ratinho-encrenqueiro-espelho" onair="yes" repeat="1" type="mirror" start="20260920">
-    <display-name lang="pt">Um Ratinho Encrenqueiro</display-name>
+  <prog id="um-ratinho-encrenqueiro-espelho" onair="yes" repeat="1" start="20260920">
+    <display-name lang="pt">Um Ratinho Encrenqueiro (Espelho)</display-name>
     <desc lang="pt">O ratinho se transforma em uma ameaça para os dois irmãos que percebem que o roedor pode colocar a casa a baixo se eles não vencerem logo a batalha contra ele.</desc>
     <category lang="pt">Movie</category>
     <icon src="https://m.media-amazon.com/images/S/pv-target-images/204721f58aacc9287020f1b1d26ef3b515e11cc3731ccfabfdfcbf1e9830391d.jpg" />
     <file-prefix>umratinhoencrenqueiroespelho</file-prefix>
     <length units="minutes">120</length>
-    <block>
-       <ass id="um-ratinho-encrenqueiro"/>
-    </block>
   </prog>
 
-  <prog id="o-retorno-da-mascara-maldita" onair="yes" repeat="1" type="event" start="20260916">
+  <prog id="o-retorno-da-mascara-maldita" onair="yes" repeat="1" type="event" start="20260920">
     <display-name lang="pt">O Retorno da Máscara Maldita</display-name>
     <desc lang="pt">Steve quer encontrar uma máscara tão assustadora...</desc>
     <category lang="pt">Especial</category>
@@ -948,9 +946,38 @@
     <icon src="https://static.wikia.nocookie.net/goosebumps/images/a/a2/Vlcsnap-2021-06-19-11h22m28s688.png" />
     <file-prefix>oretornodamascaramaldita</file-prefix>
     <length units="minutes">30</length>
-    <hour type="o" days="qui">230000</hour>
+    <hour type="o" days="dom">223000</hour>
     <block>
        <ass id="goosebumps" eps="S02E11"/>
+    </block>
+  </prog>
+
+  <prog id="paulie-o-papagaio-bom-de-papo-espelho" onair="yes" repeat="1" start="20260927">
+    <display-name lang="pt">Paulie - O Papagaio Bom de Papo</display-name>
+    <category lang="pt">Movie</category>
+    <icon src="https://img.youtube.com/vi/AGV8nB_EEAU/mqdefault.jpg" />
+    <file-prefix>paulieopapagaiobomdepapoespelho</file-prefix>
+    <length units="minutes">120</length>
+  </prog>
+
+  <prog id="homem-aranha-e-seus-amigos-espelho" onair="yes" repeat="3" type="mirror" start="20240515">
+    <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
+    <desc lang="pt">O pesadelo dos mais perigosos vilões de Nova Iorque se multiplicou: o Homem Aranha não está mais sozinho, mas acompanhado pelo Homem de Gelo e a Estrela de Fogo.</desc>
+    <category lang="pt">Animação</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUpQLcvDc8E7rLDTF1_kZBtxzVp7jKe2IMReuRdMpsSYeZkugqULC4lvajCroUx_0Q-BWxiDms-2WFNmShOsciYYPF_CQ-ixwJOEDfehAXmvYp8HVf0AJI2U2gjDY7OARIHQrucgdltQQ/s1600/spiderman+3.jpg" />
+    <file-prefix>homemaranhaeseusamigosespelho</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,qua,sex">133000</hour>
+    <hour type="r" days="seg,qua,sex">160000</hour>
+    <hour type="r" days="seg,ter,qui,sab">000000</hour>
+    <hour type="r" days="seg,ter,qui">033000</hour>
+    <hour type="r" days="seg,ter,qui">073000</hour>
+    <hour type="r" days="seg,qua,sex">200000</hour>
+    <block>
+       <ass id="homem-aranha-e-seus-amigos" eps="S01E01-S03E08"/>
     </block>
   </prog>
 
@@ -3391,6 +3418,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S02E12</episode-num>
+    <sub-title>A Mascara Assombrada II - Parte 2</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-02x12A.mp4</file>
       <file block="b">GOOSEBUMPS-02x12B.mp4</file>
@@ -3399,6 +3427,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S02E13</episode-num>
+    <sub-title>O Espelho Mágico</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-02x13A.mp4</file>
       <file block="b">GOOSEBUMPS-02x13B.mp4</file>
@@ -5472,6 +5501,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E07</episode-num>
+    <sub-title>Jornada na Floresta</sub-title>
     <video-files>
       <file block="a">Shinzo-07A.mp4</file>
       <file block="b">Shinzo-07B.mp4</file>
@@ -5480,6 +5510,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E08</episode-num>
+    <sub-title>Os Repetes</sub-title>
     <video-files>
       <file block="a">Shinzo-08A.mp4</file>
       <file block="b">Shinzo-08B.mp4</file>
@@ -5488,6 +5519,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E09</episode-num>
+    <sub-title>Gyasa</sub-title>
     <video-files>
       <file block="a">Shinzo-09A.mp4</file>
       <file block="b">Shinzo-09B.mp4</file>
@@ -6971,6 +7003,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E19</episode-num>
+    <sub-title>O Orgulho de Impimon</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-19A.mp4</file>
       <file block="b">Digi-Tamers-19B.mp4</file>
@@ -6979,6 +7012,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E20</episode-num>
+    <sub-title>Cartão Azul da Amizade</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-20A.mp4</file>
       <file block="b">Digi-Tamers-20B.mp4</file>
@@ -7474,6 +7508,16 @@
       <file block="a">PR-Força do Tempo- 40A.mp4</file>
       <file block="b">PR-Força do Tempo- 40B.mp4</file>
     </video-files>
+  </programme>
+
+  <programme progid="um-ratinho-encrenqueiro-espelho">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="paulie-o-papagaio-bom-de-papo-espelho">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
   </programme>
 
 </catalog>
