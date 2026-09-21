@@ -767,9 +767,9 @@
     </block>
   </prog>
 
-  <prog id="a-noite-do-boneco-vivo" onair="yes" repeat="1" type="event" start="20260828">
-    <display-name lang="pt">Goosebumps</display-name>
-    <desc lang="pt">Dia 28: Descubra como um boneco ganha vida!</desc>
+  <prog id="a-noite-do-boneco-vivo" onair="yes" repeat="1" type="event" start="20260924">
+    <display-name lang="pt">Slappy Retorna!</display-name>
+    <desc lang="pt">Dia 21: Descubra como um boneco ganha vida!</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
       <value>A10</value>
@@ -778,9 +778,9 @@
     <icon src="https://m.media-amazon.com/images/M/MV5BMTcyODEzMDM0MF5BMl5BanBnXkFtZTgwNzA0MDQ2MjE@._V1_FMjpg_UX1000_.jpg" />
     <file-prefix>anoitedobonecovivo</file-prefix>
     <length units="minutes">30</length>
-    <hour type="o" days="sex">230000</hour>
+    <hour type="o" days="qui">230000</hour>
     <block>
-       <ass id="goosebumps" eps="S01E10"/>
+       <ass id="goosebumps" eps="S02E24"/>
     </block>
   </prog>
 
@@ -930,7 +930,7 @@
   </prog>
 
   <prog id="um-ratinho-encrenqueiro-espelho" onair="yes" repeat="1" start="20260920">
-    <display-name lang="pt">Um Ratinho Encrenqueiro</display-name>
+    <display-name lang="pt">Um Ratinho Encrenqueiro (Espelho)</display-name>
     <desc lang="pt">O ratinho se transforma em uma ameaça para os dois irmãos que percebem que o roedor pode colocar a casa a baixo se eles não vencerem logo a batalha contra ele.</desc>
     <category lang="pt">Movie</category>
     <icon src="https://m.media-amazon.com/images/S/pv-target-images/204721f58aacc9287020f1b1d26ef3b515e11cc3731ccfabfdfcbf1e9830391d.jpg" />
@@ -952,14 +952,6 @@
     </block>
   </prog>
 
-  <prog id="paulie-o-papagaio-bom-de-papo-espelho" onair="yes" repeat="1" start="20260927">
-    <display-name lang="pt">Paulie - O Papagaio Bom de Papo</display-name>
-    <category lang="pt">Movie</category>
-    <icon src="https://img.youtube.com/vi/AGV8nB_EEAU/mqdefault.jpg" />
-    <file-prefix>paulieopapagaiobomdepapoespelho</file-prefix>
-    <length units="minutes">120</length>
-  </prog>
-
   <prog id="homem-aranha-e-seus-amigos-espelho" onair="yes" repeat="3" type="mirror" start="20240515">
     <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
     <desc lang="pt">O pesadelo dos mais perigosos vilões de Nova Iorque se multiplicou: o Homem Aranha não está mais sozinho, mas acompanhado pelo Homem de Gelo e a Estrela de Fogo.</desc>
@@ -978,6 +970,17 @@
     <hour type="r" days="seg,qua,sex">200000</hour>
     <block>
        <ass id="homem-aranha-e-seus-amigos" eps="S01E01-S03E08"/>
+    </block>
+  </prog>
+
+  <prog id="paulie-o-papagaio-bom-de-papo-espelho" onair="yes" repeat="1" type="mirror" start="20260927">
+    <display-name lang="pt">Paulie - O Papagaio Bom de Papo</display-name>
+    <category lang="pt">Movie</category>
+    <icon src="https://img.youtube.com/vi/AGV8nB_EEAU/mqdefault.jpg" />
+    <file-prefix>paulieopapagaiobomdepapoespelho</file-prefix>
+    <length units="minutes">120</length>
+    <block>
+       <ass id="paulie-o-papagaio-bom-de-papo"/>
     </block>
   </prog>
 
@@ -2417,6 +2420,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S07E04</episode-num>
+    <sub-title>Sapinho</sub-title>
     <video-files>
       <file block="a">BOBBY-07x04A.mp4</file>
       <file block="b">BOBBY-07x04B.mp4</file>
@@ -2424,15 +2428,8 @@
   </programme>
 
   <programme progid="o-mundo-de-bobby">
-    <episode-num>S07E05</episode-num>
-    <video-files>
-      <file block="a">BOBBY-07x05A.mp4</file>
-      <file block="b">BOBBY-07x05B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="o-mundo-de-bobby">
     <episode-num>S07E06</episode-num>
+    <sub-title>O Cruzeiro de Bobby</sub-title>
     <video-files>
       <file block="a">BOBBY-07x06A.mp4</file>
       <file block="b">BOBBY-07x06B.mp4</file>
@@ -2441,6 +2438,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S07E07</episode-num>
+    <sub-title>É a Vida dos Generics</sub-title>
     <video-files>
       <file block="a">BOBBY-07x07A.mp4</file>
       <file block="b">BOBBY-07x07B.mp4</file>
@@ -2449,6 +2447,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S07E08</episode-num>
+    <sub-title>O Grande dias dos Pais</sub-title>
     <video-files>
       <file block="a">BOBBY-07x08A.mp4</file>
       <file block="b">BOBBY-07x08B.mp4</file>
@@ -2457,6 +2456,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S07E09</episode-num>
+    <sub-title>Generics e Índios</sub-title>
     <video-files>
       <file block="a">BOBBY-07x09A.mp4</file>
       <file block="b">BOBBY-07x09B.mp4</file>
@@ -2465,6 +2465,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S07E10</episode-num>
+    <sub-title>Ovos Azuis e Bobby</sub-title>
     <video-files>
       <file block="a">BOBBY-07x10A.mp4</file>
       <file block="b">BOBBY-07x10B.mp4</file>
@@ -2473,6 +2474,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S07E11</episode-num>
+    <sub-title>De Volta Pro Futuro</sub-title>
     <video-files>
       <file block="a">BOBBY-07x11A.mp4</file>
       <file block="b">BOBBY-07x11B.mp4</file>
@@ -7021,6 +7023,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E21</episode-num>
+    <sub-title>O Desejo de Kato</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-21A.mp4</file>
       <file block="b">Digi-Tamers-21B.mp4</file>
@@ -7029,6 +7032,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E22</episode-num>
+    <sub-title>Protejam a Nossa Cidade</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-22A.mp4</file>
       <file block="b">Digi-Tamers-22B.mp4</file>
@@ -7511,11 +7515,6 @@
   </programme>
 
   <programme progid="um-ratinho-encrenqueiro-espelho">
-    <episode-num>S01E01</episode-num>
-    <sub-title>Filme Completo</sub-title>
-  </programme>
-
-  <programme progid="paulie-o-papagaio-bom-de-papo-espelho">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
   </programme>
