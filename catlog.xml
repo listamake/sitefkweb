@@ -925,7 +925,7 @@
     <hour type="r" days="ter,qui">060000</hour>
     <hour type="r" days="qua,sex">103000</hour>
     <block>
-       <ass id="o-incrivel-hulk" eps="S01E01-S02E07"/>
+       <ass id="o-incrivel-hulk" eps="S01E01, S02E07"/>
     </block>
   </prog>
 
@@ -969,7 +969,7 @@
     <hour type="r" days="seg,ter,qui">073000</hour>
     <hour type="r" days="seg,qua,sex">200000</hour>
     <block>
-       <ass id="homem-aranha-e-seus-amigos" eps="S01E01-S03E08"/>
+       <ass id="homem-aranha-e-seus-amigos" eps="S01E01, S03E08"/>
     </block>
   </prog>
 
@@ -982,6 +982,17 @@
     <block>
        <ass id="paulie-o-papagaio-bom-de-papo"/>
     </block>
+  </prog>
+
+  <prog id="power-domingo-ashley-em-perigo" onair="yes" repeat="1" type="event" start="20260927">
+    <display-name lang="pt">Power Domingo: Ashley em Perigo!</display-name>
+    <desc lang="pt">Os Rangers se depara com um desafio.</desc>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLg9ortNEQe5UQx-coZ-EVNH6dTDx45uU4Y9xBizraKD68BnUnIwymjMIh&amp;s=10" />
+    <file-prefix>powerdomingoashleyemperigo</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="dom">143000</hour>
   </prog>
 
   <programme progid="digimon">
