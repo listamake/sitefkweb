@@ -331,6 +331,7 @@
        <ass id="herois-fora-de-orbita"/>
        <ass id="um-ratinho-encrenqueiro-espelho"/>
        <ass id="paulie-o-papagaio-bom-de-papo-espelho"/>
+       <ass id="patlabor-o-filme-espelho"/>
     </block>
   </prog>
 
@@ -993,6 +994,31 @@
     <file-prefix>powerdomingoashleyemperigo</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="dom">143000</hour>
+  </prog>
+
+  <prog id="patlabor-o-filme-espelho" onair="yes" repeat="1" type="mirror" start="20261004">
+    <display-name lang="pt">Patlabor: O Filme</display-name>
+    <category lang="pt">Movie</category>
+    <icon src="https://assets.mubicdn.net/images/film/31806/image-w1280.jpg?1745491903" />
+    <file-prefix>patlaborofilmeespelho</file-prefix>
+    <length units="minutes">120</length>
+    <block>
+       <ass id="patlabor-o-filme"/>
+    </block>
+  </prog>
+
+  <prog id="o-lendario-domador" onair="yes" repeat="1" type="event" start="20260930">
+    <display-name lang="pt">O Lendário Domador</display-name>
+    <desc lang="pt">Após desaparecimento ele reaparece.</desc>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://external-preview.redd.it/ryo-akiyama-backstory-the-most-important-digidestined-v0-h_tA7AewxtWE5QMr5mtNUDWc5M_zHMn7ZP3AEyIfrNw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f810633779cc0ca48d0d34f4b9add1d3e551588" />
+    <file-prefix>olendariodomador</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="qua">173000</hour>
+    <block>
+       <ass id="digimon-3" eps="S03E28"/>
+    </block>
   </prog>
 
   <programme progid="digimon">
