@@ -1021,6 +1021,19 @@
     </block>
   </prog>
 
+  <prog id="eleicao-da-escola" onair="yes" repeat="1" type="event" start="20261004">
+    <display-name lang="pt">Eleição da Escola</display-name>
+    <desc lang="pt">A escolha de um representante causa confusão</desc>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMGFlZWZiNDEtNzZmYi00ZmRiLTgwMDYtMDhiZDNjM2Q3NDljXkEyXkFqcGc@._V1_.jpg" />
+    <file-prefix>eleicaodaescola</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="dom">210000</hour>
+    <hour type="r" days="sab">053000</hour>
+    <hour type="r" days="dom">053000</hour>
+  </prog>
+
   <programme progid="digimon">
     <episode-num>S01E01</episode-num>
     <sub-title>Férias de Verão</sub-title>
@@ -7126,6 +7139,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E29</episode-num>
+    <sub-title>O Castelo Mal Assombrado</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-29A.mp4</file>
       <file block="b">Digi-Tamers-29B.mp4</file>
@@ -7134,6 +7148,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E30</episode-num>
+    <sub-title>O Contato do Digimundo</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-30A.mp4</file>
       <file block="b">Digi-Tamers-30B.mp4</file>
