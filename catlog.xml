@@ -332,6 +332,7 @@
        <ass id="um-ratinho-encrenqueiro-espelho"/>
        <ass id="paulie-o-papagaio-bom-de-papo-espelho"/>
        <ass id="patlabor-o-filme-espelho"/>
+       <ass id="gasparzinho-como-tudo-comecou-espelho"/>
     </block>
   </prog>
 
@@ -1032,6 +1033,35 @@
     <hour type="o" days="dom">210000</hour>
     <hour type="r" days="sab">053000</hour>
     <hour type="r" days="dom">053000</hour>
+  </prog>
+
+  <prog id="o-dia-das-bruxa-de-bobby" onair="yes" repeat="1" type="event" start="20261009">
+    <display-name lang="pt">O Dia das Bruxa de Bobby</display-name>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://i.ytimg.com/vi/H8eual4ZrFQ/hqdefault.jpg" />
+    <file-prefix>odiadasbruxadebobby</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="sex">123000</hour>
+    <block>
+       <ass id="o-mundo-de-bobby" eps="S01E08"/>
+    </block>
+  </prog>
+
+  <prog id="gasparzinho-como-tudo-comecou-espelho" onair="yes" repeat="1" type="mirror" start="20261011">
+    <display-name lang="pt">Gasparzinho Como Tudo Começou</display-name>
+    <desc lang="pt">Gasparzinho falta em seu treinamento fantasma e seus poderes fantasmagóricos são os únicos que podem salvar a cidade da bola destruidora e reunir um pai e um filho.</desc>
+    <category lang="pt">Movie</category>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
+    <icon src="https://images.firstpost.com/wp-content/uploads/2017/03/casper.jpg" />
+    <file-prefix>gasparzinhocomotudocomecouespelho</file-prefix>
+    <length units="minutes">120</length>
+    <weekday days="SEG,TER,QUA,QUI,SEX"/>
+    <block>
+       <ass id="gasparzinho-como-tudo-comecou"/>
+    </block>
   </prog>
 
   <programme progid="digimon">
@@ -5580,6 +5610,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E10</episode-num>
+    <sub-title>Mushirambo o Lendário Samurai</sub-title>
     <video-files>
       <file block="a">Shinzo-10A.mp4</file>
       <file block="b">Shinzo-10B.mp4</file>
@@ -5596,6 +5627,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E12</episode-num>
+    <sub-title>O Teste</sub-title>
     <video-files>
       <file block="a">Shinzo-12A.mp4</file>
       <file block="b">Shinzo-12B.mp4</file>
@@ -5604,6 +5636,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E13</episode-num>
+    <sub-title>Ryuma o Senhor dos Répteis</sub-title>
     <video-files>
       <file block="a">Shinzo-13A.mp4</file>
       <file block="b">Shinzo-13B.mp4</file>
@@ -5612,6 +5645,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E14</episode-num>
+    <sub-title>O Espirito Perverso da Destruição</sub-title>
     <video-files>
       <file block="a">Shinzo-14A.mp4</file>
       <file block="b">Shinzo-14B.mp4</file>
@@ -5620,6 +5654,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E15</episode-num>
+    <sub-title>Mechano City</sub-title>
     <video-files>
       <file block="a">Shinzo-15A.mp4</file>
       <file block="b">Shinzo-15B.mp4</file>
@@ -7157,6 +7192,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E31</episode-num>
+    <sub-title>O Nascimento do Domador Kazu</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-31A.mp4</file>
       <file block="b">Digi-Tamers-31B.mp4</file>
@@ -7165,6 +7201,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E32</episode-num>
+    <sub-title>O Fundo do Mar Misterioso</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-32A.mp4</file>
       <file block="b">Digi-Tamers-32B.mp4</file>
