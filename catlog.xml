@@ -1037,9 +1037,10 @@
 
   <prog id="o-dia-das-bruxa-de-bobby" onair="yes" repeat="1" type="event" start="20261009">
     <display-name lang="pt">O Dia das Bruxa de Bobby</display-name>
+    <desc lang="pt">O Dias das Bruxas Chegou, e agora Bobby?</desc>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
-    <icon src="https://i.ytimg.com/vi/H8eual4ZrFQ/hqdefault.jpg" />
+    <icon src="https://i.ytimg.com/vi/H8eual4ZrFQ/mqdefault.jpg" />
     <file-prefix>odiadasbruxadebobby</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="sex">123000</hour>
