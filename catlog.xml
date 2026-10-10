@@ -1067,6 +1067,7 @@
 
   <prog id="beelzemon-vs-dukemon" onair="yes" repeat="1" type="event" start="20261012">
     <display-name lang="pt">Beelzemon Vs. Dukemon</display-name>
+    <desc lang="pt">Luz e Escuridão se enfrentam</desc>
     <desc-snippet lang="pt">Luz e Escuridão se enfrentam</desc-snippet>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
