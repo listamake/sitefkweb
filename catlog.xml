@@ -1065,6 +1065,20 @@
     </block>
   </prog>
 
+  <prog id="beelzemon-vs-dukemon" onair="yes" repeat="1" type="event" start="20261012">
+    <display-name lang="pt">Beelzemon Vs. Dukemon</display-name>
+    <desc-snippet lang="pt">Luz e Escuridão se enfrentam</desc-snippet>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://static.wikia.nocookie.net/digimon/images/7/75/List_of_Digimon_Tamers_episodes_36.jpg/revision/latest?cb=20090905191138" />
+    <file-prefix>beelzemonvsdukemon</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg">173000</hour>
+    <block>
+       <ass id="digimon-3" eps="S03E36"/>
+    </block>
+  </prog>
+
   <programme progid="digimon">
     <episode-num>S01E01</episode-num>
     <sub-title>Férias de Verão</sub-title>
@@ -5664,6 +5678,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E16</episode-num>
+    <sub-title>O Robô Gigante</sub-title>
     <video-files>
       <file block="a">Shinzo-16A.mp4</file>
       <file block="b">Shinzo-16B.mp4</file>
@@ -5672,6 +5687,7 @@
 
   <programme progid="shinzo">
     <episode-num>S01E17</episode-num>
+    <sub-title>A Grande Batalha</sub-title>
     <video-files>
       <file block="a">Shinzo-17A.mp4</file>
       <file block="b">Shinzo-17B.mp4</file>
@@ -7211,6 +7227,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E33</episode-num>
+    <sub-title>Shuoshong vai para o Digimundo</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-33A.mp4</file>
       <file block="b">Digi-Tamers-33B.mp4</file>
@@ -7219,6 +7236,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E34</episode-num>
+    <sub-title>A Luta Final de Leomon</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-34A.mp4</file>
       <file block="b">Digi-Tamers-34B.mp4</file>
@@ -7227,6 +7245,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E35</episode-num>
+    <sub-title>Surge Dukemon</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-35A.mp4</file>
       <file block="b">Digi-Tamers-35B.mp4</file>
