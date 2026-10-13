@@ -333,6 +333,7 @@
        <ass id="paulie-o-papagaio-bom-de-papo-espelho"/>
        <ass id="patlabor-o-filme-espelho"/>
        <ass id="gasparzinho-como-tudo-comecou-espelho"/>
+       <ass id="power-rangers-o-filme"/>
     </block>
   </prog>
 
@@ -1078,6 +1079,18 @@
     <block>
        <ass id="digimon-3" eps="S03E36"/>
     </block>
+  </prog>
+
+  <prog id="power-rangers-o-filme" onair="yes" repeat="1" start="20261018">
+    <display-name lang="pt">Power Rangers: O Filme</display-name>
+    <desc lang="pt">Prepare-se para energizar e derrotar o mal com seis adolescentes incríveis! Mas não será fácil, pois um monstro sinistro chamado Ivan Ooze tirou o poder dos Power Rangers!</desc>
+    <category lang="pt">Movie</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://blogdaileon.com/wp-content/uploads/2020/06/powerrangers-movie.jpg?w=748" />
+    <file-prefix>powerrangersofilme</file-prefix>
+    <length units="minutes">120</length>
   </prog>
 
   <programme progid="digimon">
@@ -7625,6 +7638,11 @@
   </programme>
 
   <programme progid="um-ratinho-encrenqueiro-espelho">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="power-rangers-o-filme">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
   </programme>
