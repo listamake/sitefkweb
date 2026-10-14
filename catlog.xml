@@ -334,6 +334,7 @@
        <ass id="patlabor-o-filme-espelho"/>
        <ass id="gasparzinho-como-tudo-comecou-espelho"/>
        <ass id="power-rangers-o-filme"/>
+       <ass id="retorno-da-familia-addams-espelho"/>
     </block>
   </prog>
 
@@ -1091,6 +1092,29 @@
     <icon src="https://blogdaileon.com/wp-content/uploads/2020/06/powerrangers-movie.jpg?w=748" />
     <file-prefix>powerrangersofilme</file-prefix>
     <length units="minutes">120</length>
+  </prog>
+
+  <prog id="32-anos-de-power-rangers" onair="yes" repeat="1" type="event" start="20261017">
+    <display-name lang="pt">32 Anos de Power Rangers</display-name>
+    <desc lang="pt">Os Episódios mais marcantes nessa maratona!</desc>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/e5673e5c-dfa0-11ed-aa6e-9587410378a2/power-rangers-agora-e-sempre.jpg" />
+    <file-prefix>32anosdepowerrangers</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="sab">133000</hour>
+  </prog>
+
+  <prog id="retorno-da-familia-addams-espelho" onair="yes" repeat="1" type="mirror" start="20261025">
+    <display-name lang="pt">Retorno da Familia Addams</display-name>
+    <desc lang="pt">Os Addams estão super animados: receberam um convite inesperado para uma &quot;reunião familiar&quot;. O que há de estranho nisso? Que o convite estava escrito errado e que a reunião era da família A-d-a-m-s!</desc>
+    <category lang="pt">Movie</category>
+    <icon src="https://macabra.tv/wp-content/uploads/2021/09/O-Retorno-da-Fam%C3%ADlia-Addams-MacabraTV.jpg" />
+    <file-prefix>retornodafamiliaaddamsespelho</file-prefix>
+    <length units="minutes">120</length>
+    <block>
+       <ass id="retorno-da-familia-addams"/>
+    </block>
   </prog>
 
   <programme progid="digimon">
