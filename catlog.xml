@@ -148,7 +148,7 @@
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="super-pig" onair="yes" repeat="2" start="20260720">
+  <prog id="super-pig" onair="yes" repeat="3" start="20260720">
     <display-name lang="pt">Super Pig</display-name>
     <desc lang="pt">Descubra como uma garota normal adquire super poderes de um porquinho mágico.</desc>
     <category lang="pt">Série de Animação</category>
@@ -166,7 +166,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="oggy-e-as-baratas" onair="yes" repeat="3" start="20260706">
+  <prog id="oggy-e-as-baratas" onair="yes" repeat="4" start="20260706">
     <display-name lang="pt">Oggy e as Baratas</display-name>
     <desc lang="pt">O maior problema de Oggy são três baratas, cujo único objetivo é fazer com que sua vida se torne um pesadelo.</desc>
     <rating system="CLASSIND">
@@ -1101,7 +1101,7 @@
     <color>rgb(225, 29, 72);</color>
     <icon src="https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/e5673e5c-dfa0-11ed-aa6e-9587410378a2/power-rangers-agora-e-sempre.jpg" />
     <file-prefix>32anosdepowerrangers</file-prefix>
-    <length units="minutes">150</length>
+    <length units="minutes">300</length>
     <hour type="o" days="sab">133000</hour>
   </prog>
 
