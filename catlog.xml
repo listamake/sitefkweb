@@ -754,7 +754,7 @@
     </block>
   </prog>
 
-  <prog id="homem-aranha-e-seus-amigos-finale" onair="yes" repeat="1" type="event" start="20260826">
+  <prog id="homem-aranha-e-seus-amigos-finale" onair="yes" repeat="1" type="event" start="20261021">
     <display-name lang="pt">Homem Aranha e seus Amigos</display-name>
     <desc lang="pt">Dia 26: A irmã do homem gelo aparece!!</desc>
     <category lang="pt">Especial</category>
@@ -1103,6 +1103,16 @@
     <file-prefix>32anosdepowerrangers</file-prefix>
     <length units="minutes">300</length>
     <hour type="o" days="sab">133000</hour>
+    <block>
+       <ass id="power-rangers-no-espaco" eps="S06E25"/>
+       <ass id="power-rangers-forca-animal" eps="S01E34"/>
+       <ass id="power-rangers-forca-do-tempo" eps="S01E33"/>
+       <ass id="power-rangers" eps="S01E01,S01E21,S02E18"/>
+       <ass id="power-rangers-zeo" eps="S04E33"/>
+       <ass id="power-rangers-turbo" eps="S05E13"/>
+       <ass id="power-ranger-o-resgate" eps="S01E30"/>
+       <ass id="power-rangers-na-galaxia-perdida" eps="S01E30"/>
+    </block>
   </prog>
 
   <prog id="retorno-da-familia-addams-espelho" onair="yes" repeat="1" type="mirror" start="20261025">
@@ -1115,6 +1125,50 @@
     <block>
        <ass id="retorno-da-familia-addams"/>
     </block>
+  </prog>
+
+  <prog id="power-rangers" onair="yes" repeat="1">
+    <display-name lang="pt">Power Rangers</display-name>
+    <rating system="CLASSIND">
+      <value>10</value>
+    </rating>
+    <file-prefix>powerrangersm</file-prefix>
+    <length units="minutes">30</length>
+  </prog>
+
+  <prog id="power-rangers-zeo" onair="yes" repeat="1">
+    <display-name lang="pt">Power Rangers Zeo</display-name>
+    <rating system="CLASSIND">
+      <value>10</value>
+    </rating>
+    <file-prefix>PR-Zeo</file-prefix>
+    <length units="minutes">30</length>
+  </prog>
+
+  <prog id="power-rangers-turbo" onair="yes" repeat="1">
+    <display-name lang="pt">Power Rangers Turbo</display-name>
+    <file-prefix>PR-Turbo</file-prefix>
+    <length units="minutes">30</length>
+  </prog>
+
+  <prog id="power-ranger-o-resgate" onair="yes" repeat="1">
+    <display-name lang="pt">Power Ranger- O Resgate</display-name>
+    <rating system="CLASSIND">
+      <value>10</value>
+    </rating>
+    <file-prefix>PR-O-Resgate</file-prefix>
+    <length units="minutes">30</length>
+  </prog>
+
+  <prog id="power-rangers-na-galaxia-perdida" onair="yes" repeat="1">
+    <display-name lang="pt">Power Rangers na Galáxia Perdida</display-name>
+    <desc lang="pt">A saga dos Power Rangers continua num tempo futurístico. Em uma galáxia distante, um malvado monarca chamado Scorpius ataca uma pacífica tribo das selvas.</desc>
+    <desc-snippet lang="pt">A saga dos Power Rangers continua num tempo futurístico.</desc-snippet>
+    <rating system="CLASSIND">
+      <value>10</value>
+    </rating>
+    <file-prefix>powerrangersnagalaxiaperdida</file-prefix>
+    <length units="minutes">30</length>
   </prog>
 
   <programme progid="digimon">
@@ -7330,6 +7384,88 @@
     </video-files>
   </programme>
 
+  <programme progid="digimon-3">
+    <episode-num>S03E41</episode-num>
+    <sub-title>De Volta ao Mundo Real</sub-title>
+    <video-files>
+      <file block="a">Digi-Tamers-41A.mp4</file>
+      <file block="b">Digi-Tamers-41B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E42</episode-num>
+    <sub-title>A Invasão</sub-title>
+    <video-files>
+      <file block="a">Digi-Tamers-42A.mp4</file>
+      <file block="b">Digi-Tamers-42B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E43</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-43A.mp4</file>
+      <file block="b">Digi-Tamers-43B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E44</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-44A.mp4</file>
+      <file block="b">Digi-Tamers-44B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E45</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-45A.mp4</file>
+      <file block="b">Digi-Tamers-45B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E46</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-46A.mp4</file>
+      <file block="b">Digi-Tamers-46B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E47</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-47A.mp4</file>
+      <file block="b">Digi-Tamers-47B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E48</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-48A.mp4</file>
+      <file block="b">Digi-Tamers-48B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E49</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-49A.mp4</file>
+      <file block="b">Digi-Tamers-49B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E50</episode-num>
+    <video-files>
+      <file block="a">Digi-Tamers-50A.mp4</file>
+      <file block="b">Digi-Tamers-51B.mp4</file>
+    </video-files>
+  </programme>
+
   <programme progid="o-principe-do-egito">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
@@ -7599,6 +7735,7 @@
 
   <programme progid="power-rangers-forca-do-tempo">
     <episode-num>S01E33</episode-num>
+    <sub-title>É a Hora da Lightspeed</sub-title>
     <video-files>
       <file block="a">PR-Força do Tempo- 33A.mp4</file>
       <file block="b">PR-Força do Tempo- 33B.mp4</file>
@@ -7669,6 +7806,70 @@
   <programme progid="power-rangers-o-filme">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="power-rangers">
+    <episode-num>S01E01</episode-num>
+    <sub-title>O Dia da Mundaça</sub-title>
+    <video-files>
+      <file block="a">powerrangersm-01x01A.mp4</file>
+      <file block="b">powerrangersm-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers">
+    <episode-num>S01E21</episode-num>
+    <sub-title>Verde de Raiva - Parte 5</sub-title>
+    <video-files>
+      <file block="a">powerrangersm-01x21Amp4</file>
+      <file block="b">powerrangersm-01x21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers">
+    <episode-num>S02E18</episode-num>
+    <sub-title>A Luz Branca</sub-title>
+    <video-files>
+      <file block="a">powerrangersm-02x18A.mp4</file>
+      <file block="b">powerrangersm-02x18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-zeo">
+    <episode-num>S04E33</episode-num>
+    <sub-title>Volta ao Lar</sub-title>
+    <video-files>
+      <file block="a">PR-Zeo-33A.mp4</file>
+      <file block="b">PR-Zeo-33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-zeo">
+    <episode-num>S04E42</episode-num>
+    <sub-title>Rei por Um dia - Parte 2</sub-title>
+    <video-files>
+      <file block="a">PR-Zeo-42A.mp4</file>
+      <file block="b">PR-Zeo-42B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E13</episode-num>
+    <sub-title>Mensagem Extraviada</sub-title>
+    <video-files>
+      <file block="a">PR-Turbo-13A.mp4</file>
+      <file block="b">PR-Turbo-13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E30</episode-num>
+    <sub-title>A Vingança de Trakeena - Parte 2</sub-title>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E30</episode-num>
+    <sub-title>Ao Décimo Poder</sub-title>
   </programme>
 
 </catalog>
