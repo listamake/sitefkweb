@@ -1171,6 +1171,23 @@
     <length units="minutes">30</length>
   </prog>
 
+  <prog id="enfrentando-o-matador" onair="yes" repeat="1" type="event" start="20261023">
+    <display-name lang="pt">Enfrentando o Matador</display-name>
+    <desc lang="pt">A Luta mais importante do domadores!</desc>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://static.wikia.nocookie.net/digimon/images/8/84/List_of_Digimon_Tamers_episodes_44.jpg/revision/latest/smart/width/386/height/259?cb=20100802155934&amp;path-prefix=es" />
+    <file-prefix>enfrentandoomatador</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="sex">173000</hour>
+    <block>
+       <ass id="digimon-3" eps="S03E45"/>
+    </block>
+  </prog>
+
   <programme progid="digimon">
     <episode-num>S01E01</episode-num>
     <sub-title>Férias de Verão</sub-title>
@@ -1978,6 +1995,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E40</episode-num>
+    <sub-title>A Rede Impenetrável</sub-title>
     <video-files>
       <file block="a">PR-Espaco-40A.mp4</file>
       <file block="b">PR-Espaco-40B.mp4</file>
@@ -1986,6 +2004,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E41</episode-num>
+    <sub-title>Perdidos no Deserto</sub-title>
     <video-files>
       <file block="a">PR-Espaco-41A.mp4</file>
       <file block="b">PR-Espaco-41B.mp4</file>
