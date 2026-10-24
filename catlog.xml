@@ -335,6 +335,7 @@
        <ass id="gasparzinho-como-tudo-comecou-espelho"/>
        <ass id="power-rangers-o-filme"/>
        <ass id="retorno-da-familia-addams-espelho"/>
+       <ass id="gasparzinho-e-wendy"/>
     </block>
   </prog>
 
@@ -1145,32 +1146,6 @@
     <length units="minutes">30</length>
   </prog>
 
-  <prog id="power-rangers-turbo" onair="yes" repeat="1">
-    <display-name lang="pt">Power Rangers Turbo</display-name>
-    <file-prefix>PR-Turbo</file-prefix>
-    <length units="minutes">30</length>
-  </prog>
-
-  <prog id="power-ranger-o-resgate" onair="yes" repeat="1">
-    <display-name lang="pt">Power Ranger- O Resgate</display-name>
-    <rating system="CLASSIND">
-      <value>10</value>
-    </rating>
-    <file-prefix>PR-O-Resgate</file-prefix>
-    <length units="minutes">30</length>
-  </prog>
-
-  <prog id="power-rangers-na-galaxia-perdida" onair="yes" repeat="1">
-    <display-name lang="pt">Power Rangers na Galáxia Perdida</display-name>
-    <desc lang="pt">A saga dos Power Rangers continua num tempo futurístico. Em uma galáxia distante, um malvado monarca chamado Scorpius ataca uma pacífica tribo das selvas.</desc>
-    <desc-snippet lang="pt">A saga dos Power Rangers continua num tempo futurístico.</desc-snippet>
-    <rating system="CLASSIND">
-      <value>10</value>
-    </rating>
-    <file-prefix>powerrangersnagalaxiaperdida</file-prefix>
-    <length units="minutes">30</length>
-  </prog>
-
   <prog id="enfrentando-o-matador" onair="yes" repeat="1" type="event" start="20261023">
     <display-name lang="pt">Enfrentando o Matador</display-name>
     <desc lang="pt">A Luta mais importante do domadores!</desc>
@@ -1185,6 +1160,128 @@
     <hour type="o" days="sex">173000</hour>
     <block>
        <ass id="digimon-3" eps="S03E45"/>
+    </block>
+  </prog>
+
+  <prog id="estreia-galaxia-perdida" onair="yes" repeat="1" type="event" start="20261103">
+    <display-name lang="pt">Estreia: Galáxia Perdida</display-name>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <file-prefix>estreiagalaxiaperdida</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="ter">143000</hour>
+    <block>
+       <ass id="power-rangers-na-galaxia-perdida" eps="S01E01"/>
+    </block>
+  </prog>
+
+  <prog id="power-rangers-turbo" onair="no" repeat="1">
+    <display-name lang="pt">Power Rangers Turbo</display-name>
+    <file-prefix>powerrangersm</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="ter,qui">143000</hour>
+    <hour type="r" days="ter,qui">170000</hour>
+    <hour type="r" days="ter,qui">210000</hour>
+    <hour type="r" days="qua,sex">010000</hour>
+    <hour type="r" days="qua,sex">043000</hour>
+    <hour type="r" days="qua,sex">083000</hour>
+    <weekday days="ter,qui"/>
+  </prog>
+
+  <prog id="power-ranger-o-resgate" onair="no" repeat="1">
+    <display-name lang="pt">Power Ranger- O Resgate</display-name>
+    <rating system="CLASSIND">
+      <value>10</value>
+    </rating>
+    <file-prefix>powerrangersm</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="ter,qui">143000</hour>
+    <hour type="r" days="ter,qui">170000</hour>
+    <hour type="r" days="ter,qui">210000</hour>
+    <hour type="r" days="qua,sex">010000</hour>
+    <hour type="r" days="qua,sex">043000</hour>
+    <hour type="r" days="qua,sex">083000</hour>
+    <weekday days="ter,qui"/>
+  </prog>
+
+  <prog id="power-rangers-na-galaxia-perdida" onair="yes" repeat="1" start="20261103">
+    <display-name lang="pt">Power Rangers na Galáxia Perdida</display-name>
+    <desc lang="pt">A saga dos Power Rangers continua num tempo futurístico. Em uma galáxia distante, um malvado monarca chamado Scorpius ataca uma pacífica tribo das selvas.</desc>
+    <desc-snippet lang="pt">A saga dos Power Rangers continua num tempo futurístico.</desc-snippet>
+    <rating system="CLASSIND">
+      <value>10</value>
+    </rating>
+    <file-prefix>powerrangersm</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="ter,qui">143000</hour>
+    <hour type="r" days="ter,qui">170000</hour>
+    <hour type="r" days="ter,qui">210000</hour>
+    <hour type="r" days="qua,sex">010000</hour>
+    <hour type="r" days="qua,sex">043000</hour>
+    <hour type="r" days="qua,sex">083000</hour>
+    <weekday days="ter,qui"/>
+  </prog>
+
+  <prog id="gasparzinho-e-wendy" onair="yes" repeat="1" start="20261101">
+    <display-name lang="pt">Gasparzinho e Wendy</display-name>
+    <desc lang="pt">Gasparzinho, um fantasma, se junta a Wendy, uma bruxinha, contra um feiticeiro malvado.</desc>
+    <category lang="pt">Movie</category>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
+    <icon src="https://images.justwatch.com/backdrop/172790582/s640/casper-meets-wendy.jpg" />
+    <file-prefix>gasparzinhoewendy</file-prefix>
+    <length units="minutes">120</length>
+  </prog>
+
+  <prog id="eek-o-gato" onair="yes" repeat="1">
+    <display-name lang="pt">Eek! O Gato</display-name>
+    <desc lang="pt">O gato passa por diversas aventuras envolvendo sua familia e amigos que o acompanham. Embora seja um gato bom e sempre queira ajudar o próximo, ele acaba dando mancadas e sendo mal tratado por aqueles a quem tenta ajudar, em especial Sharky, o cão tubarão, que é o bicho de estimação da familia vizinha</desc>
+    <rating system="CLASSIND">
+      <value>A6</value>
+    </rating>
+    <file-prefix>eekogato</file-prefix>
+    <length units="minutes">30</length>
+  </prog>
+
+  <prog id="moville-e-seus-misterios" onair="yes" repeat="1">
+    <display-name lang="pt">Moville e seus Mistérios</display-name>
+    <desc lang="pt">Mosley Moville vive em uma cidade onde nada é o que parece. Sua curiosidade o leva a meter-se em misteriosas aventuras que vão provocar suas mais aterrorizantes gargalhadas.</desc>
+    <rating system="CLASSIND">
+      <value>A6</value>
+    </rating>
+    <file-prefix>movilleeseusmisterios</file-prefix>
+    <length units="minutes">30</length>
+  </prog>
+
+  <prog id="halloween-da-fox-kids" onair="yes" repeat="1" type="event" start="20261031">
+    <display-name lang="pt">Halloween da Fox Kids</display-name>
+    <desc lang="pt">Reunimos os mais assustadores episódios.</desc>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://i.ytimg.com/vi/UkVTgiTZ0mI/maxresdefault.jpg" />
+    <file-prefix>halloweendafoxkids</file-prefix>
+    <length units="minutes">150</length>
+    <hour type="o" days="sab">133000</hour>
+  </prog>
+
+  <prog id="o-desejo-de-zordon" onair="yes" repeat="1" type="event" start="20261029">
+    <display-name lang="pt">O Desejo de Zordon</display-name>
+    <desc lang="pt">Para salvar o universo, Andros tem que escolher.</desc>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://comicbook.com/wp-content/uploads/sites/4/2026/02/Power-Rangers-in-Space-Andros-Zordon.jpg?w=1024" />
+    <file-prefix>odesejodezordon</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="qui">143000</hour>
+    <block>
+       <ass id="power-rangers-no-espaco" eps="S06E43"/>
     </block>
   </prog>
 
@@ -2013,6 +2110,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E42</episode-num>
+    <sub-title>Contagem Regressiva para a Destruição - Parte 1</sub-title>
     <video-files>
       <file block="a">PR-Espaco-42A.mp4</file>
       <file block="b">PR-Espaco-42B.mp4</file>
@@ -2021,6 +2119,7 @@
 
   <programme progid="power-rangers-no-espaco">
     <episode-num>S06E43</episode-num>
+    <sub-title>Contagem Regressiva para a Destruição - Parte 2</sub-title>
     <video-files>
       <file block="a">PR-Espaco-43A.mp4</file>
       <file block="b">PR-Espaco-43B.mp4</file>
@@ -7887,8 +7986,343 @@
   </programme>
 
   <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E01</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-01A.mp4</file>
+      <file block="b">PR-Galaxy-01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-02A.mp4</file>
+      <file block="b">PR-Galaxy-02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-03A.mp4</file>
+      <file block="b">PR-Galaxy-03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-04A.mp4</file>
+      <file block="b">PR-Galaxy-04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-05A.mp4</file>
+      <file block="b">PR-Galaxy-05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-06A.mp4</file>
+      <file block="b">PR-Galaxy-06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-07A.mp4</file>
+      <file block="b">PR-Galaxy-07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-08A.mp4</file>
+      <file block="b">PR-Galaxy-08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-09A.mp4</file>
+      <file block="b">PR-Galaxy-09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-10A.mp4</file>
+      <file block="b">PR-Galaxy-10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-11A.mp4</file>
+      <file block="b">PR-Galaxy-11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-12A.mp4</file>
+      <file block="b">PR-Galaxy-12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-13A.mp4</file>
+      <file block="b">PR-Galaxy-13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-14A.mp4</file>
+      <file block="b">PR-Galaxy-14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-15A.mp4</file>
+      <file block="b">PR-Galaxy-15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-16A.mp4</file>
+      <file block="b">PR-Galaxy-16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-17A.mp4</file>
+      <file block="b">PR-Galaxy-17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E18</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-18A.mp4</file>
+      <file block="b">PR-Galaxy-18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E19</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-19A.mp4</file>
+      <file block="b">PR-Galaxy-19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E20</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-20A.mp4</file>
+      <file block="b">PR-Galaxy-20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E21</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-21A.mp4</file>
+      <file block="b">PR-Galaxy-21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E22</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-22A.mp4</file>
+      <file block="b">PR-Galaxy-22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E23</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-23A.mp4</file>
+      <file block="b">PR-Galaxy-23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E24</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-24A.mp4</file>
+      <file block="b">PR-Galaxy-24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E25</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-25A.mp4</file>
+      <file block="b">PR-Galaxy-25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E26</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-26A.mp4</file>
+      <file block="b">PR-Galaxy-26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E27</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-27A.mp4</file>
+      <file block="b">PR-Galaxy-27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E28</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-28A.mp4</file>
+      <file block="b">PR-Galaxy-28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E29</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-29A.mp4</file>
+      <file block="b">PR-Galaxy-29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
     <episode-num>S01E30</episode-num>
     <sub-title>Ao Décimo Poder</sub-title>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E31</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-31A.mp4</file>
+      <file block="b">PR-Galaxy-31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E32</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-32A.mp4</file>
+      <file block="b">PR-Galaxy-32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E33</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-33A.mp4</file>
+      <file block="b">PR-Galaxy-33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E34</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-34A.mp4</file>
+      <file block="b">PR-Galaxy-34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E35</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-35A.mp4</file>
+      <file block="b">PR-Galaxy-35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E36</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-36A.mp4</file>
+      <file block="b">PR-Galaxy-36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E37</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-37A.mp4</file>
+      <file block="b">PR-Galaxy-37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E38</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-38A.mp4</file>
+      <file block="b">PR-Galaxy-38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E39</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-39A.mp4</file>
+      <file block="b">PR-Galaxy-39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-na-galaxia-perdida">
+    <episode-num>S01E40</episode-num>
+    <video-files>
+      <file block="a">PR-Galaxy-40A.mp4</file>
+      <file block="b">PR-Galaxy-40B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="gasparzinho-e-wendy">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
+  </programme>
+
+  <programme progid="eek-o-gato">
+    <episode-num>S01E05</episode-num>
+    <sub-title>O Dias das Bruxas</sub-title>
+    <video-files>
+      <file block="a">Eek! The Cat-01x05A.mp4</file>
+      <file block="b">Eek! The Cat-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="moville-e-seus-misterios">
+    <episode-num>S01E05</episode-num>
+    <sub-title>Projeto de Bruxa</sub-title>
+    <video-files>
+      <file block="a">Moville e Seus Mistérios-01x05A.mp4</file>
+      <file block="b">Moville e Seus Mistérios-01x05B.mp4</file>
+    </video-files>
   </programme>
 
 </catalog>
