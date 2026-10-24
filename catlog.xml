@@ -1266,6 +1266,13 @@
     <file-prefix>halloweendafoxkids</file-prefix>
     <length units="minutes">150</length>
     <hour type="o" days="sab">133000</hour>
+    <block>
+       <ass id="goosebumps" eps="S02E10"/>
+       <ass id="eek-o-gato" eps="S01E05"/>
+       <ass id="moville-e-seus-misterios" eps="S01E05"/>
+       <ass id="os-padrinhos-magicos" eps="S02E07"/>
+       <ass id="o-menino-de-gahan-wilson" eps="S01E01"/>
+    </block>
   </prog>
 
   <prog id="o-desejo-de-zordon" onair="yes" repeat="1" type="event" start="20261029">
@@ -1283,6 +1290,26 @@
     <block>
        <ass id="power-rangers-no-espaco" eps="S06E43"/>
     </block>
+  </prog>
+
+  <prog id="os-padrinhos-magicos" onair="yes" repeat="1">
+    <display-name lang="pt">Os Padrinhos Mágicos</display-name>
+    <desc lang="pt">Timmy Turner, um garoto de 10 anos, é atormentado principalmente pela sua malvada babá. Um dia ele recebe a visita de seus atrapalhados Padrinhos Mágicos, e passa a viver aventuras divertidas.</desc>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
+    <file-prefix>ospadrinhosmagicos</file-prefix>
+    <length units="minutes">30</length>
+  </prog>
+
+  <prog id="o-menino-de-gahan-wilson" onair="yes" repeat="1">
+    <display-name lang="pt">O Menino de Gahan Wilson</display-name>
+    <desc lang="pt">Gahan Wilson um garoto de imaginação fértil, que questiona tudo.</desc>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <file-prefix>omeninodegahanwilson</file-prefix>
+    <length units="minutes">30</length>
   </prog>
 
   <programme progid="digimon">
@@ -3701,6 +3728,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S02E09</episode-num>
+    <sub-title>O Fantasma da Praia</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-02x09A.mp4</file>
       <file block="b">GOOSEBUMPS-02x09B.mp4</file>
@@ -3709,6 +3737,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S02E10</episode-num>
+    <sub-title>Doce ou Travessuras</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-02x10A.mp4</file>
       <file block="b">GOOSEBUMPS-02x10B.mp4</file>
@@ -3717,6 +3746,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S02E11</episode-num>
+    <sub-title>A Máscara Assombrada 2 - Parte 1</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-02x11A.mp4</file>
       <file block="b">GOOSEBUMPS-02x11B.mp4</file>
@@ -8322,6 +8352,23 @@
     <video-files>
       <file block="a">Moville e Seus Mistérios-01x05A.mp4</file>
       <file block="b">Moville e Seus Mistérios-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="os-padrinhos-magicos">
+    <episode-num>S02E07</episode-num>
+    <sub-title>Padrinhos Assustadores</sub-title>
+    <video-files>
+      <file block="a">Os Padrinhos Màgicos-02x07A.mp4</file>
+      <file block="b">Os Padrinhos Màgicos-02x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="o-menino-de-gahan-wilson">
+    <episode-num>S01E01</episode-num>
+    <video-files>
+      <file block="a">Gahan Wilson Especial Halloween-A.mp4</file>
+      <file block="b">Gahan Wilson Especial Halloween-B.mp4</file>
     </video-files>
   </programme>
 
