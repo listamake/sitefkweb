@@ -336,6 +336,7 @@
        <ass id="power-rangers-o-filme"/>
        <ass id="retorno-da-familia-addams-espelho"/>
        <ass id="gasparzinho-e-wendy"/>
+       <ass id="o-caminho-para-el-dorado-espelho"/>
     </block>
   </prog>
 
@@ -658,8 +659,12 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260831">
+  <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260831" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Estreia: Shinzo</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Uma nova aventura começa!</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
@@ -675,8 +680,12 @@
     </block>
   </prog>
 
-  <prog id="digi-maratona" onair="yes" repeat="1" type="event" start="20260822">
+  <prog id="digi-maratona" onair="yes" repeat="1" type="event" start="20260822" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Digi-Maratona</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Mais de 20h só de Digimon</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
@@ -738,8 +747,12 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260824">
+  <prog id="estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260824" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Estreia: Digimon 3</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Dia 24 chega a nova temporada de Digimon!</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
@@ -755,8 +768,12 @@
     </block>
   </prog>
 
-  <prog id="homem-aranha-e-seus-amigos-finale" onair="yes" repeat="1" type="event" start="20261021">
+  <prog id="homem-aranha-e-seus-amigos-finale" onair="yes" repeat="1" type="event" start="20261021" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Homem Aranha e seus Amigos</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">A irmã do homem gelo aparece!!</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
@@ -772,8 +789,12 @@
     </block>
   </prog>
 
-  <prog id="a-noite-do-boneco-vivo" onair="yes" repeat="1" type="event" start="20260924">
+  <prog id="a-noite-do-boneco-vivo" onair="yes" repeat="1" type="event" start="20260924" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Slappy Retorna!</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Dia 24: Descubra como um boneco ganha vida!</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
@@ -801,8 +822,12 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="power-domingo-merrick-vs-zen-aku" onair="yes" repeat="1" type="event" start="20260830">
+  <prog id="power-domingo-merrick-vs-zen-aku" onair="yes" repeat="1" type="event" start="20260830" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Power Domingo: Merrick vs. Zen-Aku</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Dia 30: Merrick terá que revolver seu passado.</desc>
     <category lang="pt">Especial</category>
     <color>rgb(255, 204, 153);</color>
@@ -828,8 +853,12 @@
     <weekday days="sab"/>
   </prog>
 
-  <prog id="fique-longe-do-porao" onair="yes" repeat="1" type="event" start="20260906">
+  <prog id="fique-longe-do-porao" onair="yes" repeat="1" type="event" start="20260906" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Goosebumps: Fique longe do porão</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Um porão pode guardar mistérios.</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
@@ -863,8 +892,12 @@
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="power-rangers-ranger-vermelho" onair="yes" repeat="1" type="event" start="20260909">
+  <prog id="power-rangers-ranger-vermelho" onair="yes" repeat="1" type="event" start="20260909" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Os Rangers Vermelho</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">O mundo está em perigo. Os Rangers conseguirá salvá-lo ?</desc>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
@@ -877,8 +910,12 @@
     </block>
   </prog>
 
-  <prog id="o-lobisomem-do-pantano" onair="yes" repeat="1" type="event" start="20260913">
+  <prog id="o-lobisomem-do-pantano" onair="yes" repeat="1" type="event" start="20260913" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">O Lobisomem do pântano</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Uma aventura que nunca esqueceriam...</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
@@ -894,7 +931,7 @@
     </block>
   </prog>
 
-  <prog id="digimon-espelho" onair="yes" repeat="7" type="mirror" start="20240506">
+  <prog id="digimon-espelho" onair="yes" repeat="7" type="mirror">
     <display-name lang="pt">Digimon (Espelho)</display-name>
     <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para o digi-Mundo. E agora tentarão salvá-lo com a ajuda dos Digimon, contras forças do mal.</desc>
     <category lang="pt">Anime</category>
@@ -905,17 +942,19 @@
     <icon src="https://prcdn.freetls.fastly.net/release_image/31422/1272/31422-1272-8447dfd4a8b3dad2903a771f9ecaaae3-2011x2700.jpg" />
     <file-prefix>digimonespelho</file-prefix>
     <length units="minutes">30</length>
-    <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
-    <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
-    <hour type="r" days="sab">040000</hour>
-    <hour type="r" days="seg,ter,qua,qui,sex">060000</hour>
-    <hour type="r" days="seg,ter,qua,qui,sex">103000</hour>
+    <date start="20240506">
+      <hour type="o" days="seg,ter,qua,qui,sex">173000</hour>
+      <hour type="r" days="seg,ter,qua,qui,sex">213000</hour>
+      <hour type="r" days="sab">040000</hour>
+      <hour type="r" days="seg,ter,qua,qui,sex">060000</hour>
+      <hour type="r" days="seg,ter,qua,qui,sex">103000</hour>
+    </date>
     <block>
        <ass id="digimon" eps="S01E01-S01E54"/>
     </block>
   </prog>
 
-  <prog id="o-incrivel-hulk-espelho" onair="yes" repeat="1" type="mirror" start="20251007">
+  <prog id="o-incrivel-hulk-espelho" onair="yes" repeat="1" type="mirror">
     <display-name lang="pt">O Incrível Hulk (Espelho)</display-name>
     <desc lang="pt">O desenho animado do monstro verde mais famoso do mundo está de volta, narrando a triste história do cientista Bruce Banner, que precisa lidar com uma poderosa fera interior: O Incrível Hulk</desc>
     <category lang="pt">Animação</category>
@@ -925,10 +964,12 @@
     <icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/the-incredible-hulk-3.jpg" />
     <file-prefix>oincrivelhulkespelho</file-prefix>
     <length units="minutes">30</length>
-    <hour type="o" days="ter,qui">173000</hour>
-    <hour type="r" days="ter,qui">213000</hour>
-    <hour type="r" days="ter,qui">060000</hour>
-    <hour type="r" days="qua,sex">103000</hour>
+    <date start="20251007">
+      <hour type="o" days="ter,qui">173000</hour>
+      <hour type="r" days="ter,qui">213000</hour>
+      <hour type="r" days="ter,qui">060000</hour>
+      <hour type="r" days="qua,sex">103000</hour>
+    </date>
     <block>
        <ass id="o-incrivel-hulk" eps="S01E01, S02E07"/>
     </block>
@@ -943,8 +984,12 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="o-retorno-da-mascara-maldita" onair="yes" repeat="1" type="event" start="20260920">
+  <prog id="o-retorno-da-mascara-maldita" onair="yes" repeat="1" type="event" start="20260920" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">O Retorno da Máscara Maldita</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Steve quer encontrar uma máscara tão assustadora...</desc>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
@@ -957,7 +1002,7 @@
     </block>
   </prog>
 
-  <prog id="homem-aranha-e-seus-amigos-espelho" onair="yes" repeat="3" type="mirror" start="20240515">
+  <prog id="homem-aranha-e-seus-amigos-espelho" onair="yes" repeat="3" type="mirror">
     <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
     <desc lang="pt">O pesadelo dos mais perigosos vilões de Nova Iorque se multiplicou: o Homem Aranha não está mais sozinho, mas acompanhado pelo Homem de Gelo e a Estrela de Fogo.</desc>
     <category lang="pt">Animação</category>
@@ -967,30 +1012,40 @@
     <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUpQLcvDc8E7rLDTF1_kZBtxzVp7jKe2IMReuRdMpsSYeZkugqULC4lvajCroUx_0Q-BWxiDms-2WFNmShOsciYYPF_CQ-ixwJOEDfehAXmvYp8HVf0AJI2U2gjDY7OARIHQrucgdltQQ/s1600/spiderman+3.jpg" />
     <file-prefix>homemaranhaeseusamigosespelho</file-prefix>
     <length units="minutes">30</length>
-    <hour type="o" days="seg,qua,sex">133000</hour>
-    <hour type="r" days="seg,qua,sex">160000</hour>
-    <hour type="r" days="seg,ter,qui,sab">000000</hour>
-    <hour type="r" days="seg,ter,qui">033000</hour>
-    <hour type="r" days="seg,ter,qui">073000</hour>
-    <hour type="r" days="seg,qua,sex">200000</hour>
+    <date start="20240515">
+      <hour type="o" days="seg,qua,sex">133000</hour>
+      <hour type="r" days="seg,qua,sex">160000</hour>
+      <hour type="r" days="seg,ter,qui,sab">000000</hour>
+      <hour type="r" days="seg,ter,qui">033000</hour>
+      <hour type="r" days="seg,ter,qui">073000</hour>
+      <hour type="r" days="seg,qua,sex">200000</hour>
+    </date>
     <block>
        <ass id="homem-aranha-e-seus-amigos" eps="S01E01, S03E08"/>
     </block>
   </prog>
 
-  <prog id="paulie-o-papagaio-bom-de-papo-espelho" onair="yes" repeat="1" type="mirror" start="20260927">
+  <prog id="paulie-o-papagaio-bom-de-papo-espelho" onair="yes" repeat="1" type="mirror">
     <display-name lang="pt">Paulie - O Papagaio Bom de Papo</display-name>
     <category lang="pt">Movie</category>
     <icon src="https://img.youtube.com/vi/AGV8nB_EEAU/mqdefault.jpg" />
     <file-prefix>paulieopapagaiobomdepapoespelho</file-prefix>
     <length units="minutes">120</length>
+    <date start="20260927">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
     <block>
        <ass id="paulie-o-papagaio-bom-de-papo"/>
     </block>
   </prog>
 
-  <prog id="power-domingo-ashley-em-perigo" onair="yes" repeat="1" type="event" start="20260927">
+  <prog id="power-domingo-ashley-em-perigo" onair="yes" repeat="1" type="event" start="20260927" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Power Domingo: Ashley em Perigo!</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Os Rangers se depara com um desafio.</desc>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
@@ -1000,19 +1055,27 @@
     <hour type="o" days="dom">143000</hour>
   </prog>
 
-  <prog id="patlabor-o-filme-espelho" onair="yes" repeat="1" type="mirror" start="20261004">
+  <prog id="patlabor-o-filme-espelho" onair="yes" repeat="1" type="mirror">
     <display-name lang="pt">Patlabor: O Filme</display-name>
     <category lang="pt">Movie</category>
     <icon src="https://assets.mubicdn.net/images/film/31806/image-w1280.jpg?1745491903" />
     <file-prefix>patlaborofilmeespelho</file-prefix>
     <length units="minutes">120</length>
+    <date start="20261004">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
     <block>
        <ass id="patlabor-o-filme"/>
     </block>
   </prog>
 
-  <prog id="o-lendario-domador" onair="yes" repeat="1" type="event" start="20260930">
+  <prog id="o-lendario-domador" onair="yes" repeat="1" type="event" start="20260930" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">O Lendário Domador</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Após desaparecimento ele reaparece.</desc>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
@@ -1025,8 +1088,12 @@
     </block>
   </prog>
 
-  <prog id="eleicao-da-escola" onair="yes" repeat="1" type="event" start="20261004">
+  <prog id="eleicao-da-escola" onair="yes" repeat="1" type="event" start="20261004" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Eleição da Escola</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">A escolha de um representante causa confusão</desc>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
@@ -1038,8 +1105,12 @@
     <hour type="r" days="dom">053000</hour>
   </prog>
 
-  <prog id="o-dia-das-bruxa-de-bobby" onair="yes" repeat="1" type="event" start="20261009">
+  <prog id="o-dia-das-bruxa-de-bobby" onair="yes" repeat="1" type="event" start="20261009" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">O Dia das Bruxa de Bobby</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">O Dias das Bruxas Chegou, e agora Bobby?</desc>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
@@ -1052,7 +1123,7 @@
     </block>
   </prog>
 
-  <prog id="gasparzinho-como-tudo-comecou-espelho" onair="yes" repeat="1" type="mirror" start="20261011">
+  <prog id="gasparzinho-como-tudo-comecou-espelho" onair="yes" repeat="1" type="mirror">
     <display-name lang="pt">Gasparzinho Como Tudo Começou</display-name>
     <desc lang="pt">Gasparzinho falta em seu treinamento fantasma e seus poderes fantasmagóricos são os únicos que podem salvar a cidade da bola destruidora e reunir um pai e um filho.</desc>
     <category lang="pt">Movie</category>
@@ -1062,14 +1133,25 @@
     <icon src="https://images.firstpost.com/wp-content/uploads/2017/03/casper.jpg" />
     <file-prefix>gasparzinhocomotudocomecouespelho</file-prefix>
     <length units="minutes">120</length>
-    <weekday days="SEG,TER,QUA,QUI,SEX"/>
+    <date start="20261011">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
+    <date start="20261206">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
     <block>
        <ass id="gasparzinho-como-tudo-comecou"/>
     </block>
   </prog>
 
-  <prog id="beelzemon-vs-dukemon" onair="yes" repeat="1" type="event" start="20261012">
+  <prog id="beelzemon-vs-dukemon" onair="yes" repeat="1" type="event" start="20261012" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Beelzemon Vs. Dukemon</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Luz e Escuridão se enfrentam</desc>
     <desc-snippet lang="pt">Luz e Escuridão se enfrentam</desc-snippet>
     <category lang="pt">Especial</category>
@@ -1095,8 +1177,12 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="32-anos-de-power-rangers" onair="yes" repeat="1" type="event" start="20261017">
+  <prog id="32-anos-de-power-rangers" onair="yes" repeat="1" type="event" start="20261017" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">32 Anos de Power Rangers</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Os Episódios mais marcantes nessa maratona!</desc>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
@@ -1116,13 +1202,21 @@
     </block>
   </prog>
 
-  <prog id="retorno-da-familia-addams-espelho" onair="yes" repeat="1" type="mirror" start="20261025">
+  <prog id="retorno-da-familia-addams-espelho" onair="yes" repeat="1" type="mirror">
     <display-name lang="pt">Retorno da Familia Addams</display-name>
     <desc lang="pt">Os Addams estão super animados: receberam um convite inesperado para uma &quot;reunião familiar&quot;. O que há de estranho nisso? Que o convite estava escrito errado e que a reunião era da família A-d-a-m-s!</desc>
     <category lang="pt">Movie</category>
     <icon src="https://macabra.tv/wp-content/uploads/2021/09/O-Retorno-da-Fam%C3%ADlia-Addams-MacabraTV.jpg" />
     <file-prefix>retornodafamiliaaddamsespelho</file-prefix>
     <length units="minutes">120</length>
+    <date start="20261025">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
+    <date start="20261108">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
     <block>
        <ass id="retorno-da-familia-addams"/>
     </block>
@@ -1146,8 +1240,12 @@
     <length units="minutes">30</length>
   </prog>
 
-  <prog id="enfrentando-o-matador" onair="yes" repeat="1" type="event" start="20261023">
+  <prog id="enfrentando-o-matador" onair="yes" repeat="1" type="event" start="20261023" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Enfrentando o Matador</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">A Luta mais importante do domadores!</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
@@ -1163,8 +1261,12 @@
     </block>
   </prog>
 
-  <prog id="estreia-galaxia-perdida" onair="yes" repeat="1" type="event" start="20261103">
+  <prog id="estreia-galaxia-perdida" onair="yes" repeat="1" type="event" start="20261103" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">Estreia: Galáxia Perdida</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
       <value>A10</value>
@@ -1176,35 +1278,6 @@
     <block>
        <ass id="power-rangers-na-galaxia-perdida" eps="S01E01"/>
     </block>
-  </prog>
-
-  <prog id="power-rangers-turbo" onair="no" repeat="1">
-    <display-name lang="pt">Power Rangers Turbo</display-name>
-    <file-prefix>powerrangersm</file-prefix>
-    <length units="minutes">30</length>
-    <hour type="o" days="ter,qui">143000</hour>
-    <hour type="r" days="ter,qui">170000</hour>
-    <hour type="r" days="ter,qui">210000</hour>
-    <hour type="r" days="qua,sex">010000</hour>
-    <hour type="r" days="qua,sex">043000</hour>
-    <hour type="r" days="qua,sex">083000</hour>
-    <weekday days="ter,qui"/>
-  </prog>
-
-  <prog id="power-ranger-o-resgate" onair="no" repeat="1">
-    <display-name lang="pt">Power Ranger- O Resgate</display-name>
-    <rating system="CLASSIND">
-      <value>10</value>
-    </rating>
-    <file-prefix>powerrangersm</file-prefix>
-    <length units="minutes">30</length>
-    <hour type="o" days="ter,qui">143000</hour>
-    <hour type="r" days="ter,qui">170000</hour>
-    <hour type="r" days="ter,qui">210000</hour>
-    <hour type="r" days="qua,sex">010000</hour>
-    <hour type="r" days="qua,sex">043000</hour>
-    <hour type="r" days="qua,sex">083000</hour>
-    <weekday days="ter,qui"/>
   </prog>
 
   <prog id="power-rangers-na-galaxia-perdida" onair="yes" repeat="1" start="20261103">
@@ -1257,8 +1330,12 @@
     <length units="minutes">30</length>
   </prog>
 
-  <prog id="halloween-da-fox-kids" onair="yes" repeat="1" type="event" start="20261031">
+  <prog id="halloween-da-fox-kids" onair="yes" repeat="1" type="event" start="20261031" show-series-title="yes" show-episode-title="no">
     <display-name lang="pt">Halloween da Fox Kids</display-name>
+    <options show-series-title="yes" show-episode-title="no">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>no</show-episode-title>
+    </options>
     <desc lang="pt">Reunimos os mais assustadores episódios.</desc>
     <category lang="pt">Especial</category>
     <color>rgb(225, 29, 72);</color>
@@ -1266,17 +1343,22 @@
     <file-prefix>halloweendafoxkids</file-prefix>
     <length units="minutes">150</length>
     <hour type="o" days="sab">133000</hour>
+    <hour type="r" days="dom">083000</hour>
     <block>
        <ass id="goosebumps" eps="S02E10"/>
        <ass id="eek-o-gato" eps="S01E05"/>
-       <ass id="moville-e-seus-misterios" eps="S01E05"/>
        <ass id="os-padrinhos-magicos" eps="S02E07"/>
        <ass id="o-menino-de-gahan-wilson" eps="S01E01"/>
+       <ass id="moville-e-seus-misterios" eps="S01E05"/>
     </block>
   </prog>
 
-  <prog id="o-desejo-de-zordon" onair="yes" repeat="1" type="event" start="20261029">
+  <prog id="o-desejo-de-zordon" onair="yes" repeat="1" type="event" start="20261029" show-series-title="yes" show-episode-title="yes">
     <display-name lang="pt">O Desejo de Zordon</display-name>
+    <options show-series-title="yes" show-episode-title="yes">
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
     <desc lang="pt">Para salvar o universo, Andros tem que escolher.</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
@@ -1310,6 +1392,52 @@
     </rating>
     <file-prefix>omeninodegahanwilson</file-prefix>
     <length units="minutes">30</length>
+  </prog>
+
+  <prog id="power-rangers-turbo" onair="yes" repeat="1" start="20251230">
+    <display-name lang="pt">Power Rangers Turbo</display-name>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <file-prefix>powerrangersm</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="ter,qui">143000</hour>
+    <hour type="r" days="ter,qui">170000</hour>
+    <hour type="r" days="ter,qui">210000</hour>
+    <hour type="r" days="qua,sex">010000</hour>
+    <hour type="r" days="qua,sex">043000</hour>
+    <hour type="r" days="qua,sex">083000</hour>
+    <weekday days="ter,qui"/>
+  </prog>
+
+  <prog id="power-ranger-o-resgate" onair="no" repeat="1">
+    <display-name lang="pt">Power Ranger- O Resgate</display-name>
+    <rating system="CLASSIND">
+      <value>10</value>
+    </rating>
+    <file-prefix>powerrangersm</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="ter,qui">143000</hour>
+    <hour type="r" days="ter,qui">170000</hour>
+    <hour type="r" days="ter,qui">210000</hour>
+    <hour type="r" days="qua,sex">010000</hour>
+    <hour type="r" days="qua,sex">043000</hour>
+    <hour type="r" days="qua,sex">083000</hour>
+    <weekday days="ter,qui"/>
+  </prog>
+
+  <prog id="o-caminho-para-el-dorado-espelho" onair="yes" repeat="1" type="mirror">
+    <display-name lang="pt">O Caminho para El Dorado</display-name>
+    <category lang="pt">Movie</category>
+    <icon src="https://cinepop.com.br/wp-content/uploads/2025/08/el-dorado-4.jpg" />
+    <file-prefix>ocaminhoparaeldoradoespelho</file-prefix>
+    <length units="minutes">120</length>
+    <date start="20261108">
+      <hour type="o" days="dom">000000</hour>
+    </date>
+    <block>
+       <ass id="o-caminho-para-el-dorado"/>
+    </block>
   </prog>
 
   <programme progid="digimon">
@@ -7584,6 +7712,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E47</episode-num>
+    <sub-title>O Surgimento de Grani</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-47A.mp4</file>
       <file block="b">Digi-Tamers-47B.mp4</file>
@@ -7592,6 +7721,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E48</episode-num>
+    <sub-title>Salvem a Kato</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-48A.mp4</file>
       <file block="b">Digi-Tamers-48B.mp4</file>
@@ -7600,6 +7730,7 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E49</episode-num>
+    <sub-title>O Mundo em Perigo</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-49A.mp4</file>
       <file block="b">Digi-Tamers-49B.mp4</file>
@@ -7608,8 +7739,18 @@
 
   <programme progid="digimon-3">
     <episode-num>S03E50</episode-num>
+    <sub-title>Proteja Aqueles que Você Ama</sub-title>
     <video-files>
       <file block="a">Digi-Tamers-50A.mp4</file>
+      <file block="b">Digi-Tamers-50B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="digimon-3">
+    <episode-num>S03E51</episode-num>
+    <sub-title>Esperanças, Sonhos e Futuro</sub-title>
+    <video-files>
+      <file block="a">Digi-Tamers-51A.mp4</file>
       <file block="b">Digi-Tamers-51B.mp4</file>
     </video-files>
   </programme>
@@ -8001,20 +8142,6 @@
     </video-files>
   </programme>
 
-  <programme progid="power-rangers-turbo">
-    <episode-num>S05E13</episode-num>
-    <sub-title>Mensagem Extraviada</sub-title>
-    <video-files>
-      <file block="a">PR-Turbo-13A.mp4</file>
-      <file block="b">PR-Turbo-13B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="power-ranger-o-resgate">
-    <episode-num>S01E30</episode-num>
-    <sub-title>A Vingança de Trakeena - Parte 2</sub-title>
-  </programme>
-
   <programme progid="power-rangers-na-galaxia-perdida">
     <episode-num>S01E01</episode-num>
     <video-files>
@@ -8369,6 +8496,689 @@
     <video-files>
       <file block="a">Gahan Wilson Especial Halloween-A.mp4</file>
       <file block="b">Gahan Wilson Especial Halloween-B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E01</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-01A.mp4</file>
+      <file block="b">PR-Turbo-01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E02</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-02A.mp4</file>
+      <file block="b">PR-Turbo-02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E03</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-03A.mp4</file>
+      <file block="b">PR-Turbo-03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E04</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-04A.mp4</file>
+      <file block="b">PR-Turbo-04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E05</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-05A.mp4</file>
+      <file block="b">PR-Turbo-05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E06</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-06A.mp4</file>
+      <file block="b">PR-Turbo-06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E07</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-07A.mp4</file>
+      <file block="b">PR-Turbo-07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E08</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-08A.mp4</file>
+      <file block="b">PR-Turbo-08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E09</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-09A.mp4</file>
+      <file block="b">PR-Turbo-09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E10</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-10A.mp4</file>
+      <file block="b">PR-Turbo-10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E11</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-11A.mp4</file>
+      <file block="b">PR-Turbo-11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E12</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-12A.mp4</file>
+      <file block="b">PR-Turbo-12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E13</episode-num>
+    <sub-title>Mensagem Extraviada</sub-title>
+    <video-files>
+      <file block="a">PR-Turbo-13A.mp4</file>
+      <file block="b">PR-Turbo-13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E14</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-14A.mp4</file>
+      <file block="b">PR-Turbo-14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E15</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-15A.mp4</file>
+      <file block="b">PR-Turbo-15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E16</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-16A.mp4</file>
+      <file block="b">PR-Turbo-16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E17</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-17A.mp4</file>
+      <file block="b">PR-Turbo-17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E18</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-18A.mp4</file>
+      <file block="b">PR-Turbo-18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E19</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-19A.mp4</file>
+      <file block="b">PR-Turbo-19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E20</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-20A.mp4</file>
+      <file block="b">PR-Turbo-20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E21</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-21A.mp4</file>
+      <file block="b">PR-Turbo-21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E22</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-22A.mp4</file>
+      <file block="b">PR-Turbo-22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E23</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-23A.mp4</file>
+      <file block="b">PR-Turbo-23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E24</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-24A.mp4</file>
+      <file block="b">PR-Turbo-24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E25</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-25A.mp4</file>
+      <file block="b">PR-Turbo-25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E26</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-26A.mp4</file>
+      <file block="b">PR-Turbo-26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E27</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-27A.mp4</file>
+      <file block="b">PR-Turbo-27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E28</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-28A.mp4</file>
+      <file block="b">PR-Turbo-28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E29</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-29A.mp4</file>
+      <file block="b">PR-Turbo-29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E30</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-30A.mp4</file>
+      <file block="b">PR-Turbo-30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E31</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-31A.mp4</file>
+      <file block="b">PR-Turbo-31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E32</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-32A.mp4</file>
+      <file block="b">PR-Turbo-32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E33</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-33A.mp4</file>
+      <file block="b">PR-Turbo-33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E34</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-34A.mp4</file>
+      <file block="b">PR-Turbo-34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E35</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-35A.mp4</file>
+      <file block="b">PR-Turbo-35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E36</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-36A.mp4</file>
+      <file block="b">PR-Turbo-36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E37</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-37A.mp4</file>
+      <file block="b">PR-Turbo-37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E38</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-38A.mp4</file>
+      <file block="b">PR-Turbo-38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E39</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-39A.mp4</file>
+      <file block="b">PR-Turbo-39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E40</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-40A.mp4</file>
+      <file block="b">PR-Turbo-40B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E41</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-41A.mp4</file>
+      <file block="b">PR-Turbo-41B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E42</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-42A.mp4</file>
+      <file block="b">PR-Turbo-42B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E43</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-43A.mp4</file>
+      <file block="b">PR-Turbo-43B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E44</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-44A.mp4</file>
+      <file block="b">PR-Turbo-44B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-rangers-turbo">
+    <episode-num>S05E45</episode-num>
+    <video-files>
+      <file block="a">PR-Turbo-45A.mp4</file>
+      <file block="b">PR-Turbo-45B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E01</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x01A.mp4</file>
+      <file block="b">PR-O-Resgate-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E02</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x02A.mp4</file>
+      <file block="b">PR-O-Resgate-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E03</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x03A.mp4</file>
+      <file block="b">PR-O-Resgate-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E04</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x04A.mp4</file>
+      <file block="b">PR-O-Resgate-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E05</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x05A.mp4</file>
+      <file block="b">PR-O-Resgate-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E06</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x06A.mp4</file>
+      <file block="b">PR-O-Resgate-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E07</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x07A.mp4</file>
+      <file block="b">PR-O-Resgate-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E08</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x08A.mp4</file>
+      <file block="b">PR-O-Resgate-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E09</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x09A.mp4</file>
+      <file block="b">PR-O-Resgate-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E10</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x10A.mp4</file>
+      <file block="b">PR-O-Resgate-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E11</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x11A.mp4</file>
+      <file block="b">PR-O-Resgate-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E12</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x12A.mp4</file>
+      <file block="b">PR-O-Resgate-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E13</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x13A.mp4</file>
+      <file block="b">PR-O-Resgate-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E14</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x14A.mp4</file>
+      <file block="b">PR-O-Resgate-01x14B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E15</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x15A.mp4</file>
+      <file block="b">PR-O-Resgate-01x15B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E16</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x16A.mp4</file>
+      <file block="b">PR-O-Resgate-01x16B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E17</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x17A.mp4</file>
+      <file block="b">PR-O-Resgate-01x17B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E18</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x18A.mp4</file>
+      <file block="b">PR-O-Resgate-01x18B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E19</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x19A.mp4</file>
+      <file block="b">PR-O-Resgate-01x19B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E20</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x20A.mp4</file>
+      <file block="b">PR-O-Resgate-01x20B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E21</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x21A.mp4</file>
+      <file block="b">PR-O-Resgate-01x21B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E22</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x22A.mp4</file>
+      <file block="b">PR-O-Resgate-01x22B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E23</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x23A.mp4</file>
+      <file block="b">PR-O-Resgate-01x23B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E24</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x24A.mp4</file>
+      <file block="b">PR-O-Resgate-01x24B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E25</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x25A.mp4</file>
+      <file block="b">PR-O-Resgate-01x25B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E26</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x26A.mp4</file>
+      <file block="b">PR-O-Resgate-01x26B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E27</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x27A.mp4</file>
+      <file block="b">PR-O-Resgate-01x27B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E28</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x28A.mp4</file>
+      <file block="b">PR-O-Resgate-01x28B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E29</episode-num>
+    <sub-title>A Vingança de Trakeena - Parte 1</sub-title>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x29A.mp4</file>
+      <file block="b">PR-O-Resgate-01x29B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E30</episode-num>
+    <sub-title>A Vingança de Trakeena - Parte 2</sub-title>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x30A.mp4</file>
+      <file block="b">PR-O-Resgate-01x30B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E31</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x31A.mp4</file>
+      <file block="b">PR-O-Resgate-01x31B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E32</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x32A.mp4</file>
+      <file block="b">PR-O-Resgate-01x32B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E33</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x33A.mp4</file>
+      <file block="b">PR-O-Resgate-01x33B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E34</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x34A.mp4</file>
+      <file block="b">PR-O-Resgate-01x34B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E35</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x35A.mp4</file>
+      <file block="b">PR-O-Resgate-01x35B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E36</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x36A.mp4</file>
+      <file block="b">PR-O-Resgate-01x36B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E37</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x37A.mp4</file>
+      <file block="b">PR-O-Resgate-01x37B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E38</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x38A.mp4</file>
+      <file block="b">PR-O-Resgate-01x38B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E39</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x39A.mp4</file>
+      <file block="b">PR-O-Resgate-01x39B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="power-ranger-o-resgate">
+    <episode-num>S01E40</episode-num>
+    <video-files>
+      <file block="a">PR-O-Resgate-01x40A.mp4</file>
+      <file block="b">PR-O-Resgate-01x40B.mp4</file>
     </video-files>
   </programme>
 
