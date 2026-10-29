@@ -129,25 +129,6 @@
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="homem-aranha-e-seus-amigos" onair="yes" repeat="3" start="20260703">
-    <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
-    <desc lang="pt">O pesadelo dos mais perigosos vilões de Nova Iorque se multiplicou: o Homem Aranha não está mais sozinho, mas acompanhado pelo Homem de Gelo e a Estrela de Fogo.</desc>
-    <category lang="pt">Animação</category>
-    <rating system="CLASSIND">
-      <value>A10</value>
-    </rating>
-    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUpQLcvDc8E7rLDTF1_kZBtxzVp7jKe2IMReuRdMpsSYeZkugqULC4lvajCroUx_0Q-BWxiDms-2WFNmShOsciYYPF_CQ-ixwJOEDfehAXmvYp8HVf0AJI2U2gjDY7OARIHQrucgdltQQ/s1600/spiderman+3.jpg" />
-    <file-prefix>homem-aranha-e-amigos</file-prefix>
-    <length units="minutes">30</length>
-    <hour type="o" days="seg,qua,sex">133000</hour>
-    <hour type="r" days="seg,qua,sex">160000</hour>
-    <hour type="r" days="seg,ter,qui,sab">000000</hour>
-    <hour type="r" days="seg,ter,qui">033000</hour>
-    <hour type="r" days="seg,ter,qui">073000</hour>
-    <hour type="r" days="seg,qua,sex">200000</hour>
-    <weekday days="seg,qua,sex"/>
-  </prog>
-
   <prog id="super-pig" onair="yes" repeat="3" start="20260720">
     <display-name lang="pt">Super Pig</display-name>
     <desc lang="pt">Descubra como uma garota normal adquire super poderes de um porquinho mágico.</desc>
@@ -659,9 +640,9 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260831" show-series-title="yes" show-episode-title="yes">
+  <prog id="pre-estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260831">
     <display-name lang="pt">Estreia: Shinzo</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -680,9 +661,9 @@
     </block>
   </prog>
 
-  <prog id="digi-maratona" onair="yes" repeat="1" type="event" start="20260822" show-series-title="yes" show-episode-title="yes">
+  <prog id="digi-maratona" onair="yes" repeat="1" type="event" start="20260822">
     <display-name lang="pt">Digi-Maratona</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -747,9 +728,9 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260824" show-series-title="yes" show-episode-title="yes">
+  <prog id="estreia-digimon-3" onair="yes" repeat="1" type="event" start="20260824">
     <display-name lang="pt">Estreia: Digimon 3</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -768,9 +749,9 @@
     </block>
   </prog>
 
-  <prog id="homem-aranha-e-seus-amigos-finale" onair="yes" repeat="1" type="event" start="20261021" show-series-title="yes" show-episode-title="yes">
+  <prog id="homem-aranha-e-seus-amigos-finale" onair="yes" repeat="1" type="event" start="20261021">
     <display-name lang="pt">Homem Aranha e seus Amigos</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -789,9 +770,9 @@
     </block>
   </prog>
 
-  <prog id="a-noite-do-boneco-vivo" onair="yes" repeat="1" type="event" start="20260924" show-series-title="yes" show-episode-title="yes">
+  <prog id="a-noite-do-boneco-vivo" onair="yes" repeat="1" type="event" start="20260924">
     <display-name lang="pt">Slappy Retorna!</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -822,9 +803,9 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="power-domingo-merrick-vs-zen-aku" onair="yes" repeat="1" type="event" start="20260830" show-series-title="yes" show-episode-title="yes">
+  <prog id="power-domingo-merrick-vs-zen-aku" onair="yes" repeat="1" type="event" start="20260830">
     <display-name lang="pt">Power Domingo: Merrick vs. Zen-Aku</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -853,9 +834,9 @@
     <weekday days="sab"/>
   </prog>
 
-  <prog id="fique-longe-do-porao" onair="yes" repeat="1" type="event" start="20260906" show-series-title="yes" show-episode-title="yes">
+  <prog id="fique-longe-do-porao" onair="yes" repeat="1" type="event" start="20260906">
     <display-name lang="pt">Goosebumps: Fique longe do porão</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -892,9 +873,9 @@
     <weekday days="seg,qua,sex"/>
   </prog>
 
-  <prog id="power-rangers-ranger-vermelho" onair="yes" repeat="1" type="event" start="20260909" show-series-title="yes" show-episode-title="yes">
+  <prog id="power-rangers-ranger-vermelho" onair="yes" repeat="1" type="event" start="20260909">
     <display-name lang="pt">Os Rangers Vermelho</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -910,9 +891,9 @@
     </block>
   </prog>
 
-  <prog id="o-lobisomem-do-pantano" onair="yes" repeat="1" type="event" start="20260913" show-series-title="yes" show-episode-title="yes">
+  <prog id="o-lobisomem-do-pantano" onair="yes" repeat="1" type="event" start="20260913">
     <display-name lang="pt">O Lobisomem do pântano</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -932,7 +913,7 @@
   </prog>
 
   <prog id="digimon-espelho" onair="yes" repeat="7" type="mirror">
-    <display-name lang="pt">Digimon (Espelho)</display-name>
+    <display-name lang="pt">Digimon</display-name>
     <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para o digi-Mundo. E agora tentarão salvá-lo com a ajuda dos Digimon, contras forças do mal.</desc>
     <category lang="pt">Anime</category>
     <category lang="pt">Séries</category>
@@ -955,7 +936,7 @@
   </prog>
 
   <prog id="o-incrivel-hulk-espelho" onair="yes" repeat="1" type="mirror">
-    <display-name lang="pt">O Incrível Hulk (Espelho)</display-name>
+    <display-name lang="pt">O Incrível Hulk</display-name>
     <desc lang="pt">O desenho animado do monstro verde mais famoso do mundo está de volta, narrando a triste história do cientista Bruce Banner, que precisa lidar com uma poderosa fera interior: O Incrível Hulk</desc>
     <category lang="pt">Animação</category>
     <rating system="CLASSIND">
@@ -971,7 +952,7 @@
       <hour type="r" days="qua,sex">103000</hour>
     </date>
     <block>
-       <ass id="o-incrivel-hulk" eps="S01E01, S02E07"/>
+       <ass id="o-incrivel-hulk" eps="S01E01-S02E07"/>
     </block>
   </prog>
 
@@ -984,9 +965,9 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="o-retorno-da-mascara-maldita" onair="yes" repeat="1" type="event" start="20260920" show-series-title="yes" show-episode-title="yes">
+  <prog id="o-retorno-da-mascara-maldita" onair="yes" repeat="1" type="event" start="20260920">
     <display-name lang="pt">O Retorno da Máscara Maldita</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -1002,8 +983,8 @@
     </block>
   </prog>
 
-  <prog id="homem-aranha-e-seus-amigos-espelho" onair="yes" repeat="3" type="mirror">
-    <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
+  <prog id="homem-aranha-e-seus-amigos-espelho" onair="no" repeat="4" type="mirror">
+    <display-name lang="pt">Homem Aranha e Seus Amigoss</display-name>
     <desc lang="pt">O pesadelo dos mais perigosos vilões de Nova Iorque se multiplicou: o Homem Aranha não está mais sozinho, mas acompanhado pelo Homem de Gelo e a Estrela de Fogo.</desc>
     <category lang="pt">Animação</category>
     <rating system="CLASSIND">
@@ -1021,7 +1002,7 @@
       <hour type="r" days="seg,qua,sex">200000</hour>
     </date>
     <block>
-       <ass id="homem-aranha-e-seus-amigos" eps="S01E01, S03E08"/>
+       <ass id="homem-aranha-e-seus-amigos" eps="S01E01-S03E08"/>
     </block>
   </prog>
 
@@ -1040,9 +1021,9 @@
     </block>
   </prog>
 
-  <prog id="power-domingo-ashley-em-perigo" onair="yes" repeat="1" type="event" start="20260927" show-series-title="yes" show-episode-title="yes">
+  <prog id="power-domingo-ashley-em-perigo" onair="yes" repeat="1" type="event" start="20260927">
     <display-name lang="pt">Power Domingo: Ashley em Perigo!</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -1070,9 +1051,9 @@
     </block>
   </prog>
 
-  <prog id="o-lendario-domador" onair="yes" repeat="1" type="event" start="20260930" show-series-title="yes" show-episode-title="yes">
+  <prog id="o-lendario-domador" onair="yes" repeat="1" type="event" start="20260930">
     <display-name lang="pt">O Lendário Domador</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -1088,9 +1069,9 @@
     </block>
   </prog>
 
-  <prog id="eleicao-da-escola" onair="yes" repeat="1" type="event" start="20261004" show-series-title="yes" show-episode-title="yes">
+  <prog id="eleicao-da-escola" onair="yes" repeat="1" type="event" start="20261004">
     <display-name lang="pt">Eleição da Escola</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -1105,9 +1086,9 @@
     <hour type="r" days="dom">053000</hour>
   </prog>
 
-  <prog id="o-dia-das-bruxa-de-bobby" onair="yes" repeat="1" type="event" start="20261009" show-series-title="yes" show-episode-title="yes">
+  <prog id="o-dia-das-bruxa-de-bobby" onair="yes" repeat="1" type="event" start="20261009">
     <display-name lang="pt">O Dia das Bruxa de Bobby</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -1146,9 +1127,9 @@
     </block>
   </prog>
 
-  <prog id="beelzemon-vs-dukemon" onair="yes" repeat="1" type="event" start="20261012" show-series-title="yes" show-episode-title="yes">
+  <prog id="beelzemon-vs-dukemon" onair="yes" repeat="1" type="event" start="20261012">
     <display-name lang="pt">Beelzemon Vs. Dukemon</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -1177,9 +1158,9 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="32-anos-de-power-rangers" onair="yes" repeat="1" type="event" start="20261017" show-series-title="yes" show-episode-title="yes">
+  <prog id="32-anos-de-power-rangers" onair="yes" repeat="1" type="event" start="20261017">
     <display-name lang="pt">32 Anos de Power Rangers</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -1240,9 +1221,9 @@
     <length units="minutes">30</length>
   </prog>
 
-  <prog id="enfrentando-o-matador" onair="yes" repeat="1" type="event" start="20261023" show-series-title="yes" show-episode-title="yes">
+  <prog id="enfrentando-o-matador" onair="yes" repeat="1" type="event" start="20261023">
     <display-name lang="pt">Enfrentando o Matador</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -1261,9 +1242,9 @@
     </block>
   </prog>
 
-  <prog id="estreia-galaxia-perdida" onair="yes" repeat="1" type="event" start="20261103" show-series-title="yes" show-episode-title="yes">
+  <prog id="estreia-galaxia-perdida" onair="yes" repeat="1" type="event" start="20261103">
     <display-name lang="pt">Estreia: Galáxia Perdida</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
@@ -1330,9 +1311,9 @@
     <length units="minutes">30</length>
   </prog>
 
-  <prog id="halloween-da-fox-kids" onair="yes" repeat="1" type="event" start="20261031" show-series-title="yes" show-episode-title="no">
+  <prog id="halloween-da-fox-kids" onair="yes" repeat="1" type="event" start="20261031">
     <display-name lang="pt">Halloween da Fox Kids</display-name>
-    <options show-series-title="yes" show-episode-title="no">
+    <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>no</show-episode-title>
     </options>
@@ -1346,18 +1327,18 @@
     <hour type="r" days="dom">083000</hour>
     <block>
        <ass id="goosebumps" eps="S02E10"/>
-       <ass id="eek-o-gato" eps="S01E05"/>
        <ass id="os-padrinhos-magicos" eps="S02E07"/>
+       <ass id="eek-o-gato" eps="S01E05"/>
        <ass id="o-menino-de-gahan-wilson" eps="S01E01"/>
        <ass id="moville-e-seus-misterios" eps="S01E05"/>
     </block>
   </prog>
 
-  <prog id="o-desejo-de-zordon" onair="yes" repeat="1" type="event" start="20261029" show-series-title="yes" show-episode-title="yes">
+  <prog id="o-desejo-de-zordon" onair="yes" repeat="1" type="event" start="20261029">
     <display-name lang="pt">O Desejo de Zordon</display-name>
-    <options show-series-title="yes" show-episode-title="yes">
+    <options>
       <show-series-title>yes</show-series-title>
-      <show-episode-title>yes</show-episode-title>
+      <show-episode-title>no</show-episode-title>
     </options>
     <desc lang="pt">Para salvar o universo, Andros tem que escolher.</desc>
     <category lang="pt">Especial</category>
@@ -1438,6 +1419,25 @@
     <block>
        <ass id="o-caminho-para-el-dorado"/>
     </block>
+  </prog>
+
+  <prog id="homem-aranha-e-seus-amigos" onair="yes" repeat="6" start="20260703">
+    <display-name lang="pt">Homem Aranha e Seus Amigos</display-name>
+    <desc lang="pt">O pesadelo dos mais perigosos vilões de Nova Iorque se multiplicou: o Homem Aranha não está mais sozinho, mas acompanhado pelo Homem de Gelo e a Estrela de Fogo.</desc>
+    <category lang="pt">Animação</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUpQLcvDc8E7rLDTF1_kZBtxzVp7jKe2IMReuRdMpsSYeZkugqULC4lvajCroUx_0Q-BWxiDms-2WFNmShOsciYYPF_CQ-ixwJOEDfehAXmvYp8HVf0AJI2U2gjDY7OARIHQrucgdltQQ/s1600/spiderman+3.jpg" />
+    <file-prefix>homem-aranha-e-amigos</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="seg,qua,sex">133000</hour>
+    <hour type="r" days="seg,qua,sex">160000</hour>
+    <hour type="r" days="seg,ter,qui,sab">000000</hour>
+    <hour type="r" days="seg,ter,qui">033000</hour>
+    <hour type="r" days="seg,ter,qui">073000</hour>
+    <hour type="r" days="seg,qua,sex">200000</hour>
+    <weekday days="seg,qua,sex"/>
   </prog>
 
   <programme progid="digimon">
@@ -2409,6 +2409,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S02E02</episode-num>
+    <sub-title>A Mentira tem perna curta</sub-title>
     <video-files>
       <file block="a">BOBBY-02x02A.mp4</file>
       <file block="b">BOBBY-02x02B.mp4</file>
@@ -2417,6 +2418,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S02E03</episode-num>
+    <sub-title>Onde meu pai trabalha</sub-title>
     <video-files>
       <file block="a">BOBBY-02x03A.mp4</file>
       <file block="b">BOBBY-02x03B.mp4</file>
@@ -2425,6 +2427,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S02E04</episode-num>
+    <sub-title>O Clube de Bobby</sub-title>
     <video-files>
       <file block="a">BOBBY-02x04A.mp4</file>
       <file block="b">BOBBY-02x04B.mp4</file>
@@ -2433,6 +2436,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S02E05</episode-num>
+    <sub-title>O que vale é ganhar</sub-title>
     <video-files>
       <file block="a">BOBBY-02x05A.mp4</file>
       <file block="b">BOBBY-02x05B.mp4</file>
@@ -2441,6 +2445,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S02E06</episode-num>
+    <sub-title>Bobby vai a escola</sub-title>
     <video-files>
       <file block="a">BOBBY-02x06A.mp4</file>
       <file block="b">BOBBY-02x06B.mp4</file>
@@ -2449,6 +2454,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S02E07</episode-num>
+    <sub-title>O pesadelo de Bobby</sub-title>
     <video-files>
       <file block="a">BOBBY-02x07A.mp4</file>
       <file block="b">BOBBY-02x07B.mp4</file>
@@ -2457,6 +2463,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S02E08</episode-num>
+    <sub-title>O Aniversário de Bobby</sub-title>
     <video-files>
       <file block="a">BOBBY-02x08A.mp4</file>
       <file block="b">BOBBY-02x08B.mp4</file>
@@ -2465,6 +2472,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E01</episode-num>
+    <sub-title>Cai o Primeiro Dente do Bobby</sub-title>
     <video-files>
       <file block="a">BOBBY-03x01A.mp4</file>
       <file block="b">BOBBY-03x01B.mp4</file>
@@ -2473,6 +2481,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E02</episode-num>
+    <sub-title>A Mudança</sub-title>
     <video-files>
       <file block="a">BOBBY-03x02A.mp4</file>
       <file block="b">BOBBY-03x02B.mp4</file>
@@ -2481,6 +2490,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E03</episode-num>
+    <sub-title>Más Noticias</sub-title>
     <video-files>
       <file block="a">BOBBY-03x03A.mp4</file>
       <file block="b">BOBBY-03x03B.mp4</file>
@@ -2489,6 +2499,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E04</episode-num>
+    <sub-title>Quem Quer Nadar Comigo</sub-title>
     <video-files>
       <file block="a">BOBBY-03x04A.mp4</file>
       <file block="b">BOBBY-03x04B.mp4</file>
@@ -2497,6 +2508,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E05</episode-num>
+    <sub-title>Teatrinho de Faz de Conta</sub-title>
     <video-files>
       <file block="a">BOBBY-03x05A.mp4</file>
       <file block="b">BOBBY-03x05B.mp4</file>
@@ -2505,6 +2517,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E06</episode-num>
+    <sub-title>Historias de Pescador</sub-title>
     <video-files>
       <file block="a">BOBBY-03x06A.mp4</file>
       <file block="b">BOBBY-03x06B.mp4</file>
@@ -2513,6 +2526,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E07</episode-num>
+    <sub-title>A Música</sub-title>
     <video-files>
       <file block="a">BOBBY-03x07A.mp4</file>
       <file block="b">BOBBY-03x07B.mp4</file>
@@ -2521,6 +2535,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E08</episode-num>
+    <sub-title>A Miséria Adora Companhia</sub-title>
     <video-files>
       <file block="a">BOBBY-03x08A.mp4</file>
       <file block="b">BOBBY-03x08B.mp4</file>
@@ -2529,6 +2544,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E09</episode-num>
+    <sub-title>Bobby, Ligue Para Casa</sub-title>
     <video-files>
       <file block="a">BOBBY-03x09A.mp4</file>
       <file block="b">BOBBY-03x09B.mp4</file>
@@ -2537,6 +2553,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E10</episode-num>
+    <sub-title>O Irmão Mais Velho</sub-title>
     <video-files>
       <file block="a">BOBBY-03x10A.mp4</file>
       <file block="b">BOBBY-03x10B.mp4</file>
@@ -2545,6 +2562,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E11</episode-num>
+    <sub-title>A Namorada do Bobby</sub-title>
     <video-files>
       <file block="a">BOBBY-03x11A.mp4</file>
       <file block="b">BOBBY-03x11B.mp4</file>
@@ -2553,6 +2571,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S03E12</episode-num>
+    <sub-title>Eu Quero a Minha Mãe</sub-title>
     <video-files>
       <file block="a">BOBBY-03x12A.mp4</file>
       <file block="b">BOBBY-03x12B.mp4</file>
@@ -2561,6 +2580,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E01</episode-num>
+    <sub-title>O Herói</sub-title>
     <video-files>
       <file block="a">BOBBY-04x01A.mp4</file>
       <file block="b">BOBBY-04x01B.mp4</file>
@@ -2569,6 +2589,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E02</episode-num>
+    <sub-title>A Namorada do Tio Teddy</sub-title>
     <video-files>
       <file block="a">BOBBY-04x02A.mp4</file>
       <file block="b">BOBBY-04x02B.mp4</file>
@@ -2577,6 +2598,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E03</episode-num>
+    <sub-title>Bobby e Seu Acordeon</sub-title>
     <video-files>
       <file block="a">BOBBY-04x03A.mp4</file>
       <file block="b">BOBBY-04x03B.mp4</file>
@@ -2585,6 +2607,7 @@
 
   <programme progid="o-mundo-de-bobby">
     <episode-num>S04E04</episode-num>
+    <sub-title>Bobby se Apaixona</sub-title>
     <video-files>
       <file block="a">BOBBY-04x04A.mp4</file>
       <file block="b">BOBBY-04x04B.mp4</file>
@@ -3350,6 +3373,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E02</episode-num>
+    <sub-title>o Despertar das Trevas</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 02A.mp4</file>
       <file block="b">PR-Força do Animal - 02B.mp4</file>
@@ -3358,6 +3382,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E03</episode-num>
+    <sub-title>Olha o Passarinho</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 03A.mp4</file>
       <file block="b">PR-Força do Animal - 03B.mp4</file>
@@ -3366,6 +3391,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E04</episode-num>
+    <sub-title>Nunca Desista</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 04A.mp4</file>
       <file block="b">PR-Força do Animal - 04B.mp4</file>
@@ -3438,6 +3464,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E13</episode-num>
+    <sub-title>a Vingança de Zen-aku</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 13A.mp4</file>
       <file block="b">PR-Força do Animal - 13B.mp4</file>
@@ -3446,6 +3473,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E14</episode-num>
+    <sub-title>Crise de Identidade</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 14A.mp4</file>
       <file block="b">PR-Força do Animal - 14B.mp4</file>
@@ -3454,6 +3482,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E15</episode-num>
+    <sub-title>o Guerreiro Ancestral</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 15A.mp4</file>
       <file block="b">PR-Força do Animal - 15B.mp4</file>
@@ -3462,6 +3491,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E16</episode-num>
+    <sub-title>o Ranger Solitário</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 16A.mp4</file>
       <file block="b">PR-Força do Animal - 16B.mp4</file>
@@ -3470,6 +3500,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E17</episode-num>
+    <sub-title>Jogo de Poder</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 17A.mp4</file>
       <file block="b">PR-Força do Animal - 17B.mp4</file>
@@ -3478,6 +3509,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E18</episode-num>
+    <sub-title>Segredos e Mentiras</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 18A.mp4</file>
       <file block="b">PR-Força do Animal - 18B.mp4</file>
@@ -3486,6 +3518,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E19</episode-num>
+    <sub-title>o Giro Tornado</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 19A.mp4</file>
       <file block="b">PR-Força do Animal - 19B.mp4</file>
@@ -3494,6 +3527,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E20</episode-num>
+    <sub-title>Três é Demais</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 20A.mp4</file>
       <file block="b">PR-Força do Animal - 20B.mp4</file>
@@ -3502,6 +3536,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E21</episode-num>
+    <sub-title>Nos Passos do Pai</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 21A.mp4</file>
       <file block="b">PR-Força do Animal - 21B.mp4</file>
@@ -3510,6 +3545,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E22</episode-num>
+    <sub-title>Cante Uma Canção</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 22A.mp4</file>
       <file block="b">PR-Força do Animal - 22B.mp4</file>
@@ -3518,6 +3554,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E23</episode-num>
+    <sub-title>As Asas de Animaria</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 23A.mp4</file>
       <file block="b">PR-Força do Animal - 23B.mp4</file>
@@ -3526,6 +3563,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E24</episode-num>
+    <sub-title>Ajuda do Futuro - Parte 1</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 24A.mp4</file>
       <file block="b">PR-Força do Animal - 24B.mp4</file>
@@ -3534,6 +3572,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E25</episode-num>
+    <sub-title>Ajuda do Futuro - Parte 2</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 25A.mp4</file>
       <file block="b">PR-Força do Animal - 25B.mp4</file>
@@ -3542,6 +3581,7 @@
 
   <programme progid="power-rangers-forca-animal">
     <episode-num>S01E26</episode-num>
+    <sub-title>O Último Mestre</sub-title>
     <video-files>
       <file block="a">PR-Força do Animal - 26A.mp4</file>
       <file block="b">PR-Força do Animal - 26B.mp4</file>
@@ -4474,6 +4514,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S04E05</episode-num>
+    <sub-title>Parceiros</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-04x05A.mp4</file>
       <file block="b">Homem-Aranha-04x05B.mp4</file>
@@ -4482,6 +4523,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S04E06</episode-num>
+    <sub-title>O Despertar</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-04x06A.mp4</file>
       <file block="b">Homem-Aranha-04x06B.mp4</file>
@@ -4490,6 +4532,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S04E07</episode-num>
+    <sub-title>A Rainha Vampira</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-04x07A.mp4</file>
       <file block="b">Homem-Aranha-04x07B.mp4</file>
@@ -4498,6 +4541,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S04E08</episode-num>
+    <sub-title>O Retorno do Duende Verde</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-04x08A.mp4</file>
       <file block="b">Homem-Aranha-04x08B.mp4</file>
@@ -4506,6 +4550,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S04E09</episode-num>
+    <sub-title>Os Fantasmas de Mary Jane Watson</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-04x09A.mp4</file>
       <file block="b">Homem-Aranha-04x09B.mp4</file>
@@ -4514,6 +4559,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S04E10</episode-num>
+    <sub-title>O Rei Lagarto</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-04x10A.mp4</file>
       <file block="b">Homem-Aranha-04x10B.mp4</file>
@@ -4522,6 +4568,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S04E11</episode-num>
+    <sub-title>O Gatuno</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-04x11A.mp4</file>
       <file block="b">Homem-Aranha-04x11B.mp4</file>
@@ -4539,6 +4586,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S05E02</episode-num>
+    <sub-title>Os Seis Guerreiros</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-05x02A.mp4</file>
       <file block="b">Homem-Aranha-05x02B.mp4</file>
@@ -4547,6 +4595,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S05E03</episode-num>
+    <sub-title>Herança Não Reclamada</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-05x03A.mp4</file>
       <file block="b">Homem-Aranha-05x03B.mp4</file>
@@ -4555,6 +4604,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S05E04</episode-num>
+    <sub-title>Segredos dos Seis</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-05x04A.mp4</file>
       <file block="b">Homem-Aranha-05x04B.mp4</file>
@@ -4563,6 +4613,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S05E05</episode-num>
+    <sub-title>Os Seis Atacam Novamente</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-05x05A.mp4</file>
       <file block="b">Homem-Aranha-05x05B.mp4</file>
@@ -4571,6 +4622,7 @@
 
   <programme progid="homem-aranha">
     <episode-num>S05E06</episode-num>
+    <sub-title>O Preço do Heroísmo</sub-title>
     <video-files>
       <file block="a">Homem-Aranha-05x06A.mp4</file>
       <file block="b">Homem-Aranha-05x06B.mp4</file>
@@ -4637,222 +4689,6 @@
     <video-files>
       <file block="a">Homem-Aranha-05x13A.mp4</file>
       <file block="b">Homem-Aranha-05x13B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E01</episode-num>
-    <sub-title>O Triunfo de Duende Verde</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x01A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x01B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E02</episode-num>
-    <sub-title>O Crime dos Séculos</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x02A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x02B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E03</episode-num>
-    <sub-title>O Fantástico Sr. Frump!</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x03A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x03B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E04</episode-num>
-    <sub-title>Fogo Solar</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x04A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x04B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E05</episode-num>
-    <sub-title>Enxame!</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x05A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x05B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E06</episode-num>
-    <sub-title>Os sete super-heróis.</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x06A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x06B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E07</episode-num>
-    <sub-title>Vídeo-Man</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x07A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x07B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E08</episode-num>
-    <sub-title>Plano da Prisão</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x08A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x08B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E09</episode-num>
-    <sub-title>Aranha em Hollywood</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x09A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x09B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E10</episode-num>
-    <sub-title>A Vingança de Loki</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x10A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x10B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E11</episode-num>
-    <sub-title>Cavaleiros e Demônios</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x11A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x11B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E12</episode-num>
-    <sub-title>Fantoche do Rei do Crime</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x12A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x12B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S01E13</episode-num>
-    <sub-title>Em Busca do Caveira Vermelha</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-01x13A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-01x13B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S02E01</episode-num>
-    <sub-title>A Origem do Homem Gelo</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-02x01A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-02x01B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S02E02</episode-num>
-    <sub-title>A História do Aranha</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-02x02A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-02x02B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S02E03</episode-num>
-    <sub-title>Nasce a Flama</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-02x03A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-02x03B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S03E01</episode-num>
-    <sub-title>Homem Aranha Desmascarado!</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-03x01A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-03x01B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S03E02</episode-num>
-    <sub-title>A Noiva de Drácula!</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-03x02A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-03x02B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S03E03</episode-num>
-    <sub-title>A Formação  de um Super-herói</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-03x03A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-03x03B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S03E04</episode-num>
-    <sub-title>Ataque do aracnídeo</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-03x04A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-03x04B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S03E05</episode-num>
-    <sub-title>A Origem dos Amigos do Aranha</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-03x05A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-03x05B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S03E06</episode-num>
-    <sub-title>O Aranha Conhece a Garota do Amanha</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-03x06A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-03x06B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S03E07</episode-num>
-    <sub-title>A aventura dos X-Men</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-03x07A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-03x07B.mp4</file>
-    </video-files>
-  </programme>
-
-  <programme progid="homem-aranha-e-seus-amigos">
-    <episode-num>S03E08</episode-num>
-    <sub-title>Missão: Salvar o Satélite</sub-title>
-    <video-files>
-      <file block="a">Homem-Aranha-e-Amigos-03x08A.mp4</file>
-      <file block="b">Homem-Aranha-e-Amigos-03x08B.mp4</file>
     </video-files>
   </programme>
 
@@ -8144,6 +7980,7 @@
 
   <programme progid="power-rangers-na-galaxia-perdida">
     <episode-num>S01E01</episode-num>
+    <sub-title>A Busca das Espadas Quasar - Parte 1</sub-title>
     <video-files>
       <file block="a">PR-Galaxy-01A.mp4</file>
       <file block="b">PR-Galaxy-01B.mp4</file>
@@ -8152,6 +7989,7 @@
 
   <programme progid="power-rangers-na-galaxia-perdida">
     <episode-num>S01E02</episode-num>
+    <sub-title>A Busca das Espadas Quasar - Parte 2</sub-title>
     <video-files>
       <file block="a">PR-Galaxy-02A.mp4</file>
       <file block="b">PR-Galaxy-02B.mp4</file>
@@ -8160,6 +7998,7 @@
 
   <programme progid="power-rangers-na-galaxia-perdida">
     <episode-num>S01E03</episode-num>
+    <sub-title>Corrida Ao Resgate</sub-title>
     <video-files>
       <file block="a">PR-Galaxy-03A.mp4</file>
       <file block="b">PR-Galaxy-03B.mp4</file>
@@ -8168,6 +8007,7 @@
 
   <programme progid="power-rangers-na-galaxia-perdida">
     <episode-num>S01E04</episode-num>
+    <sub-title>Recruta de Vermelho</sub-title>
     <video-files>
       <file block="a">PR-Galaxy-04A.mp4</file>
       <file block="b">PR-Galaxy-04B.mp4</file>
@@ -8176,6 +8016,7 @@
 
   <programme progid="power-rangers-na-galaxia-perdida">
     <episode-num>S01E05</episode-num>
+    <sub-title>Saudade de Casa</sub-title>
     <video-files>
       <file block="a">PR-Galaxy-05A.mp4</file>
       <file block="b">PR-Galaxy-05B.mp4</file>
@@ -8184,6 +8025,7 @@
 
   <programme progid="power-rangers-na-galaxia-perdida">
     <episode-num>S01E06</episode-num>
+    <sub-title>As Luzes de Orion</sub-title>
     <video-files>
       <file block="a">PR-Galaxy-06A.mp4</file>
       <file block="b">PR-Galaxy-06B.mp4</file>
@@ -8192,6 +8034,7 @@
 
   <programme progid="power-rangers-na-galaxia-perdida">
     <episode-num>S01E07</episode-num>
+    <sub-title>Dever Em Dobro</sub-title>
     <video-files>
       <file block="a">PR-Galaxy-07A.mp4</file>
       <file block="b">PR-Galaxy-07B.mp4</file>
@@ -9179,6 +9022,222 @@
     <video-files>
       <file block="a">PR-O-Resgate-01x40A.mp4</file>
       <file block="b">PR-O-Resgate-01x40B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E01</episode-num>
+    <sub-title>O Triunfo de Duende Verde</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x01A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E02</episode-num>
+    <sub-title>O Crime dos Séculos</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x02A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E03</episode-num>
+    <sub-title>O Fantástico Sr. Frump!</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x03A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E04</episode-num>
+    <sub-title>Fogo Solar</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x04A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E05</episode-num>
+    <sub-title>Enxame!</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x05A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E06</episode-num>
+    <sub-title>Os sete super-heróis.</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x06A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E07</episode-num>
+    <sub-title>Vídeo-Man</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x07A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E08</episode-num>
+    <sub-title>Plano da Prisão</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x08A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x08B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E09</episode-num>
+    <sub-title>Aranha em Hollywood</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x09A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x09B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E10</episode-num>
+    <sub-title>A Vingança de Loki</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x10A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x10B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E11</episode-num>
+    <sub-title>Cavaleiros e Demônios</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x11A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x11B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E12</episode-num>
+    <sub-title>Fantoche do Rei do Crime</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x12A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x12B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S01E13</episode-num>
+    <sub-title>Em Busca do Caveira Vermelha</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-01x13A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-01x13B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S02E01</episode-num>
+    <sub-title>A Origem do Homem Gelo</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-02x01A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-02x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S02E02</episode-num>
+    <sub-title>A História do Aranha</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-02x02A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-02x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S02E03</episode-num>
+    <sub-title>Nasce a Flama</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-02x03A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-02x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E01</episode-num>
+    <sub-title>Homem Aranha Desmascarado!</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x01A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x01B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E02</episode-num>
+    <sub-title>A Noiva de Drácula!</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x02A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x02B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E03</episode-num>
+    <sub-title>A Formação  de um Super-herói</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x03A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x03B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E04</episode-num>
+    <sub-title>Ataque do aracnídeo</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x04A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x04B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E05</episode-num>
+    <sub-title>A Origem dos Amigos do Aranha</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x05A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x05B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E06</episode-num>
+    <sub-title>O Aranha Conhece a Garota do Amanha</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x06A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x06B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E07</episode-num>
+    <sub-title>A aventura dos X-Men</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x07A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x07B.mp4</file>
+    </video-files>
+  </programme>
+
+  <programme progid="homem-aranha-e-seus-amigos">
+    <episode-num>S03E08</episode-num>
+    <sub-title>Missão: Salvar o Satélite</sub-title>
+    <video-files>
+      <file block="a">Homem-Aranha-e-Amigos-03x08A.mp4</file>
+      <file block="b">Homem-Aranha-e-Amigos-03x08B.mp4</file>
     </video-files>
   </programme>
 
