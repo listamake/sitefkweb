@@ -1261,7 +1261,7 @@
     <icon src="https://images.mubicdn.net/images/film/309525/cache-687558-1745498629/image-w1280.jpg" />
     <file-prefix>estreiagalaxiaperdida</file-prefix>
     <length units="minutes">60</length>
-    <hour type="o" days="ter">140000</hour>
+    <hour type="o" days="dom">140000</hour>
     <block>
        <ass id="power-rangers-na-galaxia-perdida" eps="S01E01,S01E02"/>
     </block>
