@@ -543,6 +543,7 @@
        <ass id="homem-aranha"/>
        <ass id="o-incrivel-hulk"/>
        <ass id="power-rangers-forca-do-tempo"/>
+       <ass id="power-rangers-na-galaxia-perdida"/>
     </block>
   </prog>
 
@@ -1264,7 +1265,7 @@
     <desc lang="pt">A saga dos Power Rangers continua num tempo futurístico. Em uma galáxia distante, um malvado monarca chamado Scorpius ataca uma pacífica tribo das selvas.</desc>
     <desc-snippet lang="pt">A saga dos Power Rangers continua num tempo futurístico.</desc-snippet>
     <rating system="CLASSIND">
-      <value>10</value>
+      <value>A10</value>
     </rating>
     <icon src="https://images.mubicdn.net/images/film/309525/cache-687558-1745498629/image-w1280.jpg" />
     <file-prefix>powerrangersm</file-prefix>
