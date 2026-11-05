@@ -1016,6 +1016,10 @@
       <hour type="o" days="dom">120000</hour>
       <hour type="r" days="dom">190000</hour>
     </date>
+    <date start="20261213">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
     <block>
        <ass id="paulie-o-papagaio-bom-de-papo"/>
     </block>
@@ -1194,7 +1198,7 @@
       <hour type="o" days="dom">120000</hour>
       <hour type="r" days="dom">190000</hour>
     </date>
-    <date start="20261108">
+    <date start="20261206">
       <hour type="o" days="dom">120000</hour>
       <hour type="r" days="dom">190000</hour>
     </date>
@@ -1242,22 +1246,24 @@
     </block>
   </prog>
 
-  <prog id="estreia-galaxia-perdida" onair="yes" repeat="1" type="event" start="20261103">
-    <display-name lang="pt">Estreia: Galáxia Perdida</display-name>
+  <prog id="estreia-galaxia-perdida" onair="yes" repeat="1" type="event" start="20261108">
+    <display-name lang="pt">Power Domingo: Galáxia Perdida</display-name>
     <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
+    <desc lang="pt">As Espadas Quasar desperta os poderes dos novos rangres!</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
     <color>rgb(225, 29, 72);</color>
+    <icon src="https://images.mubicdn.net/images/film/309525/cache-687558-1745498629/image-w1280.jpg" />
     <file-prefix>estreiagalaxiaperdida</file-prefix>
-    <length units="minutes">30</length>
-    <hour type="o" days="ter">143000</hour>
+    <length units="minutes">60</length>
+    <hour type="o" days="ter">140000</hour>
     <block>
-       <ass id="power-rangers-na-galaxia-perdida" eps="S01E01"/>
+       <ass id="power-rangers-na-galaxia-perdida" eps="S01E01,S01E02"/>
     </block>
   </prog>
 
@@ -1268,6 +1274,7 @@
     <rating system="CLASSIND">
       <value>10</value>
     </rating>
+    <icon src="https://images.mubicdn.net/images/film/309525/cache-687558-1745498629/image-w1280.jpg" />
     <file-prefix>powerrangersm</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="ter,qui">143000</hour>
@@ -1414,7 +1421,8 @@
     <file-prefix>ocaminhoparaeldoradoespelho</file-prefix>
     <length units="minutes">120</length>
     <date start="20261108">
-      <hour type="o" days="dom">000000</hour>
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
     </date>
     <block>
        <ass id="o-caminho-para-el-dorado"/>
