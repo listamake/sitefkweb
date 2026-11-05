@@ -237,7 +237,7 @@
   <prog id="o-caminho-para-el-dorado" onair="yes" repeat="1" start="20260913">
     <display-name lang="pt">O Caminho para El Dorado</display-name>
     <category lang="pt">Movie</category>
-    <icon src="https://cinepop.com.br/wp-content/uploads/2025/08/el-dorado-4.jpg" />
+    <icon src="https://occ-0-2218-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZzIH-sQrwAwN54OIZ0Rgx8bGBgwAOQbdt28bvLT_B27J97JxlC9K8MXW5A-ur9vTp5PtS_m-gmIeqPeyROwNltwlRZuM4zww716.jpg" />
     <file-prefix>ocaminhoparaeldorado</file-prefix>
     <length units="minutes">120</length>
     <weekday days="dom"/>
@@ -318,6 +318,7 @@
        <ass id="retorno-da-familia-addams-espelho"/>
        <ass id="gasparzinho-e-wendy"/>
        <ass id="o-caminho-para-el-dorado-espelho"/>
+       <ass id="rusty-o-grande-resgate"/>
     </block>
   </prog>
 
@@ -956,15 +957,6 @@
     </block>
   </prog>
 
-  <prog id="um-ratinho-encrenqueiro-espelho" onair="yes" repeat="1" start="20260920">
-    <display-name lang="pt">Um Ratinho Encrenqueiro</display-name>
-    <desc lang="pt">O ratinho se transforma em uma ameaça para os dois irmãos que percebem que o roedor pode colocar a casa a baixo se eles não vencerem logo a batalha contra ele.</desc>
-    <category lang="pt">Movie</category>
-    <icon src="https://m.media-amazon.com/images/S/pv-target-images/204721f58aacc9287020f1b1d26ef3b515e11cc3731ccfabfdfcbf1e9830391d.jpg" />
-    <file-prefix>umratinhoencrenqueiroespelho</file-prefix>
-    <length units="minutes">120</length>
-  </prog>
-
   <prog id="o-retorno-da-mascara-maldita" onair="yes" repeat="1" type="event" start="20260920">
     <display-name lang="pt">O Retorno da Máscara Maldita</display-name>
     <options>
@@ -1016,7 +1008,7 @@
       <hour type="o" days="dom">120000</hour>
       <hour type="r" days="dom">190000</hour>
     </date>
-    <date start="20261213">
+    <date start="20261115">
       <hour type="o" days="dom">120000</hour>
       <hour type="r" days="dom">190000</hour>
     </date>
@@ -1446,6 +1438,39 @@
     <hour type="r" days="seg,ter,qui">073000</hour>
     <hour type="r" days="seg,qua,sex">200000</hour>
     <weekday days="seg,qua,sex"/>
+  </prog>
+
+  <prog id="um-ratinho-encrenqueiro-espelho" onair="yes" repeat="1" type="mirror">
+    <display-name lang="pt">Um Ratinho Encrenqueiro</display-name>
+    <desc lang="pt">O ratinho se transforma em uma ameaça para os dois irmãos que percebem que o roedor pode colocar a casa a baixo se eles não vencerem logo a batalha contra ele.</desc>
+    <category lang="pt">Movie</category>
+    <icon src="https://m.media-amazon.com/images/S/pv-target-images/204721f58aacc9287020f1b1d26ef3b515e11cc3731ccfabfdfcbf1e9830391d.jpg" />
+    <file-prefix>umratinhoencrenqueiroespelho</file-prefix>
+    <length units="minutes">120</length>
+    <date start="20260920">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
+    <date start="20261213">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
+    <weekday days="DOM"/>
+    <block>
+       <ass id="um-ratinho-encrenqueiro"/>
+    </block>
+  </prog>
+
+  <prog id="rusty-o-grande-resgate" onair="yes" repeat="1" start="20261122">
+    <display-name lang="pt">Rusty: O Grande Resgate</display-name>
+    <desc lang="pt">Rusty comanda um exército de animais na Granja Callaham para salvar Jory e Tess dos maldosos planos dos primos dos seus avós.</desc>
+    <category lang="pt">Movie</category>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
+    <icon src="https://resizing.flixster.com/164RATIpyncjotzLxgrzBFUbVCI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25105_i_h10_ab.jpg" />
+    <file-prefix>rustyogranderesgate</file-prefix>
+    <length units="minutes">120</length>
   </prog>
 
   <programme progid="digimon">
@@ -7931,11 +7956,6 @@
     </video-files>
   </programme>
 
-  <programme progid="um-ratinho-encrenqueiro-espelho">
-    <episode-num>S01E01</episode-num>
-    <sub-title>Filme Completo</sub-title>
-  </programme>
-
   <programme progid="power-rangers-o-filme">
     <episode-num>S01E01</episode-num>
     <sub-title>Filme Completo</sub-title>
@@ -9247,6 +9267,11 @@
       <file block="a">Homem-Aranha-e-Amigos-03x08A.mp4</file>
       <file block="b">Homem-Aranha-e-Amigos-03x08B.mp4</file>
     </video-files>
+  </programme>
+
+  <programme progid="rusty-o-grande-resgate">
+    <episode-num>S01E01</episode-num>
+    <sub-title>Filme Completo</sub-title>
   </programme>
 
 </catalog>
