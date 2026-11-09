@@ -1511,11 +1511,17 @@
     </options>
     <desc lang="pt">Invocando aos espíritos será invencível!</desc>
     <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
     <color>rgb(225, 29, 72);</color>
     <icon src="https://codinomesilver.wordpress.com/wp-content/uploads/2018/03/1446449287-85a0c29470a3515dd149265785d39234_qrf6.jpg?w=775" />
     <file-prefix>estreiashamanking</file-prefix>
-    <length units="minutes">120</length>
+    <length units="minutes">30</length>
     <hour type="o" days="ter">183000</hour>
+    <block>
+       <ass id="shaman-king" eps="S01E01"/>
+    </block>
   </prog>
 
   <programme progid="digimon">
