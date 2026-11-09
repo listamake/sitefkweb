@@ -1494,7 +1494,7 @@
     <hour type="r" days="qua,sex">113000</hour>
   </prog>
 
-  <prog id="maratona-shaman-king" onair="yes" type="block" start="20261121">
+  <prog id="maratona-shaman-king" onair="yes" type="block" start="20261114">
     <display-name lang="pt">Maratona: Shaman King</display-name>
     <category lang="pt">Anime</category>
     <color>rgb(255, 204, 153);</color>
