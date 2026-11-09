@@ -236,6 +236,7 @@
 
   <prog id="o-caminho-para-el-dorado" onair="yes" repeat="1" start="20260913">
     <display-name lang="pt">O Caminho para El Dorado</display-name>
+    <desc lang="pt">Tulio e Miguel são dois simpáticos vigaristas que vivem de pequenos golpes. A sorte começa a mudar quando eles ganham um mapa da cidade de El Dorado.</desc>
     <category lang="pt">Movie</category>
     <icon src="https://occ-0-2218-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZzIH-sQrwAwN54OIZ0Rgx8bGBgwAOQbdt28bvLT_B27J97JxlC9K8MXW5A-ur9vTp5PtS_m-gmIeqPeyROwNltwlRZuM4zww716.jpg" />
     <file-prefix>ocaminhoparaeldorado</file-prefix>
@@ -1491,6 +1492,30 @@
     <hour type="r" days="ter,qui">223000</hour>
     <hour type="r" days="qua,sex">070000</hour>
     <hour type="r" days="qua,sex">113000</hour>
+  </prog>
+
+  <prog id="maratona-shaman-king" onair="yes" type="block" start="20261121">
+    <display-name lang="pt">Maratona: Shaman King</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonashamanking</file-prefix>
+    <length units="minutes">90</length>
+    <hour type="o" days="sab">210000</hour>
+  </prog>
+
+  <prog id="estreia-shaman-king" onair="yes" repeat="1" type="event" start="20261110">
+    <display-name lang="pt">Estreia: Shaman King</display-name>
+    <options>
+      <show-series-title>no</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
+    <desc lang="pt">Invocando aos espíritos será invencível!</desc>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://codinomesilver.wordpress.com/wp-content/uploads/2018/03/1446449287-85a0c29470a3515dd149265785d39234_qrf6.jpg?w=775" />
+    <file-prefix>estreiashamanking</file-prefix>
+    <length units="minutes">120</length>
+    <hour type="o" days="ter">183000</hour>
   </prog>
 
   <programme progid="digimon">
