@@ -1506,8 +1506,8 @@
   <prog id="estreia-shaman-king" onair="yes" repeat="1" type="event" start="20261110">
     <display-name lang="pt">Estreia: Shaman King</display-name>
     <options>
-      <show-series-title>no</show-series-title>
-      <show-episode-title>yes</show-episode-title>
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>no</show-episode-title>
     </options>
     <desc lang="pt">Invocando aos espíritos será invencível!</desc>
     <category lang="pt">Especial</category>
