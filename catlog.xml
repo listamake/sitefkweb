@@ -147,7 +147,7 @@
     <weekday days="seg,ter,qua,qui,sex"/>
   </prog>
 
-  <prog id="oggy-e-as-baratas" onair="yes" repeat="4" start="20260706">
+  <prog id="oggy-e-as-baratas" onair="yes" repeat="6" start="20260706">
     <display-name lang="pt">Oggy e as Baratas</display-name>
     <desc lang="pt">O maior problema de Oggy são três baratas, cujo único objetivo é fazer com que sua vida se torne um pesadelo.</desc>
     <rating system="CLASSIND">
@@ -843,7 +843,7 @@
     <display-name lang="pt">Goosebumps: Fique longe do porão</display-name>
     <options>
       <show-series-title>yes</show-series-title>
-      <show-episode-title>no</show-episode-title>
+      <show-episode-title>yes</show-episode-title>
     </options>
     <desc lang="pt">Um porão pode guardar mistérios.</desc>
     <category lang="pt">Especial</category>
@@ -896,11 +896,11 @@
     </block>
   </prog>
 
-  <prog id="o-lobisomem-do-pantano" onair="yes" repeat="1" type="event" start="20260913">
+  <prog id="o-lobisomem-do-pantano" onair="yes" repeat="1" type="event" start="20261115">
     <display-name lang="pt">O Lobisomem do pântano</display-name>
     <options>
       <show-series-title>yes</show-series-title>
-      <show-episode-title>yes</show-episode-title>
+      <show-episode-title>no</show-episode-title>
     </options>
     <desc lang="pt">Uma aventura que nunca esqueceriam...</desc>
     <category lang="pt">Especial</category>
@@ -1479,6 +1479,36 @@
     <length units="minutes">120</length>
   </prog>
 
+  <prog id="maratona-shaman-king" onair="yes" type="block" start="20261114">
+    <display-name lang="pt">Maratona: Shaman King</display-name>
+    <category lang="pt">Anime</category>
+    <color>rgb(255, 204, 153);</color>
+    <file-prefix>maratonashamanking</file-prefix>
+    <length units="minutes">90</length>
+    <hour type="o" days="sab">210000</hour>
+  </prog>
+
+  <prog id="estreia-shaman-king" onair="yes" repeat="1" type="event" start="20261110">
+    <display-name lang="pt">Estreia: Shaman King</display-name>
+    <options>
+      <show-series-title>no</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
+    <desc lang="pt">Invocando aos espíritos será invencível!</desc>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A10</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://codinomesilver.wordpress.com/wp-content/uploads/2018/03/1446449287-85a0c29470a3515dd149265785d39234_qrf6.jpg?w=775" />
+    <file-prefix>estreiashamanking</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="ter">183000</hour>
+    <block>
+       <ass id="shaman-king" eps="S01E01"/>
+    </block>
+  </prog>
+
   <prog id="shaman-king" onair="yes" repeat="1" start="20261110">
     <display-name lang="pt">Shaman King</display-name>
     <desc lang="pt">Intrigas, humor e lendas sobre espiritos milenares em uma história que acontece a cada 500 anos. Não dá nem para pensar em perder, não é?</desc>
@@ -1494,33 +1524,24 @@
     <hour type="r" days="qua,sex">113000</hour>
   </prog>
 
-  <prog id="maratona-shaman-king" onair="yes" type="block" start="20261114">
-    <display-name lang="pt">Maratona: Shaman King</display-name>
-    <category lang="pt">Anime</category>
-    <color>rgb(255, 204, 153);</color>
-    <file-prefix>maratonashamanking</file-prefix>
-    <length units="minutes">90</length>
-    <hour type="o" days="sab">210000</hour>
-  </prog>
-
-  <prog id="estreia-shaman-king" onair="yes" repeat="1" type="event" start="20261110">
-    <display-name lang="pt">Estreia: Shaman King</display-name>
+  <prog id="a-forca-do-futuro" onair="yes" repeat="1" type="event" start="20261118">
+    <display-name lang="pt">A Força do Futuro</display-name>
     <options>
       <show-series-title>yes</show-series-title>
       <show-episode-title>yes</show-episode-title>
     </options>
-    <desc lang="pt">Invocando aos espíritos será invencível!</desc>
+    <desc lang="pt">A união de duas equipes decidem presente e o futuro.</desc>
     <category lang="pt">Especial</category>
     <rating system="CLASSIND">
       <value>A10</value>
     </rating>
     <color>rgb(225, 29, 72);</color>
-    <icon src="https://codinomesilver.wordpress.com/wp-content/uploads/2018/03/1446449287-85a0c29470a3515dd149265785d39234_qrf6.jpg?w=775" />
-    <file-prefix>estreiashamanking</file-prefix>
+    <icon src="https://i.ytimg.com/vi/HwVcouTJBGM/maxresdefault.jpg" />
+    <file-prefix>aforcadofuturo</file-prefix>
     <length units="minutes">30</length>
-    <hour type="o" days="ter">183000</hour>
+    <hour type="o" days="qua">143000</hour>
     <block>
-       <ass id="shaman-king" eps="S01E01"/>
+       <ass id="power-rangers-forca-animal" eps="S01E24"/>
     </block>
   </prog>
 
@@ -9423,19 +9444,19 @@
 
   <programme progid="shaman-king">
     <episode-num>S01E01</episode-num>
-    <sub-title>O Samurai que Espera</sub-title>
+    <sub-title>O Menino que dança com fantasmas</sub-title>
     <video-files>
-      <file block="a">Shaman-King-01x01A</file>
-      <file block="b">Shaman-King-01x01B</file>
+      <file block="a">Shaman-King-01x01A.mp4</file>
+      <file block="b">Shaman-King-01x01B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E02</episode-num>
-    <sub-title>O menino que dança com fantasmas</sub-title>
+    <sub-title>O Samurai que Espera</sub-title>
     <video-files>
-      <file block="a">Shaman-King-01x02A</file>
-      <file block="b">Shaman-King-01x02B</file>
+      <file block="a">Shaman-King-01x02A.mp4</file>
+      <file block="b">Shaman-King-01x02B.mp4</file>
     </video-files>
   </programme>
 
@@ -9443,8 +9464,8 @@
     <episode-num>S01E03</episode-num>
     <sub-title>O clone do xamã</sub-title>
     <video-files>
-      <file block="a">Shaman-King-01x03A</file>
-      <file block="b">Shaman-King-01x03B</file>
+      <file block="a">Shaman-King-01x03A.mp4</file>
+      <file block="b">Shaman-King-01x03B.mp4</file>
     </video-files>
   </programme>
 
@@ -9452,488 +9473,488 @@
     <episode-num>S01E04</episode-num>
     <sub-title>Força máxima</sub-title>
     <video-files>
-      <file block="a">Shaman-King-01x04A</file>
-      <file block="b">Shaman-King-01x04B</file>
+      <file block="a">Shaman-King-01x04A.mp4</file>
+      <file block="b">Shaman-King-01x04B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E05</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x05A</file>
-      <file block="b">Shaman-King-01x05B</file>
+      <file block="a">Shaman-King-01x05A.mp4</file>
+      <file block="b">Shaman-King-01x05B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E06</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x06A</file>
-      <file block="b">Shaman-King-01x06B</file>
+      <file block="a">Shaman-King-01x06A.mp4</file>
+      <file block="b">Shaman-King-01x06B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E07</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x07A</file>
-      <file block="b">Shaman-King-01x07B</file>
+      <file block="a">Shaman-King-01x07A.mp4</file>
+      <file block="b">Shaman-King-01x07B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E08</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x08A</file>
-      <file block="b">Shaman-King-01x08B</file>
+      <file block="a">Shaman-King-01x08A.mp4</file>
+      <file block="b">Shaman-King-01x08B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E09</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x09A</file>
-      <file block="b">Shaman-King-01x09B</file>
+      <file block="a">Shaman-King-01x09A.mp4</file>
+      <file block="b">Shaman-King-01x09B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E10</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x10A</file>
-      <file block="b">Shaman-King-01x10B</file>
+      <file block="a">Shaman-King-01x10A.mp4</file>
+      <file block="b">Shaman-King-01x10B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E11</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x11A</file>
-      <file block="b">Shaman-King-01x11B</file>
+      <file block="a">Shaman-King-01x11A.mp4</file>
+      <file block="b">Shaman-King-01x11B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E12</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x12A</file>
-      <file block="b">Shaman-King-01x12B</file>
+      <file block="a">Shaman-King-01x12A.mp4</file>
+      <file block="b">Shaman-King-01x12B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E13</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x13A</file>
-      <file block="b">Shaman-King-01x13B</file>
+      <file block="a">Shaman-King-01x13A.mp4</file>
+      <file block="b">Shaman-King-01x13B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E14</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x14A</file>
-      <file block="b">Shaman-King-01x14B</file>
+      <file block="a">Shaman-King-01x14A.mp4</file>
+      <file block="b">Shaman-King-01x14B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E15</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x15A</file>
-      <file block="b">Shaman-King-01x15B</file>
+      <file block="a">Shaman-King-01x15A.mp4</file>
+      <file block="b">Shaman-King-01x15B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E16</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x16A</file>
-      <file block="b">Shaman-King-01x16B</file>
+      <file block="a">Shaman-King-01x16A.mp4</file>
+      <file block="b">Shaman-King-01x16B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E17</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x17A</file>
-      <file block="b">Shaman-King-01x17B</file>
+      <file block="a">Shaman-King-01x17A.mp4</file>
+      <file block="b">Shaman-King-01x17B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E18</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x18A</file>
-      <file block="b">Shaman-King-01x18B</file>
+      <file block="a">Shaman-King-01x18A.mp4</file>
+      <file block="b">Shaman-King-01x18B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E19</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x19A</file>
-      <file block="b">Shaman-King-01x19B</file>
+      <file block="a">Shaman-King-01x19A.mp4</file>
+      <file block="b">Shaman-King-01x19B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E20</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x20A</file>
-      <file block="b">Shaman-King-01x20B</file>
+      <file block="a">Shaman-King-01x20A.mp4</file>
+      <file block="b">Shaman-King-01x20B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E21</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x21A</file>
-      <file block="b">Shaman-King-01x21B</file>
+      <file block="a">Shaman-King-01x21A.mp4</file>
+      <file block="b">Shaman-King-01x21B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E22</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x22A</file>
-      <file block="b">Shaman-King-01x22B</file>
+      <file block="a">Shaman-King-01x22A.mp4</file>
+      <file block="b">Shaman-King-01x22B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E23</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x23A</file>
-      <file block="b">Shaman-King-01x23B</file>
+      <file block="a">Shaman-King-01x23A.mp4</file>
+      <file block="b">Shaman-King-01x23B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E24</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x24A</file>
-      <file block="b">Shaman-King-01x24B</file>
+      <file block="a">Shaman-King-01x24A.mp4</file>
+      <file block="b">Shaman-King-01x24B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E25</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x25A</file>
-      <file block="b">Shaman-King-01x25B</file>
+      <file block="a">Shaman-King-01x25A.mp4</file>
+      <file block="b">Shaman-King-01x25B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E26</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x26A</file>
-      <file block="b">Shaman-King-01x26B</file>
+      <file block="a">Shaman-King-01x26A.mp4</file>
+      <file block="b">Shaman-King-01x26B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E27</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x27A</file>
-      <file block="b">Shaman-King-01x27B</file>
+      <file block="a">Shaman-King-01x27A.mp4</file>
+      <file block="b">Shaman-King-01x27B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E28</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x28A</file>
-      <file block="b">Shaman-King-01x28B</file>
+      <file block="a">Shaman-King-01x28A.mp4</file>
+      <file block="b">Shaman-King-01x28B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E29</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x29A</file>
-      <file block="b">Shaman-King-01x29B</file>
+      <file block="a">Shaman-King-01x29A.mp4</file>
+      <file block="b">Shaman-King-01x29B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E30</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x30A</file>
-      <file block="b">Shaman-King-01x30B</file>
+      <file block="a">Shaman-King-01x30A.mp4</file>
+      <file block="b">Shaman-King-01x30B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E31</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x31A</file>
-      <file block="b">Shaman-King-01x31B</file>
+      <file block="a">Shaman-King-01x31A.mp4</file>
+      <file block="b">Shaman-King-01x31B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E32</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x32A</file>
-      <file block="b">Shaman-King-01x32B</file>
+      <file block="a">Shaman-King-01x32A.mp4</file>
+      <file block="b">Shaman-King-01x32B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E33</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x33A</file>
-      <file block="b">Shaman-King-01x33B</file>
+      <file block="a">Shaman-King-01x33A.mp4</file>
+      <file block="b">Shaman-King-01x33B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E34</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x34A</file>
-      <file block="b">Shaman-King-01x34B</file>
+      <file block="a">Shaman-King-01x34A.mp4</file>
+      <file block="b">Shaman-King-01x34B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E35</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x35A</file>
-      <file block="b">Shaman-King-01x35B</file>
+      <file block="a">Shaman-King-01x35A.mp4</file>
+      <file block="b">Shaman-King-01x35B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E36</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x36A</file>
-      <file block="b">Shaman-King-01x36B</file>
+      <file block="a">Shaman-King-01x36A.mp4</file>
+      <file block="b">Shaman-King-01x36B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E37</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x37A</file>
-      <file block="b">Shaman-King-01x37B</file>
+      <file block="a">Shaman-King-01x37A.mp4</file>
+      <file block="b">Shaman-King-01x37B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E38</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x38A</file>
-      <file block="b">Shaman-King-01x38B</file>
+      <file block="a">Shaman-King-01x38A.mp4</file>
+      <file block="b">Shaman-King-01x38B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E39</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x39A</file>
-      <file block="b">Shaman-King-01x39B</file>
+      <file block="a">Shaman-King-01x39A.mp4</file>
+      <file block="b">Shaman-King-01x39B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E40</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x40A</file>
-      <file block="b">Shaman-King-01x40B</file>
+      <file block="a">Shaman-King-01x40A.mp4</file>
+      <file block="b">Shaman-King-01x40B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E41</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x41A</file>
-      <file block="b">Shaman-King-01x41B</file>
+      <file block="a">Shaman-King-01x41A.mp4</file>
+      <file block="b">Shaman-King-01x41B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E42</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x42A</file>
-      <file block="b">Shaman-King-01x42B</file>
+      <file block="a">Shaman-King-01x42A.mp4</file>
+      <file block="b">Shaman-King-01x42B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E43</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x43A</file>
-      <file block="b">Shaman-King-01x43B</file>
+      <file block="a">Shaman-King-01x43A.mp4</file>
+      <file block="b">Shaman-King-01x43B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E44</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x44A</file>
-      <file block="b">Shaman-King-01x44B</file>
+      <file block="a">Shaman-King-01x44A.mp4</file>
+      <file block="b">Shaman-King-01x44B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E45</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x45A</file>
-      <file block="b">Shaman-King-01x45B</file>
+      <file block="a">Shaman-King-01x45A.mp4</file>
+      <file block="b">Shaman-King-01x45B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E46</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x46A</file>
-      <file block="b">Shaman-King-01x46B</file>
+      <file block="a">Shaman-King-01x46A.mp4</file>
+      <file block="b">Shaman-King-01x46B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E47</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x47A</file>
-      <file block="b">Shaman-King-01x47B</file>
+      <file block="a">Shaman-King-01x47A.mp4</file>
+      <file block="b">Shaman-King-01x47B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E48</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x48A</file>
-      <file block="b">Shaman-King-01x48B</file>
+      <file block="a">Shaman-King-01x48A.mp4</file>
+      <file block="b">Shaman-King-01x48B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E49</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x49A</file>
-      <file block="b">Shaman-King-01x49B</file>
+      <file block="a">Shaman-King-01x49A.mp4</file>
+      <file block="b">Shaman-King-01x49B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E50</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x50A</file>
-      <file block="b">Shaman-King-01x50B</file>
+      <file block="a">Shaman-King-01x50A.mp4</file>
+      <file block="b">Shaman-King-01x50B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E51</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x51A</file>
-      <file block="b">Shaman-King-01x51B</file>
+      <file block="a">Shaman-King-01x51A.mp4</file>
+      <file block="b">Shaman-King-01x51B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E52</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x52A</file>
-      <file block="b">Shaman-King-01x52B</file>
+      <file block="a">Shaman-King-01x52A.mp4</file>
+      <file block="b">Shaman-King-01x52B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E53</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x53A</file>
-      <file block="b">Shaman-King-01x53B</file>
+      <file block="a">Shaman-King-01x53A.mp4</file>
+      <file block="b">Shaman-King-01x53B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E54</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x54A</file>
-      <file block="b">Shaman-King-01x54B</file>
+      <file block="a">Shaman-King-01x54A.mp4</file>
+      <file block="b">Shaman-King-01x54B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E55</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x55A</file>
-      <file block="b">Shaman-King-01x55B</file>
+      <file block="a">Shaman-King-01x55A.mp4</file>
+      <file block="b">Shaman-King-01x55B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E56</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x56A</file>
-      <file block="b">Shaman-King-01x56B</file>
+      <file block="a">Shaman-King-01x56A.mp4</file>
+      <file block="b">Shaman-King-01x56B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E57</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x57A</file>
-      <file block="b">Shaman-King-01x57B</file>
+      <file block="a">Shaman-King-01x57A.mp4</file>
+      <file block="b">Shaman-King-01x57B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E58</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x58A</file>
-      <file block="b">Shaman-King-01x58B</file>
+      <file block="a">Shaman-King-01x58A.mp4</file>
+      <file block="b">Shaman-King-01x58B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E59</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x59A</file>
-      <file block="b">Shaman-King-01x59B</file>
+      <file block="a">Shaman-King-01x59A.mp4</file>
+      <file block="b">Shaman-King-01x59B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E60</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x60A</file>
-      <file block="b">Shaman-King-01x60B</file>
+      <file block="a">Shaman-King-01x60A.mp4</file>
+      <file block="b">Shaman-King-01x60B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E61</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x61A</file>
-      <file block="b">Shaman-King-01x61B</file>
+      <file block="a">Shaman-King-01x61A.mp4</file>
+      <file block="b">Shaman-King-01x61B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E62</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x62A</file>
-      <file block="b">Shaman-King-01x62B</file>
+      <file block="a">Shaman-King-01x62A.mp4</file>
+      <file block="b">Shaman-King-01x62B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E63</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x63A</file>
-      <file block="b">Shaman-King-01x63B</file>
+      <file block="a">Shaman-King-01x63A.mp4</file>
+      <file block="b">Shaman-King-01x63B.mp4</file>
     </video-files>
   </programme>
 
   <programme progid="shaman-king">
     <episode-num>S01E64</episode-num>
     <video-files>
-      <file block="a">Shaman-King-01x64A</file>
-      <file block="b">Shaman-King-01x64B</file>
+      <file block="a">Shaman-King-01x64A.mp4</file>
+      <file block="b">Shaman-King-01x64B.mp4</file>
     </video-files>
   </programme>
 
