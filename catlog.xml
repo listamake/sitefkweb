@@ -1310,7 +1310,7 @@
     <rating system="CLASSIND">
       <value>A6</value>
     </rating>
-    <icon src="https://media.themoviedb.org/t/p/w780/7Y4ksbJq5RkprfA044wgliQQsJD.jpg" />
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymukYCjh1ebR3p6ZFJtJV4oVNpq9IRUbl5PtyxxNuB6oy6cBcL6Oih9Hm&amp;s=10" />
     <file-prefix>movilleeseusmisterios</file-prefix>
     <length units="minutes">30</length>
     <hour type="o" days="ter,qui">233000</hour>
@@ -1545,7 +1545,7 @@
     </block>
   </prog>
 
-  <prog id="sabado-aranha-guerras-secretas" onair="yes" repeat="1" type="event">
+  <prog id="sabado-aranha-guerras-secretas" onair="yes" repeat="1" type="event" start="20261121">
     <display-name lang="pt">Sábado Aranha: Guerras Secretas</display-name>
     <options>
       <show-series-title>yes</show-series-title>
@@ -1563,6 +1563,27 @@
     <hour type="o" days="sab">163000</hour>
     <block>
        <ass id="homem-aranha" eps="S05E09,S05E10"/>
+    </block>
+  </prog>
+
+  <prog id="estreia-moville-e-seus-misterios" onair="yes" repeat="1" type="event" start="20261124">
+    <display-name lang="pt">Estreia: Moville e seus Mistérios</display-name>
+    <options>
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
+    <desc lang="pt">Mosley Moville vive em uma cidade onde nada é o que parece.</desc>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>A6</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymukYCjh1ebR3p6ZFJtJV4oVNpq9IRUbl5PtyxxNuB6oy6cBcL6Oih9Hm&amp;s=10" />
+    <file-prefix>estreiamovilleeseusmisterios</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="ter">233000</hour>
+    <block>
+       <ass id="moville-e-seus-misterios" eps="S01E01"/>
     </block>
   </prog>
 
