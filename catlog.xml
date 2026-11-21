@@ -1545,6 +1545,27 @@
     </block>
   </prog>
 
+  <prog id="sabado-aranha-guerras-secretas" onair="yes" repeat="1" type="event">
+    <display-name lang="pt">Sábado Aranha: Guerras Secretas</display-name>
+    <options>
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>yes</show-episode-title>
+    </options>
+    <desc lang="pt">Madame Teia envia Peter Parker para uma realidade desconhecida.</desc>
+    <category lang="pt">Especial</category>
+    <rating system="CLASSIND">
+      <value>AL</value>
+    </rating>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2021/06/legiao_J_SAU9FpZdYe.jpg.webp" />
+    <file-prefix>sabadoaranhaguerrassecretas</file-prefix>
+    <length units="minutes">60</length>
+    <hour type="o" days="sab">163000</hour>
+    <block>
+       <ass id="homem-aranha" eps="S05E09,S05E10"/>
+    </block>
+  </prog>
+
   <programme progid="digimon">
     <episode-num>S01E01</episode-num>
     <sub-title>Férias de Verão</sub-title>
