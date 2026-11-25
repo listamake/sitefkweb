@@ -808,7 +808,7 @@
     <length units="minutes">120</length>
   </prog>
 
-  <prog id="power-domingo-merrick-vs-zen-aku" onair="yes" repeat="1" type="event" start="20260830">
+  <prog id="power-domingo-merrick-vs-zen-aku" onair="yes" repeat="1" type="event" start="20261129">
     <display-name lang="pt">Power Domingo: Merrick vs. Zen-Aku</display-name>
     <options>
       <show-series-title>yes</show-series-title>
@@ -1589,6 +1589,36 @@
     <block>
        <ass id="moville-e-seus-misterios" eps="S01E01"/>
     </block>
+  </prog>
+
+  <prog id="o-orgulho-de-impimon" onair="yes" repeat="1" type="event" start="20261127">
+    <display-name lang="pt">O Orgulho de Impimon</display-name>
+    <options>
+      <show-series-title>yes</show-series-title>
+      <show-episode-title>no</show-episode-title>
+    </options>
+    <category lang="pt">Especial</category>
+    <color>rgb(225, 29, 72);</color>
+    <icon src="https://i.pinimg.com/736x/0c/c4/be/0cc4be9f2dfb5bc0177ef6da607c396f.jpg" />
+    <file-prefix>oorgulhodeimpimon</file-prefix>
+    <length units="minutes">30</length>
+    <hour type="o" days="sex">173000</hour>
+    <block>
+       <ass id="digimon-3" eps="S03E19"/>
+    </block>
+  </prog>
+
+  <prog id="maratona-moville-e-seus-misterios" onair="yes" type="block" start="20261129">
+    <display-name lang="pt">Maratona: Moville e seus Mistérios</display-name>
+    <category lang="pt">Anime</category>
+    <rating system="CLASSIND">
+      <value>A6</value>
+    </rating>
+    <color>rgb(255, 204, 153);</color>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEmkA8rY3rE-PA7chUIFBVJyllIxwD-LRiQrbc9CAcpw&amp;s=10" />
+    <file-prefix>maratonamovilleeseusmisterios</file-prefix>
+    <length units="minutes">60</length>
+    <hour type="o" days="dom">073000</hour>
   </prog>
 
   <programme progid="digimon">
