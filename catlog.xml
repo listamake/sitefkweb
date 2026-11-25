@@ -1046,6 +1046,10 @@
       <hour type="o" days="dom">120000</hour>
       <hour type="r" days="dom">190000</hour>
     </date>
+    <date start="20261129">
+      <hour type="o" days="dom">120000</hour>
+      <hour type="r" days="dom">190000</hour>
+    </date>
     <block>
        <ass id="patlabor-o-filme"/>
     </block>
@@ -1194,7 +1198,7 @@
       <hour type="o" days="dom">120000</hour>
       <hour type="r" days="dom">190000</hour>
     </date>
-    <date start="20261206">
+    <date start="20270110">
       <hour type="o" days="dom">120000</hour>
       <hour type="r" days="dom">190000</hour>
     </date>
@@ -4088,6 +4092,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S02E14</episode-num>
+    <sub-title>A Noite dos Espantalhos</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-02x14A.mp4</file>
       <file block="b">GOOSEBUMPS-02x14B.mp4</file>
@@ -4096,6 +4101,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S02E18</episode-num>
+    <sub-title>O Monstro do Pântano</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-02x18A.mp4</file>
       <file block="b">GOOSEBUMPS-02x18B.mp4</file>
@@ -4104,6 +4110,7 @@
 
   <programme progid="goosebumps">
     <episode-num>S02E19</episode-num>
+    <sub-title>Chamando Todos os Vermes.</sub-title>
     <video-files>
       <file block="a">GOOSEBUMPS-02x19A.mp4</file>
       <file block="b">GOOSEBUMPS-02x19B.mp4</file>
@@ -8460,6 +8467,7 @@
 
   <programme progid="moville-e-seus-misterios">
     <episode-num>S01E01</episode-num>
+    <sub-title>Caçadores do Suporte Perdidos</sub-title>
     <video-files>
       <file block="a">Moville e Seus Mistérios-01x01A.mp4</file>
       <file block="b">Moville e Seus Mistérios-01x01B.mp4</file>
@@ -8468,6 +8476,7 @@
 
   <programme progid="moville-e-seus-misterios">
     <episode-num>S01E02</episode-num>
+    <sub-title>A Poltrona Reclinável</sub-title>
     <video-files>
       <file block="a">Moville e Seus Mistérios-01x02A.mp4</file>
       <file block="b">Moville e Seus Mistérios-01x02B.mp4</file>
@@ -8476,6 +8485,7 @@
 
   <programme progid="moville-e-seus-misterios">
     <episode-num>S01E03</episode-num>
+    <sub-title>O Dia que Rico Ficou Inteligente</sub-title>
     <video-files>
       <file block="a">Moville e Seus Mistérios-01x03A.mp4</file>
       <file block="b">Moville e Seus Mistérios-01x03B.mp4</file>
@@ -8484,6 +8494,7 @@
 
   <programme progid="moville-e-seus-misterios">
     <episode-num>S01E04</episode-num>
+    <sub-title>Como era verde a comida do almoço.</sub-title>
     <video-files>
       <file block="a">Moville e Seus Mistérios-01x04A.mp4</file>
       <file block="b">Moville e Seus Mistérios-01x04B.mp4</file>
